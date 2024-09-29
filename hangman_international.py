@@ -2,20 +2,35 @@ from random import choice
 from word_dictionaries import greek_words, c2_words
 
 def main():
+    language = menu()
     play_again = ""
     while play_again != "1":
-        hangman_game(c2_words)
+        hangman_game(c2_words, language)
         play_again = input("Press enter to play again or 1 and enter to quit\t")
     return print("Thank you for playing")
 
-def hangman_game(words:list):
+def menu():
+    while True:
+        language_options = {"1": "English",
+                            "2": "Greek",
+                            "3": "Russian",
+                            "4" : "Italian"}
+        language_choice = input(f"choose the language you want to play {language_options}")
+        if language_choice in language_options.keys():
+            return language_options[language_choice]
+        else:
+            print("Choose a number between 1-4 and press Enter")
+        
+def hangman_game(words:list,lang):
+    points = 70
     unknown_word = choice(words).lower()
     revealed_letters = {unknown_word[0],unknown_word[-1]}
-    print(construct_showing_word(unknown_word,revealed_letters))
+    showing_word = construct_showing_word(unknown_word,revealed_letters)
+    print(showing_word[0],"\tRevealed letters:", showing_word[1])
     remaining_letters = set(unknown_word) - revealed_letters
 
     while len(remaining_letters) !=0:
-        guessed_letter = input_letters("English")
+        guessed_letter = input_letters(lang)
 
         if guessed_letter in remaining_letters:
             remaining_letters = remaining_letters - {guessed_letter}
@@ -26,9 +41,12 @@ def hangman_game(words:list):
             print(f"The letter {guessed_letter} is already revealed")         
         else:
             print(f"The letter {guessed_letter} is not in the word")
+            points -= 10
     if len(remaining_letters) == 0:
-        print(f'Bravo you found the word {unknown_word}')
-
+        if points > 10:
+            print(f'Bravo you found the word {unknown_word} and you earned {points} points')
+        else:
+            print(f'Bravo you found the word {unknown_word} but with 0 points')
 def construct_showing_word(word: str, revealed: set = None):
     if revealed is None:
         revealed = {(word[0]), (word[-1])}
