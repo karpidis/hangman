@@ -1,0 +1,190 @@
+{
+    "dictionary_name": "Italian A1-B2 Vocabulary",
+    "words": [
+        {
+            "word": "amico",
+            "definition": "Persona con la quale si ha un rapporto di affetto reciproco.",
+            "level": "A1"
+        },
+        {
+            "word": "mangiare",
+            "definition": "Introduzione di cibo nel corpo tramite la bocca.",
+            "level": "A1"
+        },
+        {
+            "word": "libro",
+            "definition": "Raccolta di pagine stampate o scritte a mano.",
+            "level": "A1"
+        },
+        {
+            "word": "grande",
+            "definition": "Di dimensioni superiori alla media.",
+            "level": "A1"
+        },
+        {
+            "word": "casa",
+            "definition": "Edificio in cui una persona vive.",
+            "level": "A1"
+        },
+        {
+            "word": "studiare",
+            "definition": "Applicarsi a una disciplina per acquisire conoscenza.",
+            "level": "A2"
+        },
+        {
+            "word": "difficile",
+            "definition": "Che richiede molto impegno o sforzo.",
+            "level": "A2"
+        },
+        {
+            "word": "viaggio",
+            "definition": "Spostamento da un luogo a un altro.",
+            "level": "A2"
+        },
+        {
+            "word": "scrivere",
+            "definition": "Comporre un testo tramite lettere o simboli.",
+            "level": "A2"
+        },
+        {
+            "word": "lavorare",
+            "definition": "Svolgere un'attività produttiva.",
+            "level": "B1"
+        },
+        {
+            "word": "importante",
+            "definition": "Che ha grande rilevanza o valore.",
+            "level": "B1"
+        },
+        {
+            "word": "decisione",
+            "definition": "Atto del decidere una scelta o un'azione.",
+            "level": "B1"
+        },
+        {
+            "word": "esperienza",
+            "definition": "Conoscenza acquisita tramite pratica o vita vissuta.",
+            "level": "B2"
+        },
+        {
+            "word": "comunicazione",
+            "definition": "Scambio di informazioni tra persone.",
+            "level": "B2"
+        },
+        {
+            "word": "sviluppo",
+            "definition": "Processo di crescita o miglioramento.",
+            "level": "B2"
+        },
+        {
+            "word": "felice",
+            "definition": "Che prova o esprime felicità.",
+            "level": "A1"
+        },
+        {
+            "word": "scuola",
+            "definition": "Luogo in cui si impartisce istruzione.",
+            "level": "A1"
+        },
+        {
+            "word": "famiglia",
+            "definition": "Gruppo di persone legate da parentela.",
+            "level": "A1"
+        },
+        {
+            "word": "ragazzo",
+            "definition": "Giovane di sesso maschile.",
+            "level": "A1"
+        },
+        {
+            "word": "città",
+            "definition": "Centro abitato di dimensioni medio-grandi.",
+            "level": "A1"
+        },
+        {
+            "word": "piacere",
+            "definition": "Soddisfazione o appagamento.",
+            "level": "A2"
+        },
+        {
+            "word": "cercare",
+            "definition": "Tentare di trovare qualcosa o qualcuno.",
+            "level": "A2"
+        },
+        {
+            "word": "pensare",
+            "definition": "Usare la mente per elaborare idee o risolvere problemi.",
+            "level": "A2"
+        },
+        {
+            "word": "parlare",
+            "definition": "Comunicare mediante la parola.",
+            "level": "A2"
+        },
+        {
+            "word": "ascoltare",
+            "definition": "Prestare attenzione a un suono o a un discorso.",
+            "level": "B1"
+        },
+        {
+            "word": "incontro",
+            "definition": "Quando due o più persone si vedono in un luogo.",
+            "level": "B1"
+        },
+        {
+            "word": "giornale",
+            "definition": "Pubblicazione quotidiana che riporta notizie.",
+            "level": "B1"
+        },
+        {
+            "word": "politica",
+            "definition": "Attività che riguarda l'organizzazione e il governo di uno Stato.",
+            "level": "B2"
+        },
+        {
+            "word": "relazione",
+            "definition": "Rapporto o legame tra persone o cose.",
+            "level": "B2"
+        },
+        {
+            "word": "progetto",
+            "definition": "Piano o idea per realizzare qualcosa.",
+            "level": "B2"
+        },
+        {
+            "word": "vittoria",
+            "definition": "Risultato positivo di una competizione.",
+            "level": "B2"
+        },
+        {
+            "word": "libertà",
+            "definition": "Stato di essere libero, senza costrizioni.",
+            "level": "B2"
+        },
+        {
+            "word": "cultura",
+            "definition": "Insieme delle conoscenze, delle credenze e dei costumi di un popolo.",
+            "level": "B1"
+        },
+        {
+            "word": "società",
+            "definition": "Gruppo organizzato di individui che vive in un determinato territorio.",
+            "level": "B1"
+        },
+        {
+            "word": "economia",
+            "definition": "Gestione delle risorse di una comunità.",
+            "level": "B2"
+        },
+        {
+            "word": "ambiente",
+            "definition": "Il contesto naturale o artificiale in cui vivono esseri viventi.",
+            "level": "B2"
+        },
+        {
+            "word": "energia",
+            "definition": "Capacità di compiere un lavoro o produrre un effetto.",
+            "level": "B2"
+        }
+    ]
+}
