@@ -1,0 +1,37 @@
+{
+    "dictionary_name": "Sample dictionary",
+    "words": [
+        {
+            "word": "ability",
+            "definition": "The quality of being able to perform; a natural or acquired skill.",
+            "etymology": "From Old French ablet\u0393\u00a9, from Latin habilitas.",
+            "example": "She has the ability to solve complex mathematical problems.",
+            "image": "",
+            "level": "B2"
+        },
+        {
+            "word": "about",
+            "definition": "Concerning or in relation to something.",
+            "etymology": "From Old English abutan, onbutan.",
+            "example": "He talked about his experiences in the meeting.",
+            "image": "",
+            "level": "A1"
+        },
+        {
+            "word": "abroad",
+            "definition": "In or to a foreign country or countries.",
+            "etymology": "From Middle English abroad, on broad (on a wide expanse).",
+            "example": "She studied abroad for one year in France.",
+            "image": "",
+            "level": "B1"
+        },
+        {
+            "word": "absolute",
+            "definition": "Not qualified or diminished in any way; total.",
+            "etymology": "From Latin absolutus (set free, complete).",
+            "example": "She has absolute confidence in her decision.",
+            "image": "",
+            "level": "C1"
+        }
+    ]
+}
