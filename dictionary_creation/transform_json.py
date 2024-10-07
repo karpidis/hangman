@@ -1,7 +1,7 @@
 import json
 
 # Load the original JSON
-with open("Russian.json", "r") as file:
+with open("greek.json", "r", encoding="utf-8") as file:
     data = json.load(file)
 
 # Create placeholders for definition, etymology, example, and image for each word
@@ -24,7 +24,7 @@ output_data = {
 }
 
 # Save the updated JSON file with placeholders
-with open("Russian.json", "w") as file:
+with open("greek.json", "w") as file:
     json.dump(output_data, file, indent=4)
 
 print("JSON file created with placeholders for each word.")
