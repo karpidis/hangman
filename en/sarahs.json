@@ -1,0 +1,223 @@
+{
+    "dictionary_name": "Sarah's Glossary",
+    "words": [
+        {
+            "word": "friend",
+            "definition": "A person with whom one has a bond of mutual affection.",
+            "etymology": "Old English frēond, of Germanic origin; related to Dutch vriend and German Freund, from an Indo-European root meaning ‘to love’.",
+            "example": "",
+            "image": "",
+            "translation": "φίλος"
+        },
+        {
+            "word": "sit",
+            "definition": "To adopt or be in a position in which one's weight is supported by one's buttocks rather than one's feet and one's back is upright.",
+            "etymology": "Old English sittan, of Germanic origin; related to Dutch zitten and German sitzen, from an Indo-European root shared by Latin sedere ‘sit’.",
+            "example": "",
+            "image": "",
+            "translation": "κάθομαι"
+        },
+        {
+            "word": "sheep",
+            "definition": "A domesticated ruminant animal with a thick woolly coat.",
+            "etymology": "Old English sceap, of Germanic origin; related to Dutch schaap and German Schaf.",
+            "example": "",
+            "image": "",
+            "translation": "πρόβατο"
+        },
+        {
+            "word": "monkey",
+            "definition": "A small to medium-sized primate that typically has a long tail, most kinds of which live in trees in tropical countries.",
+            "etymology": "Late 16th century: of uncertain origin; perhaps from Low German or Middle Low German (via Dutch).",
+            "example": "",
+            "image": "",
+            "translation": "μαϊμού"
+        },
+        {
+            "word": "swimmer",
+            "definition": "A person or animal that swims.",
+            "etymology": "Old English swimman (verb), of Germanic origin; related to Dutch zwemmen and German schwimmen.",
+            "example": "",
+            "image": "",
+            "translation": "κολυμβητής"
+        },
+        {
+            "word": "right",
+            "definition": "Morally good, justified, or acceptable.",
+            "etymology": "Old English riht, related to Dutch recht and German Recht, from an Indo-European root shared by Latin rectus ‘ruled, straight’.",
+            "example": "",
+            "image": "",
+            "translation": "σωστό, δεξιά"
+        },
+        {
+            "word": "left",
+            "definition": "On or towards the side of a person or thing that is opposite to their right.",
+            "etymology": "Old English lyft, originally meaning ‘weak’ or ‘worthless’.",
+            "example": "",
+            "image": "",
+            "translation": "αριστερά"
+        },
+        {
+            "word": "cold",
+            "definition": "Of or at a low or relatively low temperature.",
+            "etymology": "Old English cald, of Germanic origin; related to Dutch koud and German kalt.",
+            "example": "",
+            "image": "",
+            "translation": "κρύο"
+        },
+        {
+            "word": "hot",
+            "definition": "Having a high degree of heat or a high temperature.",
+            "etymology": "Old English hāt, of Germanic origin; related to Dutch heet and German heiß.",
+            "example": "",
+            "image": "",
+            "translation": "ζεστό"
+        },
+        {
+            "word": "tall",
+            "definition": "Of great or more than average height.",
+            "etymology": "Middle English (in the sense ‘valiant, brave’): probably from Old English getæl ‘prompt, active’.",
+            "example": "",
+            "image": "",
+            "translation": "ψηλός"
+        },
+        {
+            "word": "short",
+            "definition": "Measuring a small distance from end to end.",
+            "etymology": "Old English sceort, of Germanic origin; related to Old Norse skorta ‘lack’, Dutch schort, and German Schurz ‘apron’.",
+            "example": "",
+            "image": "",
+            "translation": "κοντός"
+        },
+        {
+            "word": "thin",
+            "definition": "Having little, or too little, flesh or fat.",
+            "etymology": "Old English thynne, of Germanic origin; related to Dutch dun and German dünn.",
+            "example": "",
+            "image": "",
+            "translation": "λεπτός"
+        },
+        {
+            "word": "fat",
+            "definition": "Having a large amount of excess flesh.",
+            "etymology": "Old English fǣttian, related to fǣtt ‘well fed’ or ‘plump’.",
+            "example": "",
+            "image": "",
+            "translation": "παχύς"
+        },
+        {
+            "word": "behind",
+            "definition": "At or to the far side of (something), typically so as to be hidden by it.",
+            "etymology": "Old English behindan (adverb), bihindan (preposition), from bi ‘by’ + hindan ‘from behind’.",
+            "example": "",
+            "image": "",
+            "translation": "πίσω"
+        },
+        {
+            "word": "clean",
+            "definition": "Free from dirt, marks, or stains.",
+            "etymology": "Old English clǣne ‘free from dirt or filth’, of Germanic origin.",
+            "example": "",
+            "image": "",
+            "translation": "καθαρός"
+        },
+        {
+            "word": "wall",
+            "definition": "A continuous vertical brick or stone structure that encloses or divides an area of land.",
+            "etymology": "Old English, from Latin vallum ‘rampart’, from vallus ‘stake’.",
+            "example": "",
+            "image": "",
+            "translation": "ο τοίχος"
+        },
+        {
+            "word": "rubbish",
+            "definition": "Waste material; refuse or litter.",
+            "etymology": "Late Middle English: from Anglo-Norman French rubbous; related to rubble.",
+            "example": "",
+            "image": "",
+            "translation": "σκουπίδια"
+        },
+        {
+            "word": "street",
+            "definition": "A public road in a city or town, typically with houses and buildings on one or both sides.",
+            "etymology": "Old English strǣt, from Latin via strata ‘paved way’.",
+            "example": "",
+            "image": "",
+            "translation": "ο δρόμος"
+        },
+        {
+            "word": "throw",
+            "definition": "Propel (something) with force through the air by a movement of the arm and hand.",
+            "etymology": "Old English thrāwan ‘twist, turn’, of Germanic origin; related to Dutch draaien and German drehen.",
+            "example": "",
+            "image": "",
+            "translation": "ρίχνω"
+        },
+        {
+            "word": "cross",
+            "definition": "Go or extend across or to the other side of (a path, road, stretch of water, or area).",
+            "etymology": "Old English cros, from Old Norse kross, from Old Irish cross (influenced by Latin crux, cruc- ‘cross’).",
+            "example": "",
+            "image": "",
+            "translation": "διασχίζω"
+        },
+        {
+            "word": "station",
+            "definition": "A regular stopping place on a public transportation route.",
+            "etymology": "Middle English: from Old French, or from Latin statio(n-) ‘standing, standing firm’, from stare ‘to stand’.",
+            "example": "",
+            "image": "",
+            "translation": "στάση"
+        },
+        {
+            "word": "field",
+            "definition": "An area of open land, especially one planted with crops or pasture, typically bounded by hedges or fences.",
+            "etymology": "Old English feld (also denoting a large tract of open country), of West Germanic origin; related to Dutch veld and German Feld.",
+            "example": "",
+            "image": "",
+            "translation": "πεδίο"
+        },
+
+        {
+            "word": "computer",
+            "definition": "An electronic device for storing and processing data.",
+            "etymology": "Early 17th century (denoting a person who makes calculations): from Latin computare ‘to count or sum up’.",
+            "example": "",
+            "image": "",
+            "translation": "υπολογιστής"
+        },
+        {
+            "word": "flower",
+            "definition": "The seed-bearing part of a plant, consisting of reproductive organs (stamens and carpels) typically surrounded by a brightly coloured corolla (petals).",
+            "etymology": "Middle English flour, from Old French flor, from Latin flos, flor-.",
+            "example": "",
+            "image": "",
+            "translation": "λουλούδι"
+        },
+        {
+            "word": "shark",
+            "definition": "A long-bodied marine fish with a cartilaginous skeleton, a prominent dorsal fin, and tooth-like scales.",
+            "etymology": "Mid 16th century: probably from German Schorck, variant of Schurke ‘scoundrel’.",
+            "example": "",
+            "image": "",
+            "translation": "καρχαρίας"
+        },
+        {
+            "word": "rabbit",
+            "definition": "A burrowing, gregarious, plant-eating mammal with long ears, long hind legs, and a short tail.",
+            "etymology": "Late Middle English: apparently from Old French rabotte.",
+            "example": "",
+            "image": "",
+            "translation": "κουνέλι"
+        },
+        {
+            "word": "deer",
+            "definition": "A hoofed grazing or browsing animal, with branching antlers.",
+            "etymology": "Old English dēor ‘wild animal’, which was originally used to refer to any four-legged wild beast.",
+            "example": "",
+            "image": "",
+            "translation": "ελάφι"
+        }
+    ]
+}
+
