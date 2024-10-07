@@ -1,0 +1,245 @@
+{
+  "dictionary_name": "Spanish A1 and A2 Dictionary",
+  "words": [
+    {
+      "word": "hola",
+      "definition": "Saludo informal.",
+      "etymology": "Del latín 'holla', usado para llamar la atención.",
+      "example": "Hola, ¿cómo estás?",
+      "translation": "hello",
+      "image": ""
+    },
+    {
+      "word": "gracias",
+      "definition": "Expresión de gratitud.",
+      "etymology": "Del latín 'gratia'.",
+      "example": "Gracias por tu ayuda.",
+      "translation": "thank you",
+      "image": ""
+    },
+    {
+      "word": "por favor",
+      "definition": "Expresión usada para hacer una solicitud de manera educada.",
+      "etymology": "Del latín 'pro' y 'favor'.",
+      "example": "¿Me puedes ayudar, por favor?",
+      "translation": "please",
+      "image": ""
+    },
+    {
+      "word": "buenos días",
+      "definition": "Saludo usado en la mañana.",
+      "etymology": "Del español 'bueno' y 'día'.",
+      "example": "¡Buenos días! ¿Cómo amaneciste?",
+      "translation": "good morning",
+      "image": ""
+    },
+    {
+      "word": "adiós",
+      "definition": "Expresión de despedida.",
+      "etymology": "Del latín 'ad Deum' que significa 'a Dios'.",
+      "example": "Adiós, nos vemos mañana.",
+      "translation": "goodbye",
+      "image": ""
+    },
+    {
+      "word": "comer",
+      "definition": "Ingerir alimentos.",
+      "etymology": "Del latín 'comedere', que significa 'consumir'.",
+      "example": "Voy a comer con mi familia.",
+      "translation": "to eat",
+      "image": ""
+    },
+    {
+      "word": "beber",
+      "definition": "Ingerir líquidos.",
+      "etymology": "Del latín 'bibere'.",
+      "example": "Voy a beber agua.",
+      "translation": "to drink",
+      "image": ""
+    },
+    {
+      "word": "leer",
+      "definition": "Interpretar un texto escrito.",
+      "etymology": "Del latín 'legere'.",
+      "example": "Me gusta leer libros en español.",
+      "translation": "to read",
+      "image": ""
+    },
+    {
+      "word": "casa",
+      "definition": "Lugar donde vive una persona.",
+      "etymology": "Del latín 'casa', que significa 'choza'.",
+      "example": "Mi casa está cerca del parque.",
+      "translation": "house",
+      "image": ""
+    },
+    {
+      "word": "perro",
+      "definition": "Animal doméstico conocido como el mejor amigo del hombre.",
+      "etymology": "Del latín 'canis'.",
+      "example": "Tengo un perro que se llama Max.",
+      "translation": "dog",
+      "image": ""
+    },
+    {
+      "word": "azul",
+      "definition": "Color como el del cielo despejado.",
+      "etymology": "Del árabe 'azraq'.",
+      "example": "Mi color favorito es el azul.",
+      "translation": "blue",
+      "image": ""
+    },
+    {
+      "word": "pequeño",
+      "definition": "De tamaño reducido.",
+      "etymology": "Del latín 'piccinnus'.",
+      "example": "El gato es muy pequeño.",
+      "translation": "small",
+      "image": ""
+    },
+    {
+      "word": "grande",
+      "definition": "De tamaño considerable.",
+      "etymology": "Del latín 'grandis'.",
+      "example": "Vivo en una casa grande.",
+      "translation": "big",
+      "image": ""
+    },
+    {
+      "word": "amigo",
+      "definition": "Persona con la que se tiene una relación de afecto y confianza.",
+      "etymology": "Del latín 'amicus'.",
+      "example": "Juan es mi mejor amigo.",
+      "translation": "friend",
+      "image": ""
+    },
+    {
+      "word": "mujer",
+      "definition": "Persona de sexo femenino.",
+      "etymology": "Del latín 'mulier'.",
+      "example": "Esa mujer es muy amable.",
+      "translation": "woman",
+      "image": ""
+    },
+    {
+      "word": "hombre",
+      "definition": "Persona de sexo masculino.",
+      "etymology": "Del latín 'hominem'.",
+      "example": "El hombre está leyendo un libro.",
+      "translation": "man",
+      "image": ""
+    },
+    {
+      "word": "feliz",
+      "definition": "Que siente felicidad.",
+      "etymology": "Del latín 'felix'.",
+      "example": "Estoy muy feliz hoy.",
+      "translation": "happy",
+      "image": ""
+    },
+    {
+      "word": "triste",
+      "definition": "Que siente tristeza.",
+      "etymology": "Del latín 'tristis'.",
+      "example": "Me siento triste porque no vi a mis amigos.",
+      "translation": "sad",
+      "image": ""
+    },
+    {
+      "word": "caminar",
+      "definition": "Moverse a pie.",
+      "etymology": "Del latín 'caminare'.",
+      "example": "Voy a caminar por el parque.",
+      "translation": "to walk",
+      "image": ""
+    },
+    {
+      "word": "correr",
+      "definition": "Moverse rápidamente a pie.",
+      "etymology": "Del latín 'currere'.",
+      "example": "Me gusta correr por las mañanas.",
+      "translation": "to run",
+      "image": ""
+    },
+    {
+      "word": "agua",
+      "definition": "Sustancia líquida transparente e incolora.",
+      "etymology": "Del latín 'aqua'.",
+      "example": "Necesito beber más agua.",
+      "translation": "water",
+      "image": ""
+    },
+    {
+      "word": "sol",
+      "definition": "Estrella luminosa que proporciona luz y calor a la Tierra.",
+      "etymology": "Del latín 'sol'.",
+      "example": "El sol está muy fuerte hoy.",
+      "translation": "sun",
+      "image": ""
+    },
+    {
+      "word": "familia",
+      "definition": "Conjunto de personas unidas por vínculos de parentesco.",
+      "etymology": "Del latín 'familia'.",
+      "example": "Tengo una familia muy unida.",
+      "translation": "family",
+      "image": ""
+    },
+    {
+      "word": "trabajar",
+      "definition": "Realizar una actividad con esfuerzo.",
+      "etymology": "Del latín 'tripaliare'.",
+      "example": "Voy a trabajar en mi proyecto.",
+      "translation": "to work",
+      "image": ""
+    },
+    {
+      "word": "escuela",
+      "definition": "Lugar donde se enseña y se aprende.",
+      "etymology": "Del latín 'schola'.",
+      "example": "Mañana tengo clases en la escuela.",
+      "translation": "school",
+      "image": ""
+    },
+    {
+      "word": "noche",
+      "definition": "Periodo del día cuando no hay luz solar.",
+      "etymology": "Del latín 'nox'.",
+      "example": "Voy a dormir en la noche.",
+      "translation": "night",
+      "image": ""
+    },
+    {
+      "word": "día",
+      "definition": "Periodo de 24 horas.",
+      "etymology": "Del latín 'dies'.",
+      "example": "Hoy es un buen día.",
+      "translation": "day",
+      "image": ""
+    },
+    {
+      "word": "mañana",
+      "definition": "Parte del día desde el amanecer hasta el mediodía.",
+      "etymology": "Del latín 'mane'.",
+      "example": "Nos vemos mañana por la mañana.",
+      "translation": "morning/tomorrow",
+      "image": ""
+    },
+    {
+      "word": "amable",
+      "definition": "Que es cortés y atento.",
+      "etymology": "Del latín 'amabilis'.",
+      "example": "Ella es muy amable con todos.",
+      "translation": "kind",
+      "image": ""
+    },
+    {
+      "word": "importante",
+      "definition": "Que tiene importancia o relevancia.",
+      "etymology": "Del latín 'importans'.",
+      "example": "Es importante estudiar cada día.",
+      "translation": "important",
+      "image": ""
+    }
+  ]
+}
