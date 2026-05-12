@@ -26,18 +26,13 @@ def main():
 
 
 def menu():
+    language_options = {str(i): lang for i, lang in enumerate(languages, 1)}
     while True:
-        language_options = {"1": "English",
-                            "2": "Greek",
-                            "3": "Russian",
-                            "4": "Italian",
-                            "5": "Spanish"
-                            }
         language_choice = input(f"choose the language you want to play {language_options}:\t")
-        if language_choice in language_options.keys():
+        if language_choice in language_options:
             return language_options[language_choice]
         else:
-            print("Choose a number between 1-4 and press Enter")
+            print(f"Choose a number between 1-{len(language_options)} and press Enter")
 
 
 def read_json_create_dictionary(json_file):
@@ -102,6 +97,7 @@ def word_information(word:str, glossary: dict):
         print(f"Example: {word_info['example']}")
     else:
         #here I will use GPT in later version
+        #chatgpt_assistant.generate_missing_data(word, "English")
         return None
 
 
