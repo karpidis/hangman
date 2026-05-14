@@ -2,8 +2,21 @@ from random import choice
 import json
 import importlib
 
-languages = {"English": "en", "Greek": "gr", "Russian": "ru", "Italian": "it", "Spanish": 'es'}
-
+languages = {
+    "English": "en",
+    "French": "fr",
+    "Spanish": "es",
+    "German": "de",
+    "Japanese": "ja",
+    "Italian": "it",
+    "Korean": "ko",
+    "Mandarin": "zh",
+    "Portuguese": "pt",
+    "Russian": "ru",
+    "Arabic": "ar",
+    "Greek": "el",
+    "Swahili": "sw"
+}
 
 def main():
     total_points = 0
