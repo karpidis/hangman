@@ -72,7 +72,7 @@ def hangman_game(words: set, lang, score, glossary):
     print(showing_word[0], "\tRevealed letters:", showing_word[1])
     remaining_letters = set(unknown_word) - revealed_letters
 
-    while len(remaining_letters) != 0:
+    while points != 0 and len(remaining_letters) != 0:
         guessed_letter = input_letters(lang)
 
         if guessed_letter in remaining_letters:
@@ -88,11 +88,13 @@ def hangman_game(words: set, lang, score, glossary):
             print(showing_word[0], "\tGuessed letters:", showing_word[1])
             points -= 10
     if len(remaining_letters) == 0:
-        if points > 10:
+        if points > 0:
             print(f'Bravo you found the word {unknown_word} and you earned {points} points')
             score += points
         else:
             print(f'Bravo you found the word {unknown_word} but with 0 points')
+    else:
+        print(f'Sorry you didn\'t guess the word, it was {unknown_word}')
     word_information(unknown_word,glossary)
     return score
 
