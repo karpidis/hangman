@@ -11,7 +11,6 @@ languages = {
     "Portuguese": "pt",
     "Russian": "ru",
     "Greek": "el",
-
     "Swahili": "sw",
     "Turkish": "tr",
     "Polish": "pl"
