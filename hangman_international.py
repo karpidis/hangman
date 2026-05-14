@@ -7,15 +7,14 @@ languages = {
     "French": "fr",
     "Spanish": "es",
     "German": "de",
-    "Japanese": "ja",
     "Italian": "it",
-    "Korean": "ko",
-    "Mandarin": "zh",
     "Portuguese": "pt",
     "Russian": "ru",
-    "Arabic": "ar",
     "Greek": "el",
-    "Swahili": "sw"
+
+    "Swahili": "sw",
+    "Turkish": "tr",
+    "Polish": "pl"
 }
 
 def main():
@@ -136,6 +135,13 @@ def input_letters(lang):
         "Greek": {'α', 'β', 'γ', 'δ', 'ε', 'ζ', 'η', 'θ', 'ι', 'κ', 'λ', 'μ', 'ν',
                   'ξ', 'ο', 'π', 'ρ', 'σ', 'τ', 'υ', 'φ', 'χ', 'ψ', 'ω', 'ά', 'έ',
                   'ή', 'ί', 'ό', 'ύ', 'ώ', 'ϊ', 'ϋ', 'ς'},
+        "German": {'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j',
+                   'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't',
+                   'u', 'v', 'w', 'x', 'y', 'z', 'ä', 'ö', 'ü'},
+        "Portuguese": {'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j',
+                       'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't',
+                       'u', 'v', 'w', 'x', 'y', 'z', 'á', 'é', 'í', 'ó',
+                       'ú', 'â', 'ê', 'ô'},
         "Russian": {'а', 'б', 'в', 'г', 'д', 'е', 'ё', 'ж', 'з', 'и', 'й', 'к', 'л',
                     'м', 'н', 'о', 'п', 'р', 'с', 'т', 'у', 'ф', 'х', 'ц', 'ч', 'ш',
                     'щ', 'ъ', 'ы', 'ь', 'э', 'ю', 'я'},
@@ -145,13 +151,28 @@ def input_letters(lang):
         "Spanish": {'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm',
                     'n', 'ñ', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y',
                     'z', 'á', 'é', 'í', 'ó', 'ú', 'ü'}
-    }
+
+        "Swahili": {'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm',
+                    'n', 'o', 'p', 'r', 's', 't', 'u', 'v', 'w', 'y','z'},
+        "Turkish": {'a', 'b', 'c', 'ç', 'd', 'e', 'f', 'g', 'ğ', 'h', 'ı', 'i',
+                    'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u',
+                    'v', 'w', 'x', 'y', 'z'},
+        "Polish": {'a', 'ą', 'b', 'c', 'ć', 'd', 'e', 'ę', 'f', 'g', 'h', 'i',
+                   'j', 'k', 'l', 'ł', 'm', 'n', 'ń', 'o', 'p', 'q', 'r', 's',
+                   'ś', 't', 'u', 'v', 'w', 'x', 'y', 'z', 'ź', 'ż'},
+        "French": {'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l',
+                   'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x',
+                   'y', 'z', 'à', 'â', 'æ', 'ç', 'é', 'è', 'ê', 'ë', 'î',
+                   'ï', 'ô', 'œ', 'ù', 'û', 'ü'},
+        }
 
     valid_letters = alphabet_dict[lang]
 
     while True:
         chosen_letter = input("Please guess a letter: ").lower()
-
+        while len(chosen_letter) != 1:
+            print("Please enter only one letter.")
+            chosen_letter = input("Please guess a letter: ").lower()
         if chosen_letter in valid_letters:
             return chosen_letter
         else:
