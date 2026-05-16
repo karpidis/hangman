@@ -10,10 +10,9 @@
 - [x] `q` and `x` kept in Swahili (used in loanwords)
 
 ## Phase 2 — Game Logic
-- [ ] Track wrong guess count inside `hangman_game()`
-- [ ] At 6 wrong guesses: show all unguessed letters
-- [ ] At 6 wrong guesses: ask player to reveal word or keep playing with 0 points
-- [ ] Always show `word_information()` at the end regardless of choice
+- [x] Track wrong guess count inside `hangman_game()`
+- [x] At 6 wrong guesses: Reveals the word
+- [x] Always show `word_information()` at the end regardless of choice
 
 ## Phase 3 — Architecture Refactor
 - [ ] Separate game logic from interface (print/input calls) to prepare for Qt, web and exe
