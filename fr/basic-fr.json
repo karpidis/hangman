@@ -1,0 +1,27 @@
+{
+    "dictionary_name": "Basic French Vocabulary",
+    "words": [
+        {
+            "word": "abandonner",
+            "definition": "Cesser de s'occuper de quelque chose ou de quelqu'un. (English: abandon)",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "capacité",
+            "definition": "Aptitude à faire quelque chose. (English: ability)",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "capable",
+            "definition": "Qui a la possibilité de faire quelque chose. (English: able)",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        }
+        // ... (358 more words)
+    ]
+}
