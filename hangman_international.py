@@ -2,6 +2,17 @@ from random import choice
 import json
 import importlib
 
+HANGMAN_STAGES = [
+    "  -----\n  |   |\n  |\n  |\n  |\n  |\n__|__",
+    "  -----\n  |   |\n  |   O\n  |\n  |\n  |\n__|__",
+    "  -----\n  |   |\n  |   O\n  |   |\n  |\n  |\n__|__",
+    "  -----\n  |   |\n  |   O\n  |   |\n  |   |\n  |\n__|__",
+    "  -----\n  |   |\n  |   O\n  |   |\n  |  /|\n  |\n__|__",
+    "  -----\n  |   |\n  |   O\n  |   |\n  |  /|\\\n  |\n__|__",
+    "  -----\n  |   |\n  |   O\n  |   |\n  |  /|\\\n  |  /\n__|__",
+    "  -----\n  |   |\n  |   O\n  |   |\n  |  /|\\\n  |  / \\\n__|__",
+]
+
 languages = {
     "English": "en",
     "French": "fr",
@@ -54,9 +65,12 @@ def read_json_create_dictionary(json_file):
     # Create a dictionary where each word is a key, and its associated information is the value
     word_dict = {}
     for entry in data['words']:
-        word = entry['word']  # 'word' will always be present
-        # Create a dictionary for the remaining keys dynamically
-        word_dict[word] = {key: value for key, value in entry.items() if key != 'word'}
+        word = entry['word'].strip()
+        if len(word) < 3 or " " in word:
+            continue
+        else:
+            # Create a dictionary for the remaining keys dynamically
+            word_dict[word] = {key: value for key, value in entry.items() if key != 'word'}
 
     return word_dict
 
@@ -65,11 +79,13 @@ def read_json_create_dictionary(json_file):
 
 def hangman_game(words: set, lang, score, glossary):
     points = 70
+    wrong_guesses = 0
     words = list(words)
     unknown_word = choice(words)
     revealed_letters = {unknown_word[0], unknown_word[-1]}
     showing_word = construct_showing_word(unknown_word, revealed_letters)
-    print(showing_word[0], "\tRevealed letters:", showing_word[1])
+    print(HANGMAN_STAGES[wrong_guesses])
+    print(showing_word[0], "\tGuessed letters:", showing_word[1])
     remaining_letters = set(unknown_word) - revealed_letters
 
     while points != 0 and len(remaining_letters) != 0:
@@ -79,14 +95,18 @@ def hangman_game(words: set, lang, score, glossary):
             remaining_letters = remaining_letters - {guessed_letter}
             revealed_letters.add(guessed_letter)
             showing_word = construct_showing_word(unknown_word, revealed_letters)
+            print(HANGMAN_STAGES[wrong_guesses])
             print(showing_word[0], "\tGuessed letters:", showing_word[1])
         elif guessed_letter in revealed_letters:
             print(f"The letter {guessed_letter} is already revealed")
+            print(HANGMAN_STAGES[wrong_guesses])
             print(showing_word[0], "\tGuessed letters:", showing_word[1])
         else:
-            print(f"The letter {guessed_letter} is not in the word")
-            print(showing_word[0], "\tGuessed letters:", showing_word[1])
+            wrong_guesses += 1
             points -= 10
+            print(f"The letter {guessed_letter} is not in the word")
+            print(HANGMAN_STAGES[wrong_guesses])
+            print(showing_word[0], "\tGuessed letters:", showing_word[1])
     if len(remaining_letters) == 0:
         if points > 0:
             print(f'Bravo you found the word {unknown_word} and you earned {points} points')
