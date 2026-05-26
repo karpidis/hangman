@@ -4,7 +4,9 @@
       "Bash([ -d \"/mnt/SSD_1TB/shared_projects/hangman/$lang\" ])",
       "Bash([ -f \"/mnt/SSD_1TB/shared_projects/hangman/$lang/__init__.py\" ])",
       "Bash(python3 *)",
-      "Bash(git *)"
+      "Bash(git *)",
+      "Bash(gh api *)",
+      "WebFetch(domain:raw.githubusercontent.com)"
     ]
   }
 }

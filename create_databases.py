@@ -7,6 +7,9 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DB_ROOT = os.path.join(BASE_DIR, "db")
 MAIN_DB = os.path.join(DB_ROOT, "Main.db")
 
+# Set to True to only import files with "basic" in the filename
+BASIC_ONLY = True
+
 LANGUAGES = [
     ("English",    "en", {'a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z'}),
     ("French",     "fr", {'a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z','à','â','æ','ç','é','è','ê','ë','î','ï','ô','œ','ù','û','ü'}),
@@ -76,7 +79,8 @@ def process_language(lang_name, lang_code):
             etymology     TEXT,
             example       TEXT,
             image         TEXT,
-            translation   TEXT
+            translation   TEXT,
+            elo           INTEGER DEFAULT 1000
         );
     """)
 
@@ -91,13 +95,16 @@ def process_language(lang_name, lang_code):
         for filename in sorted(os.listdir(source_dir)):
             if not filename.endswith(".json"):
                 continue
+            if BASIC_ONLY and "basic" not in filename:
+                continue
 
             filepath = os.path.join(source_dir, filename)
             with open(filepath, encoding="utf-8") as f:
                 data = json.load(f)
 
             dict_name = data.get("dictionary_name", filename)
-            
+            default_elo = data.get("default_elo", 1000)
+
             # Register in Main.db
             main_cur.execute(
                 "INSERT INTO dictionaries (language_id, dictionary_name, source) VALUES (?, ?, ?)",
@@ -116,10 +123,11 @@ def process_language(lang_name, lang_code):
                     entry.get("example"),
                     entry.get("image"),
                     entry.get("translation"),
+                    default_elo,
                 ))
 
             lang_cur.executemany(
-                "INSERT INTO words (dictionary_id, word, definition, etymology, example, image, translation) VALUES (?,?,?,?,?,?,?)",
+                "INSERT INTO words (dictionary_id, word, definition, etymology, example, image, translation, elo) VALUES (?,?,?,?,?,?,?,?)",
                 rows
             )
             print(f"  Done: {filename} -> {lang_name}.db")
