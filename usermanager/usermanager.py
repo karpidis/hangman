@@ -1,6 +1,7 @@
 import sys
 from pathlib import Path
 from datetime import datetime
+import getpass
 
 # chess_passgen lives at the project root (hangman/)
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
@@ -70,7 +71,7 @@ def _register(username, session):
 
 def _login(user, session):
     for attempt in range(3):
-        password = input("Enter your password: ")
+        password = getpass.getpass("Password: ")
         if check_password_hash(user.password, password):
             print(f"\nWelcome back, {user.username}!")
             print(f"Wins: {user.wins}  |  High Score: {user.high_score}  |  ELO: {user.elo}\n")
