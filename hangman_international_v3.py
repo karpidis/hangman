@@ -117,7 +117,8 @@ def users_db():
 
 
 def record_game(user_id: int, language_id: int, dictionary_id: int,
-                word: str, wrong_guesses: int, points: int, revealed: bool):
+                word: str, wrong_guesses: int, points: int, revealed: bool,
+                user_elo: int = 1000, current_word_elo: int = 1000):
     """Write session + word_attempt to users.db; update word ELO in Main.db."""
 
     # sessions and word_attempts are personal data → users.db
@@ -134,10 +135,10 @@ def record_game(user_id: int, language_id: int, dictionary_id: int,
     ucon.commit()
     ucon.close()
 
-    # word_elo is universal content data → Main.db
-    # Higher wrong_guesses = harder word = ELO goes up; 0 wrong guesses = easy = ELO goes down
-    result     = wrong_guesses / 7
-    elo_change = round(K_FACTOR * (result - 0.5))
+    # Word ELO is fully symmetric with player ELO — same difr, binary result.
+    # Player won = word lost (0.0), player lost = word won (1.0)
+    word_result = 0.0 if not revealed else 1.0
+    elo_change  = round(difr(current_word_elo, user_elo, word_result, K_FACTOR))
 
     mcon = main_db()
     mcon.execute(
@@ -292,7 +293,8 @@ def main():
         elo_delta = difr(stats.elo, word_elo, 1.0 if won else 0.0, K_FACTOR)
 
         update_stats(user, db_session, lang_id, score=total_points, streak=session_streak, elo_delta=elo_delta)
-        record_game(user.id, lang_id, dictionary["id"], word, wrong_guesses, points, revealed=not won)
+        record_game(user.id, lang_id, dictionary["id"], word, wrong_guesses, points,
+                    revealed=not won, user_elo=stats.elo, current_word_elo=word_elo)
 
         stats = get_or_create_language_stats(user, db_session, lang_id)
         print(f"\nTotal points: {total_points}  |  ELO: {stats.elo} ({'+' if elo_delta >= 0 else ''}{round(elo_delta)})")
