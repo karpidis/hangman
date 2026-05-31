@@ -186,11 +186,10 @@ def menu(languages) -> dict:
         print(f"Choose a number between 1-{len(options)}")
 
 
-def hangman_game(words: dict, lang_name: str, alphabet: set) -> tuple[int, bool, str, int]:
+def hangman_game(words: dict, lang_name: str, alphabet: set, word: str) -> tuple[int, bool, str, int]:
     """Returns (points, won, word, wrong_guesses)."""
     points        = 70
     wrong_guesses = 0
-    word          = choice(list(words.keys()))
     revealed      = {word[0], word[-1]}
     remaining     = set(word) - revealed
 
@@ -297,16 +296,20 @@ def main():
     stats = show_stats(user, db_session, lang_id, lang_name, total_points, session_streak)
 
     while True:
-        points, won, word, wrong_guesses = hangman_game(words, lang_name, alphabet)
+        word       = choice(list(words.keys()))
+        word_elo   = get_word_elo(lang_id, word)
+        multiplier = points_multiplier(word_elo)
+        max_pts    = int(70 * multiplier)
+        print(f"\n  This word is worth up to {max_pts} points.")
+
+        points, won, word, wrong_guesses = hangman_game(words, lang_name, alphabet, word)
 
         if won:
             session_streak += 1
         else:
             losses += 1
 
-        word_elo   = get_word_elo(lang_id, word)
-        multiplier = points_multiplier(word_elo)
-        final_pts  = int(points * multiplier)
+        final_pts    = int(points * multiplier)
         total_points += final_pts
 
         elo_delta = difr(stats.elo, word_elo, 1.0 if won else 0.0, K_FACTOR)
@@ -316,7 +319,7 @@ def main():
                     revealed=not won, user_elo=stats.elo, current_word_elo=word_elo)
 
         stats = get_or_create_language_stats(user, db_session, lang_id)
-        print(f"\n  Points: {points} × {multiplier} = {final_pts}  |  Total: {total_points}  |  ELO: {stats.elo} ({'+' if elo_delta >= 0 else ''}{round(elo_delta)})")
+        print(f"\n  Earned: {final_pts} pts  |  Total: {total_points}  |  ELO: {stats.elo} ({'+' if elo_delta >= 0 else ''}{round(elo_delta)})")
 
         if losses >= MAX_LOSSES:
             print(f"\nGame over — {MAX_LOSSES} words not guessed. Final score: {total_points}  |  Streak: {session_streak}")
