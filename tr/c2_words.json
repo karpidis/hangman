@@ -1,0 +1,2277 @@
+{
+    "dictionary_name": "C2 Kelime Sözlüğü",
+    "words": [
+        {
+            "word": "sapma",
+            "translation": "aberration",
+            "definition": "Normalden, alışılmıştan veya beklenenden sapma, genellikle istenmeyen bir sapma.",
+            "etymology": "Late 16th century: from Latin 'aberratio(n-)', from the verb 'aberrare', from 'ab-' away + 'errare' to stray.",
+            "example": "The storm was an aberration from the usual weather pattern.",
+            "image": ""
+        },
+        {
+            "word": "nefret etmek",
+            "translation": "abhor",
+            "definition": "Tiksinti ve nefretle bakmak.",
+            "etymology": "Late Middle English: from Latin 'abhorrere', from 'ab-' away from + 'horrere' to shudder.",
+            "example": "She abhors violence of any kind.",
+            "image": ""
+        },
+        {
+            "word": "inkâr",
+            "translation": "abnegation",
+            "definition": "Bir şeyi reddetme veya vazgeçme eylemi; kendini inkâr etme.",
+            "etymology": "Late Middle English, from Latin 'abnegatio(n-)' from 'abnegare', from 'ab-' away + 'negare' deny.",
+            "example": "His life of abnegation and austerity was quite admirable.",
+            "image": ""
+        },
+        {
+            "word": "iptal etmek",
+            "translation": "abrogate",
+            "definition": "(Bir yasayı, hakkı veya resmi anlaşmayı) yürürlükten kaldırmak veya ortadan kaldırmak.",
+            "etymology": "Early 16th century, from Latin 'abrogat-', 'abrogare', from 'ab-' away, 'rogare' to propose (a law).",
+            "example": "The government decided to abrogate the outdated law.",
+            "image": ""
+        },
+        {
+            "word": "firar etmek",
+            "translation": "abscond",
+            "definition": "Tespit edilmekten veya tutuklanmaktan kaçınmak için aceleyle ve gizlice ayrılmak.",
+            "etymology": "Mid 16th century, from Latin 'abscondere' to hide away, from 'abs-' away + 'condere' to stow.",
+            "example": "The thief absconded with the stolen jewels.",
+            "image": ""
+        },
+        {
+            "word": "anlaşılması güç",
+            "translation": "abstruse",
+            "definition": "Anlaşılması zor; anlaşılması güç.",
+            "etymology": "Early 17th century, from Latin 'abstrusus', past participle of 'abstrudere' to conceal, from 'ab-' away + 'trudere' to push.",
+            "example": "The professor's lectures were so abstruse that many students gave up.",
+            "image": ""
+        },
+        {
+            "word": "övgü",
+            "translation": "accolade",
+            "definition": "Özel bir onur veya liyakat takdiri olarak verilen bir ödül veya ayrıcalık.",
+            "etymology": "Early 17th century, from French, from Provençal 'acolada', based on Latin 'ad-' to + 'collum' neck (referring to the ceremonial embrace conferred by a king when knighting someone).",
+            "example": "She received accolades from critics and fans alike.",
+            "image": ""
+        },
+        {
+            "word": "sert",
+            "translation": "acrimonious",
+            "definition": "Öfkeli ve kırgın (genellikle konuşma veya tartışma için).",
+            "etymology": "Early 17th century, from acrimony + -ous.",
+            "example": "Their acrimonious divorce proceedings dragged on for years.",
+            "image": ""
+        },
+        {
+            "word": "zekâ",
+            "translation": "acumen",
+            "definition": "Genellikle belirli bir alanda doğru değerlendirmeler yapabilme ve hızlı kararlar verebilme yeteneği.",
+            "etymology": "Late 16th century, from Latin 'acumen' meaning sharpness, from 'acuere' to sharpen.",
+            "example": "His business acumen led the company to success.",
+            "image": ""
+        },
+        {
+            "word": "uyarmak",
+            "translation": "admonish",
+            "definition": "Birini sert bir şekilde uyarmak veya azarlamak.",
+            "etymology": "Middle English, from Old French 'admonester', based on Latin 'admonere', from 'ad-' to + 'monere' to warn.",
+            "example": "She admonished him for his rudeness.",
+            "image": ""
+        },
+        {
+            "word": "övgü",
+            "translation": "adulation",
+            "definition": "Aşırı hayranlık veya övgü.",
+            "etymology": "Late Middle English, from Latin 'adulatio(n-)' from 'adulari' to fawn on.",
+            "example": "The star enjoyed the adulation of his fans.",
+            "image": ""
+        },
+        {
+            "word": "kalkan",
+            "translation": "aegis",
+            "definition": "Belirli bir kişi veya kuruluşun koruması, desteği veya himayesi.",
+            "etymology": "Early 17th century, via Latin from Greek 'aigis', meaning shield of Zeus.",
+            "example": "The project was developed under the aegis of the university.",
+            "image": ""
+        },
+        {
+            "word": "nazik",
+            "translation": "affable",
+            "definition": "Arkadaş canlısı, iyi huylu veya konuşması kolay.",
+            "etymology": "Late Middle English, from Latin 'affabilis', from 'ad-' to + 'fari' to speak.",
+            "example": "He was an affable and agreeable companion.",
+            "image": ""
+        },
+        {
+            "word": "varlıklı",
+            "translation": "affluent",
+            "definition": "Çok paraya sahip olmak; varlıklı olmak.",
+            "etymology": "Late Middle English, from Latin 'affluent-', 'affluere', from 'ad-' to + 'fluere' to flow.",
+            "example": "The affluent neighbourhood was full of mansions and luxury cars.",
+            "image": ""
+        },
+        {
+            "word": "büyütmek",
+            "translation": "aggrandize",
+            "definition": "Birinin gücünü, statüsünü veya zenginliğini artırmak.",
+            "etymology": "Mid 17th century, from French 'agrandiss-' (from the verb 'agrandir', based on Latin 'grandis' large).",
+            "example": "The politician used every opportunity to aggrandize his position.",
+            "image": ""
+        },
+        {
+            "word": "çeviklik",
+            "translation": "alacrity",
+            "definition": "Canlı ve neşeli bir hazırlık.",
+            "etymology": "Late Middle English, from Latin 'alacritas', from 'alacer' lively, eager.",
+            "example": "She accepted the invitation with alacrity.",
+            "image": ""
+        },
+        {
+            "word": "özgecilik",
+            "translation": "altruism",
+            "definition": "Başkalarının iyiliğini karşılıksız olarak önemseme inancı veya uygulaması.",
+            "etymology": "Mid 19th century, from French 'altruisme', from 'autrui' meaning 'other people'.",
+            "example": "Her altruism was evident in her volunteer work.",
+            "image": ""
+        },
+        {
+            "word": "birleştirmek",
+            "translation": "amalgamate",
+            "definition": "Tek bir organizasyon veya yapı oluşturmak üzere birleşmek veya bir araya gelmek.",
+            "etymology": "Early 17th century, from medieval Latin 'amalgamat-', from the verb 'amalgamare', from 'amalgama'.",
+            "example": "The two companies amalgamated to increase their market share.",
+            "image": ""
+        },
+        {
+            "word": "düzeltmek",
+            "translation": "ameliorate",
+            "definition": "(Kötü veya tatmin edici olmayan bir şeyi) daha iyi hale getirmek.",
+            "etymology": "Late 18th century, from Latin 'meliorare', from 'melior' better.",
+            "example": "The reforms were designed to ameliorate the situation.",
+            "image": ""
+        },
+        {
+            "word": "uygun",
+            "translation": "amenable",
+            "definition": "Önerilere açık ve duyarlı; kolayca ikna edilebilen veya kontrol edilebilen.",
+            "etymology": "Late 16th century, from Old French 'amener' bring to, from 'a-' (from Latin 'ad-' to) + 'mener' to lead.",
+            "example": "The patients were amenable to treatment.",
+            "image": ""
+        },
+        {
+            "word": "anakronizm",
+            "translation": "anachronism",
+            "definition": "Var olduğu dönemden farklı bir döneme ait olan veya o döneme uygun olan bir şey.",
+            "etymology": "Mid 17th century, from Greek 'anakhronismos', from 'ana-' back + 'khronos' time.",
+            "example": "The sword in the modern-day film was an anachronism.",
+            "image": ""
+        },
+        {
+            "word": "lanet",
+            "translation": "anathema",
+            "definition": "Kişinin şiddetle hoşlanmadığı bir şey veya bir kişi.",
+            "etymology": "Early 16th century, from ecclesiastical Latin, 'excommunicated', from Greek 'anathema' meaning 'an offering' or 'something dedicated'.",
+            "example": "Violence was anathema to his beliefs.",
+            "image": ""
+        },
+        {
+            "word": "ek",
+            "translation": "annex",
+            "definition": "Bir belgeye ek veya ikincil bir parça olarak eklemek veya ilave etmek, özellikle bir belgeye.",
+            "etymology": "Late Middle English, from Old French 'annexer', from Latin 'annectere' to tie or bind.",
+            "example": "The treaty was annexed to the agreement.",
+            "image": ""
+        },
+        {
+            "word": "antipati",
+            "translation": "antipathy",
+            "definition": "Derinlere kök salmış bir tiksinti duygusu.",
+            "etymology": "Late 16th century, from French 'antipathie', from Latin 'antipathia', from Greek 'antipatheia', from 'anti-' against + 'pathos' feeling.",
+            "example": "His antipathy towards authority figures was well known.",
+            "image": ""
+        },
+        {
+            "word": "ilgisiz",
+            "translation": "apathetic",
+            "definition": "İlgi, coşku veya kaygı göstermemek veya hissetmemek.",
+            "etymology": "Mid 18th century, from Greek 'apatheia', from 'apathēs' without feeling, from 'a-' without + 'pathos' emotion.",
+            "example": "The voters were apathetic about the upcoming election.",
+            "image": ""
+        },
+        {
+            "word": "apokrif",
+            "translation": "apocryphal",
+            "definition": "Doğruluğu şüpheli olmakla birlikte, yaygın olarak doğruymuş gibi yayılmıştır.",
+            "etymology": "Mid 16th century, from ecclesiastical Latin 'apocryphus', from Greek 'apokruphos' meaning hidden or secret.",
+            "example": "The apocryphal story spread quickly through the town.",
+            "image": ""
+        },
+        {
+            "word": "adlandırma",
+            "translation": "appellation",
+            "definition": "Bir isim veya unvan.",
+            "etymology": "Late Middle English, from Old French, from Latin 'appellatio(n-)', from 'appellare' meaning to address.",
+            "example": "He earned the appellation of 'the Great' due to his achievements.",
+            "image": ""
+        },
+        {
+            "word": "onay",
+            "translation": "approbation",
+            "definition": "Onay veya övgü.",
+            "etymology": "Late Middle English, from Latin 'approbatio(n-)', from 'approbare' to approve.",
+            "example": "The plan won the approbation of all the staff.",
+            "image": ""
+        },
+        {
+            "word": "keyfi",
+            "translation": "arbitrary",
+            "definition": "Herhangi bir nedene veya sisteme bağlı olmaksızın, rastgele seçim veya kişisel hevese dayalı.",
+            "etymology": "Late Middle English, from Latin 'arbitrarius', from 'arbiter' judge, supreme ruler.",
+            "example": "His arbitrary decision left everyone confused.",
+            "image": ""
+        },
+        {
+            "word": "gizemli",
+            "translation": "arcane",
+            "definition": "Az kişi tarafından anlaşılan; gizemli veya sır niteliğinde.",
+            "etymology": "Mid 16th century, from Latin 'arcanus' meaning secret, from 'arca' chest.",
+            "example": "The rituals of the cult were arcane and inscrutable.",
+            "image": ""
+        },
+        {
+            "word": "tespit etmek",
+            "translation": "ascertain",
+            "definition": "Bir şeyi kesin olarak öğrenmek; emin olmak.",
+            "etymology": "Late Middle English, from Old French 'acertener', based on Latin 'certus' settled, sure.",
+            "example": "An attempt to ascertain the cause of the accident.",
+            "image": ""
+        },
+        {
+            "word": "sertlik",
+            "translation": "asperity",
+            "definition": "Ses tonunun veya tavrın sertliği.",
+            "etymology": "Middle English, from Old French 'asperite', from Latin 'asperitas', from 'asper' rough.",
+            "example": "He pointed out the flaws with some asperity.",
+            "image": ""
+        },
+        {
+            "word": "gayretli",
+            "translation": "assiduous",
+            "definition": "Büyük bir özen ve azim göstererek.",
+            "etymology": "Mid 16th century, from Latin 'assiduus', from 'assidere' to attend to.",
+            "example": "She was assiduous in her duties, ensuring everything was perfect.",
+            "image": ""
+        },
+        {
+            "word": "iltica",
+            "translation": "asylum",
+            "definition": "Bir ülkenin, siyasi mülteci olarak anavatanını terk eden bir kişiye sağladığı koruma.",
+            "etymology": "Late Middle English, via Latin from Greek 'asulon', from 'a-' without + 'sulon' right of seizure.",
+            "example": "The political dissident sought asylum in a neighbouring country.",
+            "image": ""
+        },
+        {
+            "word": "zayıflatmak",
+            "translation": "attenuate",
+            "definition": "Bir şeyin gücünü, etkisini veya değerini azaltmak.",
+            "etymology": "Late Middle English, from Latin 'attenuatus', past participle of 'attenuare' meaning to make thin.",
+            "example": "The drug's effect was attenuated by the consumption of alcohol.",
+            "image": ""
+        },
+        {
+            "word": "cesur",
+            "translation": "audacious",
+            "definition": "Şaşırtıcı derecede cesur riskler alma isteği göstermek.",
+            "etymology": "Mid 16th century, from Latin 'audax', from 'audere' meaning to dare.",
+            "example": "Her audacious decision paid off.",
+            "image": ""
+        },
+        {
+            "word": "artırmak",
+            "translation": "augment",
+            "definition": "Bir şeye ekleme yaparak onu büyütmek; artırmak.",
+            "etymology": "Late Middle English, from Old French 'augmenter', from late Latin 'augmentare', from 'augere' to increase.",
+            "example": "He augmented his income by working overtime.",
+            "image": ""
+        },
+        {
+            "word": "sade",
+            "translation": "austere",
+            "definition": "Tavır, tutum veya görünüş olarak sert veya katı.",
+            "etymology": "Middle English, from Old French 'austere', from Latin 'austerus', from Greek 'austēros' severe.",
+            "example": "The austere teacher rarely smiled.",
+            "image": ""
+        },
+        {
+            "word": "açgözlülük",
+            "translation": "avarice",
+            "definition": "Servet veya maddi kazanç için aşırı hırs.",
+            "etymology": "Middle English, from Old French 'avarice', from Latin 'avaritia', from 'avarus' greedy.",
+            "example": "His life was driven by avarice.",
+            "image": ""
+        },
+        {
+            "word": "aksiyom",
+            "translation": "axiom",
+            "definition": "Doğruluğu kanıtlanmış, kabul edilmiş veya apaçık doğru olarak kabul edilen bir ifade veya önerme.",
+            "etymology": "Late 15th century, from French 'axiome', or via late Latin from Greek 'axiōma' that which is thought worthy or fit, from 'axios' worthy.",
+            "example": "It is an axiom that supply equals demand.",
+            "image": ""
+        },
+        {
+            "word": "uğursuz",
+            "translation": "baleful",
+            "definition": "Zarar verme tehdidinde bulunmak; tehditkar olmak.",
+            "etymology": "Old English 'bealoful', from 'bealu' evil + 'ful'.",
+            "example": "She gave him a baleful glance.",
+            "image": ""
+        },
+        {
+            "word": "kale",
+            "translation": "bastion",
+            "definition": "Bir sur yapısının, duvar hattına açılı olarak inşa edilmiş çıkıntılı kısmı.",
+            "etymology": "Late 16th century, from French, from Italian 'bastire' to build.",
+            "example": "The bastion stood strong against the attacking forces.",
+            "image": ""
+        },
+        {
+            "word": "inan",
+            "translation": "belie",
+            "definition": "Bir şey hakkında doğru bir fikir veya izlenim vermemek; gizlemek veya çelişmek.",
+            "etymology": "Old English 'belēogan' meaning to deceive by lying, from 'be-' about + 'lēogan' to lie.",
+            "example": "His calm manner belied his inner turmoil.",
+            "image": ""
+        },
+        {
+            "word": "hayırsever",
+            "translation": "benevolent",
+            "definition": "İyi niyetli ve nazik.",
+            "etymology": "Late Middle English, from Latin 'benevolent-', from 'bene' well + 'velle' to wish.",
+            "example": "The benevolent stranger offered to pay for the groceries.",
+            "image": ""
+        },
+        {
+            "word": "iyi huylu",
+            "translation": "benign",
+            "definition": "Nazik ve kibar.",
+            "etymology": "Middle English, from Old French 'benigne', from Latin 'benignus', from 'bene' well + 'genus' born.",
+            "example": "The old man had a benign smile.",
+            "image": ""
+        },
+        {
+            "word": "vasiyet etmek",
+            "translation": "bequeath",
+            "definition": "Bir vasiyetname ile (kişisel mal varlığını veya bedenini) bir kişiye veya başka bir mirasçıya bırakmak.",
+            "etymology": "Old English 'becwethan' meaning to declare or give by will.",
+            "example": "He bequeathed his entire estate to his daughter.",
+            "image": ""
+        },
+        {
+            "word": "dolandırıcılık",
+            "translation": "bilk",
+            "definition": "Birinden haksız veya hileli yollarla para almak veya alıkoymak; dolandırmak veya kandırmak.",
+            "etymology": "Mid 17th century (originally denoting a hoax or trick): probably a variant of 'balk'.",
+            "example": "The fraudster bilked investors out of millions.",
+            "image": ""
+        },
+        {
+            "word": "tatlı dil",
+            "translation": "blandishment",
+            "definition": "Birini bir şey yapmaya nazikçe ikna etmek için kullanılan, iltifat niteliğinde veya hoş bir ifade veya eylem.",
+            "etymology": "Late Middle English, from Old French 'blandir', from Latin 'blandus' flattering.",
+            "example": "She used all her blandishments to get her way.",
+            "image": ""
+        },
+        {
+            "word": "gösterişli",
+            "translation": "bombastic",
+            "definition": "Kulağa hoş gelen ama anlamı az olan; abartılı.",
+            "etymology": "Late Middle English, from Old French 'bombace' meaning 'cotton padding', used in an earlier sense of 'pompous speech'.",
+            "example": "His bombastic speech was full of exaggerated claims.",
+            "image": ""
+        },
+        {
+            "word": "nimet",
+            "translation": "boon",
+            "definition": "Faydalı veya yararlı olan bir şey.",
+            "etymology": "Middle English, from Old Norse 'bón' prayer.",
+            "example": "The donation was a great boon to the charity.",
+            "image": ""
+        },
+        {
+            "word": "kaba",
+            "translation": "brusque",
+            "definition": "Konuşmada veya davranışta ani veya düşüncesiz.",
+            "etymology": "Mid 17th century, from French 'brusque', from Italian 'brusco' meaning 'sour'.",
+            "example": "His brusque manner sometimes offends people.",
+            "image": ""
+        },
+        {
+            "word": "kibirli",
+            "translation": "bumptious",
+            "definition": "Sinir bozucu derecede kendine güvenen.",
+            "etymology": "Early 19th century, from 'bump' + '-tious'.",
+            "example": "His bumptious attitude alienated his colleagues.",
+            "image": ""
+        },
+        {
+            "word": "parlatmak",
+            "translation": "burnish",
+            "definition": "(Özellikle metal gibi) bir şeyi ovalayarak parlatmak.",
+            "etymology": "Middle English, from Old French 'burniss-', lengthened stem of 'burnir', based on late Latin 'burinire' to polish.",
+            "example": "He burnished the silver until it shone.",
+            "image": ""
+        },
+        {
+            "word": "payanda",
+            "translation": "buttress",
+            "definition": "Bir duvarı güçlendirmek veya desteklemek amacıyla duvara bitişik olarak inşa edilen taş veya tuğla yapı.",
+            "etymology": "Middle English, from Old French 'boterace', from 'boter' to strike or butt.",
+            "example": "The cathedral’s walls were supported by massive buttresses.",
+            "image": ""
+        },
+        {
+            "word": "kakofoni",
+            "translation": "cacophony",
+            "definition": "Sert, uyumsuz bir ses karışımı.",
+            "etymology": "Mid 17th century, from Greek 'kakophōnia', from 'kakophōnos' meaning 'ill-sounding', from 'kakos' bad + 'phōnē' voice.",
+            "example": "The cacophony of car horns filled the air.",
+            "image": ""
+        },
+        {
+            "word": "ceset",
+            "translation": "cadaverous",
+            "definition": "Çok soluk, zayıf veya kemikli olması bakımından cesede benzeyen.",
+            "etymology": "Late 16th century, from Latin 'cadaver' corpse.",
+            "example": "His cadaverous appearance alarmed his friends.",
+            "image": ""
+        },
+        {
+            "word": "nasır",
+            "translation": "callous",
+            "definition": "Başkalarına karşı duyarsız ve acımasız bir kayıtsızlık göstermek veya sergilemek.",
+            "etymology": "Late Middle English, from Latin 'callosus' meaning hard-skinned.",
+            "example": "His callous disregard for others' feelings was shocking.",
+            "image": ""
+        },
+        {
+            "word": "iftira",
+            "translation": "calumny",
+            "definition": "Birinin itibarını zedelemek amacıyla onun hakkında yanlış ve iftira niteliğinde açıklamalar yapmak.",
+            "etymology": "Late Middle English, from Latin 'calumnia' meaning 'false statement'.",
+            "example": "He was the victim of calumny from his political opponents.",
+            "image": ""
+        },
+        {
+            "word": "dostluk",
+            "translation": "camaraderie",
+            "definition": "Birlikte çok zaman geçiren insanlar arasında karşılıklı güven ve dostluk.",
+            "etymology": "Mid 19th century, from French, from 'camarade' meaning comrade.",
+            "example": "The camaraderie among the team members was palpable.",
+            "image": ""
+        },
+        {
+            "word": "dürüstlük",
+            "translation": "candor",
+            "definition": "İfadede açık ve dürüst olma niteliği; samimiyet.",
+            "etymology": "Late Middle English, from Latin 'candor' meaning 'whiteness'.",
+            "example": "His candor in discussing the issue was refreshing.",
+            "image": ""
+        },
+        {
+            "word": "teslim olmak",
+            "translation": "capitulate",
+            "definition": "Bir rakibe veya istenmeyen bir talebe karşı direnmeyi bırakmak; teslim olmak.",
+            "etymology": "Mid 16th century, from French 'capituler', from medieval Latin 'capitulare', from 'capitulum' chapter (so called because agreements were formally divided into sections).",
+            "example": "The army capitulated after losing the battle.",
+            "image": ""
+        },
+        {
+            "word": "kaprisli",
+            "translation": "capricious",
+            "definition": "Ani ve açıklanamayan ruh hali veya davranış değişikliklerine yatkın.",
+            "etymology": "Early 17th century, from French 'capricieux', from Italian 'capriccioso', from 'capriccio' meaning 'sudden start or motion'.",
+            "example": "Her capricious nature made it hard to predict her actions.",
+            "image": ""
+        },
+        {
+            "word": "karikatür",
+            "translation": "caricature",
+            "definition": "Bir kişinin belirli çarpıcı özelliklerinin, komik veya grotesk bir etki yaratmak amacıyla abartıldığı bir resim, betimleme veya taklit.",
+            "etymology": "Mid 18th century, from French, from Italian 'caricatura', from 'caricare' meaning 'to load'.",
+            "example": "The artist's caricature of the politician exaggerated his large nose.",
+            "image": ""
+        },
+        {
+            "word": "azarlamak",
+            "translation": "castigate",
+            "definition": "(Birini) şiddetle azarla.",
+            "etymology": "Early 17th century, from Latin 'castigat-', from the verb 'castigare', from 'castus' pure, chaste.",
+            "example": "The teacher castigated the students for their poor performance.",
+            "image": ""
+        },
+        {
+            "word": "katalizör",
+            "translation": "catalyst",
+            "definition": "Kimyasal bir reaksiyonun hızını artıran, ancak kendisi kalıcı bir kimyasal değişime uğramayan madde.",
+            "etymology": "Early 20th century, from Greek 'katalusis' meaning dissolution, from 'kataluein' to dissolve.",
+            "example": "The new manager was the catalyst for change in the company.",
+            "image": ""
+        },
+        {
+            "word": "katarsis",
+            "translation": "catharsis",
+            "definition": "Güçlü veya bastırılmış duyguların serbest bırakılması ve böylece bu duygulardan kurtulma süreci.",
+            "etymology": "Late Middle English, from Greek 'katharsis' meaning purification.",
+            "example": "Crying after the argument was a catharsis for her.",
+            "image": ""
+        },
+        {
+            "word": "kostik",
+            "translation": "caustic",
+            "definition": "Kimyasal etkiyle organik dokuyu yakabilir veya aşındırabilir.",
+            "etymology": "Late Middle English, from Latin 'causticus', from Greek 'kaustikos', from 'kaustos' meaning 'combustible'.",
+            "example": "The cleaner contained caustic chemicals.",
+            "image": ""
+        },
+        {
+            "word": "kınama",
+            "translation": "censure",
+            "definition": "(Bir kişi veya bir şey hakkında) genellikle resmi bir ifadeyle, şiddetli bir şekilde onaylamadığınızı belirtin.",
+            "etymology": "Late Middle English, from Old French 'censurer', from Latin 'censura' meaning 'judgment or assessment'.",
+            "example": "The senator was censured for his inappropriate remarks.",
+            "image": ""
+        },
+        {
+            "word": "serebral",
+            "translation": "cerebral",
+            "definition": "Beynin serebrumuna ait.",
+            "etymology": "Early 19th century, from French 'cérébral', from Latin 'cerebrum' meaning 'brain'.",
+            "example": "His cerebral approach to the problem was impressive.",
+            "image": ""
+        },
+        {
+            "word": "hilekarlık",
+            "translation": "chicanery",
+            "definition": "Siyasi, mali veya hukuki bir amaca ulaşmak için hileye başvurulması.",
+            "etymology": "Early 17th century, from French 'chicanerie', from 'chicaner' to quibble.",
+            "example": "The candidate was accused of chicanery during the campaign.",
+            "image": ""
+        },
+        {
+            "word": "azarlamak",
+            "translation": "chide",
+            "definition": "Azarlamak veya uyarmak.",
+            "etymology": "Old English 'cīdan' meaning 'quarrel'.",
+            "example": "The mother chided her child for running into the street.",
+            "image": ""
+        },
+        {
+            "word": "kolerik",
+            "translation": "choleric",
+            "definition": "Huysuz veya sinirli.",
+            "etymology": "Late Middle English, from Old French 'colerique', from Latin 'cholē' meaning 'bile', one of the four bodily humours (thought to cause a temper).",
+            "example": "His choleric nature made him difficult to work with.",
+            "image": ""
+        },
+        {
+            "word": "ihtiyatlı",
+            "translation": "circumspect",
+            "definition": "Temkinli ve risk almaktan kaçınan.",
+            "etymology": "Late Middle English, from Latin 'circumspectus', from 'circum-' around + 'specere' to look.",
+            "example": "She was circumspect in her decision to invest in the new company.",
+            "image": ""
+        },
+        {
+            "word": "atlatmak",
+            "translation": "circumvent",
+            "definition": "(Bir engeli) aşmanın bir yolunu bulun.",
+            "etymology": "Late Middle English, from Latin 'circumvent-', from 'circumvenire', from 'circum-' around + 'venire' to come.",
+            "example": "He circumvented the security system to gain access to the building.",
+            "image": ""
+        },
+        {
+            "word": "gizli",
+            "translation": "clandestine",
+            "definition": "Özellikle yasa dışı olduğu için gizli tutulan veya gizlice yapılan.",
+            "etymology": "Mid 16th century, from Latin 'clandestinus', from 'clam' secretly.",
+            "example": "Their clandestine meetings were held in a hidden location.",
+            "image": ""
+        },
+        {
+            "word": "birleşmek",
+            "translation": "coalesce",
+            "definition": "Bir araya gelerek tek bir kütle veya bütün oluşturmak.",
+            "etymology": "Mid 16th century, from Latin 'coalescere', from 'co-' together + 'alescere' grow.",
+            "example": "The two companies coalesced to create a larger organization.",
+            "image": ""
+        },
+        {
+            "word": "ikna edici",
+            "translation": "cogent",
+            "definition": "(Bir argüman veya iddia için) açık, mantıklı ve ikna edici.",
+            "etymology": "Mid 17th century, from Latin 'cogent-', 'cogere' meaning 'compel'.",
+            "example": "Her cogent argument persuaded the jury.",
+            "image": ""
+        },
+        {
+            "word": "orantılı",
+            "translation": "commensurate",
+            "definition": "Boyut veya derece bakımından karşılık gelen; orantılı.",
+            "etymology": "Mid 17th century, from late Latin 'commensuratus', from 'com-' together + 'mensuratus' measured.",
+            "example": "Salary will be commensurate with experience.",
+            "image": ""
+        },
+        {
+            "word": "derleme",
+            "translation": "compendium",
+            "definition": "Özellikle bir kitap veya başka bir yayında yer alan, belirli bir konu hakkında özlü ancak ayrıntılı bilgilerin bir araya getirilmesi.",
+            "etymology": "Late 16th century, from Latin, from 'compendere' meaning 'weigh together'.",
+            "example": "The book is a compendium of facts about the natural world.",
+            "image": ""
+        },
+        {
+            "word": "vicdan azabı",
+            "translation": "compunction",
+            "definition": "Kötü bir şey yapmayı engelleyen veya yaptıktan sonra ortaya çıkan suçluluk duygusu veya ahlaki tereddüt.",
+            "etymology": "Late Middle English, from Old French 'compunction', from Latin 'compunctio(n-)', from 'compungere' to prick sharply.",
+            "example": "She had no compunction about lying to get what she wanted.",
+            "image": ""
+        },
+        {
+            "word": "eş zamanlı",
+            "translation": "concomitant",
+            "definition": "Doğal olarak eşlik eden veya ilişkili olan.",
+            "etymology": "Mid 17th century, from late Latin 'concomitant-', from the verb 'concomitari', from 'con-' together with + 'comitari' to accompany.",
+            "example": "She loved travel, with all its concomitant worries.",
+            "image": ""
+        },
+        {
+            "word": "yangın",
+            "translation": "conflagration",
+            "definition": "Büyük miktarda arazi veya mülkü yok eden geniş çaplı bir yangın.",
+            "etymology": "Late 15th century, from Latin 'conflagratio(n-)', from 'conflagrare' to blaze together.",
+            "example": "The conflagration spread quickly through the forest.",
+            "image": ""
+        },
+        {
+            "word": "birleşme",
+            "translation": "confluence",
+            "definition": "İki nehrin, özellikle de yaklaşık olarak eşit genişlikteki nehirlerin birleştiği nokta.",
+            "etymology": "Late Middle English, from late Latin 'confluentia', from Latin 'confluere' meaning 'flow together'.",
+            "example": "The confluence of the rivers created a powerful current.",
+            "image": ""
+        },
+        {
+            "word": "varsayım",
+            "translation": "conjecture",
+            "definition": "Eksik bilgilere dayanarak oluşturulan bir görüş veya sonuç.",
+            "etymology": "Late Middle English, from Old French 'conjecturer', from Latin 'conjectura', from 'conicere' meaning 'throw together'.",
+            "example": "Her conjecture about the cause of the problem was based on guesswork.",
+            "image": ""
+        },
+        {
+            "word": "entrika çevirmek",
+            "translation": "connive",
+            "definition": "(Ahlaksız, yasa dışı veya zararlı kabul edilen) bir şeyin gizlice gerçekleşmesine izin vermek.",
+            "etymology": "Early 17th century, from French 'conniver', from Latin 'connivere', from 'con-' together + 'nivere' meaning 'to wink'.",
+            "example": "The police were accused of conniving with criminals.",
+            "image": ""
+        },
+        {
+            "word": "uzman",
+            "translation": "connoisseur",
+            "definition": "Zevk konularında uzman bir jüri üyesi.",
+            "etymology": "Early 18th century, from French 'connaisseur', from 'connaître' meaning 'know'.",
+            "example": "He was a connoisseur of fine wines.",
+            "image": ""
+        },
+        {
+            "word": "akraba",
+            "translation": "consanguineous",
+            "definition": "Aynı atadan gelen insanlarla ilgili veya onları ifade eden.",
+            "etymology": "Late 17th century, from Latin 'consanguineus' meaning 'of the same blood'.",
+            "example": "The consanguineous nature of the community made it close-knit.",
+            "image": ""
+        },
+        {
+            "word": "şaşkınlık",
+            "translation": "consternation",
+            "definition": "Genellikle beklenmedik bir şey karşısında duyulan kaygı veya hayal kırıklığı duyguları.",
+            "etymology": "Early 17th century, from Latin 'consternatio(n-)', from 'consternare', from 'con-' expressing intensive force + 'sternere' meaning 'lay prostrate'.",
+            "example": "To his consternation, the door was locked.",
+            "image": ""
+        },
+        {
+            "word": "yorumlamak",
+            "translation": "construe",
+            "definition": "(Bir kelimeyi veya eylemi) belirli bir şekilde yorumlamak.",
+            "etymology": "Late Middle English, from Latin 'construere' meaning 'build up, pile together'.",
+            "example": "His remarks were construed as an attack on the government.",
+            "image": ""
+        },
+        {
+            "word": "mükemmel",
+            "translation": "consummate",
+            "definition": "Üstün beceri ve yetenek gösteren; eksiksiz veya kusursuz.",
+            "etymology": "Late Middle English, from Latin 'consummat-' meaning 'brought to completion', from 'consummare', from 'con-' altogether + 'summa' meaning 'sum total'.",
+            "example": "She was a consummate professional.",
+            "image": ""
+        },
+        {
+            "word": "tartışmalı",
+            "translation": "contentious",
+            "definition": "Tartışmaya yol açan veya yol açma olasılığı bulunan; tartışmalı.",
+            "etymology": "Late Middle English, from Old French 'contentieux', from Latin 'contentiosus', from 'contentio' meaning 'strife'.",
+            "example": "The contentious issue divided the community.",
+            "image": ""
+        },
+        {
+            "word": "bitişik",
+            "translation": "contiguous",
+            "definition": "Ortak bir sınırı paylaşmak; birbirine dokunmak.",
+            "etymology": "Early 16th century, from Latin 'contiguus' meaning 'touching', from 'contingere' meaning 'be in contact with'.",
+            "example": "The contiguous states share a border.",
+            "image": ""
+        },
+        {
+            "word": "pişman",
+            "translation": "contrite",
+            "definition": "Pişmanlık veya tövbe duygusu hissetmek veya ifade etmek; suçluluk duygusundan etkilenmek.",
+            "etymology": "Middle English, from Old French, or from Latin 'contritus', past participle of 'conterere' meaning 'grind down', from 'con-' expressing intensive force + 'terere' meaning 'to rub'.",
+            "example": "She was contrite after causing the accident.",
+            "image": ""
+        },
+        {
+            "word": "neşeli",
+            "translation": "convivial",
+            "definition": "(Bir atmosfer veya etkinlik için) samimi, canlı ve keyifli.",
+            "etymology": "Late 17th century, from Latin 'convivium' meaning 'a feast', from 'con-' together + 'vivere' to live.",
+            "example": "The wedding reception was a convivial affair.",
+            "image": ""
+        },
+        {
+            "word": "bol",
+            "translation": "copious",
+            "definition": "Miktar veya arz bakımından bol.",
+            "etymology": "Late Middle English, from Old French 'copieux' or Latin 'copiosus', from 'copia' meaning 'plenty'.",
+            "example": "She took copious notes during the lecture.",
+            "image": ""
+        },
+        {
+            "word": "doğrulamak",
+            "translation": "corroborate",
+            "definition": "(Bir ifadeyi, teoriyi veya bulguyu) doğrulamak veya desteklemek.",
+            "etymology": "Mid 16th century, from Latin 'corroborat-', from 'corroborare', from 'cor-' together + 'roborare' meaning 'to strengthen'.",
+            "example": "The witness corroborated the defendant's alibi.",
+            "image": ""
+        },
+        {
+            "word": "güven",
+            "translation": "credence",
+            "definition": "Bir şeyin doğru olduğuna inanmak veya onu doğru olarak kabul etmek.",
+            "etymology": "Late Middle English, from Old French, from Latin 'credentia', from 'credere' meaning 'to believe'.",
+            "example": "The report gave credence to the rumours.",
+            "image": ""
+        },
+        {
+            "word": "safdil",
+            "translation": "credulous",
+            "definition": "Bir şeylere inanmaya aşırı derecede yatkın olmak veya bunu göstermek.",
+            "etymology": "Early 16th century, from Latin 'credulus' meaning 'easily deceived'.",
+            "example": "The credulous audience believed every word of the scammer's speech.",
+            "image": ""
+        },
+        {
+            "word": "hantal",
+            "translation": "cumbersome",
+            "definition": "Büyük veya ağır ve bu nedenle taşınması veya kullanılması zor; hantal.",
+            "etymology": "Late Middle English (in the sense 'difficult to get through'): from 'cumber' + '-some'.",
+            "example": "The cumbersome package was hard to transport.",
+            "image": ""
+        },
+        {
+            "word": "hırs",
+            "translation": "cupidity",
+            "definition": "Para veya mal mülke duyulan hırs.",
+            "etymology": "Late Middle English, from Old French 'cupidite', from Latin 'cupiditas', from 'cupidus' meaning 'desirous', from 'cupere' meaning 'to desire'.",
+            "example": "His cupidity led him to embezzle funds.",
+            "image": ""
+        },
+        {
+            "word": "yüzeysel",
+            "translation": "cursory",
+            "definition": "Aceleyle yapılmış ve bu nedenle kapsamlı veya detaylı değil.",
+            "etymology": "Early 17th century, from Latin 'cursorius', from 'cursor' meaning 'runner', from 'currere' meaning 'to run'.",
+            "example": "The report was completed in a cursory manner.",
+            "image": ""
+        },
+        {
+            "word": "kıtlık",
+            "translation": "dearth",
+            "definition": "Bir şeyin kıtlığı veya eksikliği.",
+            "etymology": "Middle English, from 'dear' + '-th'.",
+            "example": "There was a dearth of job opportunities in the small town.",
+            "image": ""
+        },
+        {
+            "word": "fiyasko",
+            "translation": "debacle",
+            "definition": "Ani ve utanç verici bir başarısızlık; bir fiyasko.",
+            "etymology": "Early 19th century, from French 'débâcle', from 'débâcler' meaning 'to unbar', from 'des-' meaning 'away' + 'bacler' meaning 'to bar'.",
+            "example": "The dinner party turned into a debacle when the chef quit.",
+            "image": ""
+        },
+        {
+            "word": "çürütmek",
+            "translation": "debunk",
+            "definition": "(Bir efsanenin, fikrin veya inancın) yanlışlığını veya boşluğunu ortaya koymak.",
+            "etymology": "1920s, from 'bunk', short for 'bunkum'.",
+            "example": "The journalist debunked the conspiracy theory.",
+            "image": ""
+        },
+        {
+            "word": "yozlaşma",
+            "translation": "decadence",
+            "definition": "Aşırı zevk veya lüks düşkünlüğüyle karakterize edilen ahlaki veya kültürel gerileme.",
+            "etymology": "Mid 16th century, from French 'décadence', from medieval Latin 'decadentia', from 'decadere' meaning 'to decay'.",
+            "example": "The decadence of the Roman Empire contributed to its fall.",
+            "image": ""
+        },
+        {
+            "word": "nezaket",
+            "translation": "decorum",
+            "definition": "İyi zevke ve uygunluğa uygun davranış.",
+            "etymology": "Late Middle English, from Latin, neuter of 'decorus' meaning 'seemly'.",
+            "example": "She maintained her decorum throughout the formal dinner.",
+            "image": ""
+        },
+        {
+            "word": "saygı",
+            "translation": "deference",
+            "definition": "Kibar itaat ve saygı.",
+            "etymology": "Mid 17th century, from French 'déférence', from 'déférer' meaning 'to defer'.",
+            "example": "He addressed her with deference, recognising her authority.",
+            "image": ""
+        },
+        {
+            "word": "zararlı",
+            "translation": "deleterious",
+            "definition": "Zarar veya hasara neden olmak.",
+            "etymology": "Mid 17th century, from Greek 'dēlētērios' meaning 'noxious'.",
+            "example": "The deleterious effects of smoking are well known.",
+            "image": ""
+        },
+        {
+            "word": "demagog",
+            "translation": "demagogue",
+            "definition": "Siyasi lider, rasyonel argümanlar kullanmak yerine, sıradan insanların isteklerine ve önyargılarına hitap ederek destek arayan kişidir.",
+            "etymology": "Mid 17th century, from Greek 'dēmagōgos', from 'dēmos' meaning 'the people' + 'agōgos' meaning 'leading'.",
+            "example": "The demagogue manipulated public fears to gain support.",
+            "image": ""
+        },
+        {
+            "word": "itiraz etmek",
+            "translation": "demur",
+            "definition": "Şüphe veya itirazlarda bulunmak ya da isteksizlik göstermek.",
+            "etymology": "Late Middle English, from Old French 'demourer', based on Latin 'demorari' meaning 'to delay'.",
+            "example": "She agreed without demur.",
+            "image": ""
+        },
+        {
+            "word": "aşağılamak",
+            "translation": "denigrate",
+            "definition": "Haksız yere eleştirmek; karalamak.",
+            "etymology": "Late Middle English, from Latin 'denigrat-', from the verb 'denigrare', from 'de-' meaning 'away, completely' + 'niger' meaning 'black'.",
+            "example": "The media denigrated the politician’s reputation.",
+            "image": ""
+        },
+        {
+            "word": "yağmalama",
+            "translation": "depredation",
+            "definition": "Saldırı veya yağma eylemi.",
+            "etymology": "Early 17th century, from Latin 'depraedatio(n-)', from 'depraedari' meaning 'plunder'.",
+            "example": "The depredation of the village by the invaders was swift and brutal.",
+            "image": ""
+        },
+        {
+            "word": "despot",
+            "translation": "despot",
+            "definition": "Mutlak güce sahip olan, genellikle bu gücü acımasız veya baskıcı bir şekilde kullanan yönetici veya başka bir kişi.",
+            "etymology": "Mid 16th century, from French 'despote', via medieval Latin from Greek 'despotēs' meaning 'master'.",
+            "example": "The despot ruled with an iron fist.",
+            "image": ""
+        },
+        {
+            "word": "saydam",
+            "translation": "diaphanous",
+            "definition": "(Özellikle kumaşlar için) hafif, narin ve yarı saydam.",
+            "etymology": "Early 17th century, from medieval Latin 'diaphanus', from Greek 'diaphanēs', from 'dia-' meaning 'through' + 'phainein' meaning 'to show'.",
+            "example": "The diaphanous curtains billowed gently in the breeze.",
+            "image": ""
+        },
+        {
+            "word": "didaktik",
+            "translation": "didactic",
+            "definition": "Özellikle ahlaki öğretimi gizli bir amaç olarak benimseyerek, öğretmeyi amaçlamaktadır.",
+            "etymology": "Mid 17th century, from Greek 'didaktikos', from 'didaskein' meaning 'to teach'.",
+            "example": "The didactic novel aimed to impart moral lessons.",
+            "image": ""
+        },
+        {
+            "word": "çekingen",
+            "translation": "diffident",
+            "definition": "Özgüven eksikliği nedeniyle mütevazı veya çekingen.",
+            "etymology": "Late Middle English, from Latin 'diffident-', from the verb 'diffidere', from 'dis-' meaning 'away' + 'fidere' meaning 'to trust'.",
+            "example": "The diffident student was reluctant to speak in class.",
+            "image": ""
+        },
+        {
+            "word": "genişletici",
+            "translation": "dilatory",
+            "definition": "Harekete geçmekte yavaş.",
+            "etymology": "Late Middle English, from Old French 'dilatoire', from Latin 'dilatorius', from 'dilatare' meaning 'defer, postpone'.",
+            "example": "The government’s dilatory response frustrated the public.",
+            "image": ""
+        },
+        {
+            "word": "küçük",
+            "translation": "diminutive",
+            "definition": "Aşırı veya alışılmadık derecede küçük.",
+            "etymology": "Late Middle English, from Old French, from Latin 'diminutivus', from 'diminuere' meaning 'diminish'.",
+            "example": "The diminutive figure seemed out of place among the tall athletes.",
+            "image": ""
+        },
+        {
+            "word": "farklı",
+            "translation": "disparate",
+            "definition": "Esasen tür olarak farklı; karşılaştırmaya izin vermiyor.",
+            "etymology": "Late Middle English, from Latin 'disparatus', from 'disparare' meaning 'to separate'.",
+            "example": "The two theories are based on disparate assumptions.",
+            "image": ""
+        },
+        {
+            "word": "gizlemek",
+            "translation": "dissemble",
+            "definition": "Gerçek niyetlerini, duygularını veya inançlarını gizlemek.",
+            "etymology": "Late Middle English, from Old French 'dissimuler', based on Latin 'dissimulare' meaning 'to disguise'.",
+            "example": "He dissembled his true intentions with a smile.",
+            "image": ""
+        },
+        {
+            "word": "anlaşmazlık",
+            "translation": "dissension",
+            "definition": "Anlaşmazlığa yol açan fikir ayrılığı.",
+            "etymology": "Middle English, from Old French 'dissension', from Latin 'dissensio(n-)', from 'dissentire' meaning 'to differ in sentiment'.",
+            "example": "The political party was torn apart by internal dissension.",
+            "image": ""
+        },
+        {
+            "word": "dağılmak",
+            "translation": "dissipate",
+            "definition": "Dağıtmak veya saçmak.",
+            "etymology": "Late Middle English, from Latin 'dissipare' meaning 'scatter'.",
+            "example": "The fog dissipated as the sun rose.",
+            "image": ""
+        },
+        {
+            "word": "uysal",
+            "translation": "docile",
+            "definition": "Kontrolü veya talimatları kabul etmeye hazır; itaatkar.",
+            "etymology": "Late 15th century, from Latin 'docilis', from 'docere' meaning 'teach'.",
+            "example": "The docile puppy quickly learned new commands.",
+            "image": ""
+        },
+        {
+            "word": "dogmatik",
+            "translation": "dogmatic",
+            "definition": "İlkeleri tartışılmaz gerçekler olarak ortaya koymaya meyillidir.",
+            "etymology": "Mid 16th century, from late Latin 'dogmaticus', from Greek 'dogmatikos', from 'dogma' meaning 'opinion'.",
+            "example": "The professor's dogmatic approach left no room for debate.",
+            "image": ""
+        },
+        {
+            "word": "somurtkan",
+            "translation": "dour",
+            "definition": "Tavır veya görünüş olarak son derece sert, katı veya kasvetli.",
+            "etymology": "Late Middle English (in the sense 'obstinate'): probably from Scottish Gaelic 'dur', from Latin 'durus' meaning 'hard'.",
+            "example": "The dour expression on his face revealed his disappointment.",
+            "image": ""
+        },
+        {
+            "word": "ikiyüzlülük",
+            "translation": "duplicity",
+            "definition": "Aldatıcılık; ikiyüzlülük.",
+            "etymology": "Late Middle English, from Old French, from late Latin 'duplicitas', from 'duplex' meaning 'double'.",
+            "example": "Her duplicity was uncovered when she was caught lying to both parties.",
+            "image": ""
+        },
+        {
+            "word": "coşkulu",
+            "translation": "ebullient",
+            "definition": "Neşeli ve enerji dolu.",
+            "etymology": "Late 16th century, from Latin 'ebullient-', from 'ebullire' meaning 'to boil up'.",
+            "example": "Her ebullient personality made her the life of the party.",
+            "image": ""
+        },
+        {
+            "word": "eklektik",
+            "translation": "eclectic",
+            "definition": "Fikirleri, tarzı veya zevki geniş ve çeşitli kaynaklardan edinmek.",
+            "etymology": "Late 17th century, from Greek 'eklektikos', from 'eklegein' meaning 'to pick out'.",
+            "example": "His eclectic taste in music included everything from classical to punk rock.",
+            "image": ""
+        },
+        {
+            "word": "bina",
+            "translation": "edifice",
+            "definition": "Büyük, heybetli bir bina.",
+            "etymology": "Late Middle English, from Latin 'aedificium', from 'aedificare' meaning 'to build'.",
+            "example": "The cathedral was an impressive edifice.",
+            "image": ""
+        },
+        {
+            "word": "silmek",
+            "translation": "efface",
+            "definition": "Bir yüzeyden (bir izi) silmek.",
+            "etymology": "Mid 16th century, from French 'effacer', from 'e-' meaning 'away' + 'face' meaning 'face'.",
+            "example": "The inscription had been effaced by the passage of time.",
+            "image": ""
+        },
+        {
+            "word": "efervesan",
+            "translation": "effervescent",
+            "definition": "(Sıvı için) kabarcık çıkaran; gazlı.",
+            "etymology": "Early 18th century, from Latin 'effervescere', from 'ex-' meaning 'out, up' + 'fervescere' meaning 'begin to boil'.",
+            "example": "The effervescent drink tickled her throat.",
+            "image": ""
+        },
+        {
+            "word": "etkinlik",
+            "translation": "efficacy",
+            "definition": "İstenilen veya amaçlanan sonucu elde etme yeteneği.",
+            "etymology": "Early 16th century, from Latin 'efficacia', from 'efficax' meaning 'efficacious'.",
+            "example": "The efficacy of the treatment was confirmed by the studies.",
+            "image": ""
+        },
+        {
+            "word": "küstahlık",
+            "translation": "effrontery",
+            "definition": "Küstahça veya saygısızca davranış.",
+            "etymology": "Late 17th century, from French 'effronterie', based on late Latin 'effrons' meaning 'shameless'.",
+            "example": "The student's effrontery in speaking back to the teacher was shocking.",
+            "image": ""
+        },
+        {
+            "word": "vahim",
+            "translation": "egregious",
+            "definition": "Son derece kötü; şok edici.",
+            "etymology": "Mid 16th century, from Latin 'egregius' meaning 'standing out from the flock'.",
+            "example": "The company's egregious disregard for the environment led to public outrage.",
+            "image": ""
+        },
+        {
+            "word": "meydana çıkarmak",
+            "translation": "elicit",
+            "definition": "Birinden (bir tepki, cevap veya gerçek) ortaya çıkarmak veya çıkarmak.",
+            "etymology": "Mid 17th century, from Latin 'elicere', from 'e-' meaning 'out' + 'lacere' meaning 'entice'.",
+            "example": "The comedian's jokes elicited laughter from the audience.",
+            "image": ""
+        },
+        {
+            "word": "açıklamak",
+            "translation": "elucidate",
+            "definition": "(Bir şeyi) açıklığa kavuşturmak; izah etmek.",
+            "etymology": "Late 16th century, from late Latin 'elucidat-', from 'elucidare', from 'e-' meaning 'out' + 'lucidus' meaning 'lucid'.",
+            "example": "The professor elucidated the complex theory with several examples.",
+            "image": ""
+        },
+        {
+            "word": "zayıflamış",
+            "translation": "emaciated",
+            "definition": "Özellikle hastalık veya yetersiz beslenme nedeniyle anormal derecede zayıf veya güçsüz olmak.",
+            "etymology": "Early 17th century, from Latin 'emaciatus', from the verb 'emaciare', from 'e-' meaning 'out' + 'macies' meaning 'leanness'.",
+            "example": "The emaciated refugees were given food and shelter.",
+            "image": ""
+        },
+        {
+            "word": "düzeltme",
+            "translation": "emend",
+            "definition": "(Metne) düzeltmeler ve iyileştirmeler yapın.",
+            "etymology": "Late Middle English, from Latin 'emendare', from 'e-' meaning 'out' + 'mendum' meaning 'fault'.",
+            "example": "The editor emended the manuscript before publication.",
+            "image": ""
+        },
+        {
+            "word": "seçkin",
+            "translation": "eminent",
+            "definition": "(Bir kişi için) belirli bir alanda veya meslekte ünlü ve saygın.",
+            "etymology": "Late Middle English, from Latin 'eminent-', from 'eminere' meaning 'stand out'.",
+            "example": "The eminent scientist was awarded a Nobel Prize.",
+            "image": ""
+        },
+        {
+            "word": "yumuşatıcı",
+            "translation": "emollient",
+            "definition": "Cildi yumuşatma veya yatıştırma özelliğine sahip olmak.",
+            "etymology": "Mid 17th century, from Latin 'emollient-', from the verb 'emollire', from 'e-' meaning 'out' + 'mollis' meaning 'soft'.",
+            "example": "The emollient lotion relieved her dry skin.",
+            "image": ""
+        },
+        {
+            "word": "ampirik",
+            "translation": "empirical",
+            "definition": "Teori veya saf mantıktan ziyade gözlem veya deneyime dayalı, bunlarla ilgili veya bunlarla doğrulanabilir.",
+            "etymology": "Mid 16th century, from Latin 'empiricus', from Greek 'empeirikos', from 'empeiria' meaning 'experience'.",
+            "example": "The empirical data supported the scientist's hypothesis.",
+            "image": ""
+        },
+        {
+            "word": "enerjisini tüketmek",
+            "translation": "enervate",
+            "definition": "Birinin enerjisini veya canlılığını kaybetmesine neden olmak; zayıflamasına yol açmak.",
+            "etymology": "Early 17th century, from Latin 'enervat-', from the verb 'enervare', from 'e-' meaning 'out of' + 'nervus' meaning 'sinew'.",
+            "example": "The heat enervated the workers, making it hard to continue.",
+            "image": ""
+        },
+        {
+            "word": "oy hakkı vermek",
+            "translation": "enfranchise",
+            "definition": "Oy kullanma hakkını verin.",
+            "etymology": "Late Middle English, from Old French 'enfranchir', from 'en-' meaning 'in' + 'franc' meaning 'free'.",
+            "example": "The movement sought to enfranchise all citizens, regardless of gender.",
+            "image": ""
+        },
+        {
+            "word": "ortaya çıkarmak",
+            "translation": "engender",
+            "definition": "(Bir duyguya, duruma veya koşula) neden olmak veya yol açmak.",
+            "etymology": "Middle English, from Old French 'engendrer', from Latin 'ingenerare', from 'in-' meaning 'in' + 'generare' meaning 'beget'.",
+            "example": "The controversial decision engendered a debate among the community.",
+            "image": ""
+        },
+        {
+            "word": "bilmece",
+            "translation": "enigma",
+            "definition": "Gizemli, kafa karıştırıcı veya anlaşılması zor bir kişi veya şey.",
+            "etymology": "Late 16th century, via Latin from Greek 'ainigma', from 'ainissesthai' meaning 'speak allusively'.",
+            "example": "The artist was an enigma, known for his cryptic messages.",
+            "image": ""
+        },
+        {
+            "word": "düşmanlık",
+            "translation": "enmity",
+            "definition": "Birine veya bir şeye aktif olarak karşı çıkma veya düşmanlık besleme durumu veya duygusu.",
+            "etymology": "Middle English, from Old French 'enemistie', based on Latin 'inimicus'.",
+            "example": "The longstanding enmity between the two nations was hard to overcome.",
+            "image": ""
+        },
+        {
+            "word": "can sıkıntısı",
+            "translation": "ennui",
+            "definition": "Meşguliyet veya heyecan eksikliğinden kaynaklanan bir bıkkınlık ve memnuniyetsizlik duygusu.",
+            "etymology": "Mid 18th century, from French, from Latin 'inodiare' meaning 'to make loathsome'.",
+            "example": "The endless meetings filled him with ennui.",
+            "image": ""
+        },
+        {
+            "word": "geçici",
+            "translation": "ephemeral",
+            "definition": "Çok kısa süren.",
+            "etymology": "Late 16th century, from Greek 'ephemeros' meaning 'lasting only a day'.",
+            "example": "The beauty of the sunset was ephemeral.",
+            "image": ""
+        },
+        {
+            "word": "mektup",
+            "translation": "epistolary",
+            "definition": "Mektup yazma veya mektup biçiminde edebi eser yazma ile ilgili veya bunu ifade eden.",
+            "etymology": "Mid 17th century, from French 'épistolaire', from Latin 'epistolaris', from 'epistola' meaning 'letter'.",
+            "example": "The novel was written in an epistolary format.",
+            "image": ""
+        },
+        {
+            "word": "dinginlik",
+            "translation": "equanimity",
+            "definition": "Özellikle zor bir durumda zihinsel sakinlik, soğukkanlılık ve dengeli bir mizaç.",
+            "etymology": "Early 17th century, from Latin 'aequanimitas', from 'aequus' meaning 'equal' + 'animus' meaning 'mind'.",
+            "example": "She handled the stressful situation with remarkable equanimity.",
+            "image": ""
+        },
+        {
+            "word": "eş anlamlı",
+            "translation": "equivocate",
+            "definition": "Gerçeği gizlemek veya kendini sorumluluktan kurtarmak için belirsiz ifadeler kullanmak.",
+            "etymology": "Late Middle English, from late Latin 'aequivocat-' meaning 'called by the same name'.",
+            "example": "The politician equivocated when asked about the scandal.",
+            "image": ""
+        },
+        {
+            "word": "bilgili",
+            "translation": "erudite",
+            "definition": "Büyük bilgi veya öğrenme yeteneğine sahip olmak veya bunu göstermek.",
+            "etymology": "Late Middle English, from Latin 'eruditus', from 'erudire' meaning 'instruct'.",
+            "example": "The professor's erudite lecture impressed the students.",
+            "image": ""
+        },
+        {
+            "word": "kaçınmak",
+            "translation": "eschew",
+            "definition": "Bilinçli olarak kullanmaktan kaçının; uzak durun.",
+            "etymology": "Late Middle English, from Old French 'eschiver', of Germanic origin; related to 'shun'.",
+            "example": "He eschewed violence in all its forms.",
+            "image": ""
+        },
+        {
+            "word": "ezoterik",
+            "translation": "esoteric",
+            "definition": "Sadece belirli bir uzmanlık bilgisine veya ilgisine sahip az sayıda insan için tasarlanmış veya muhtemelen onlar tarafından anlaşılabilecek nitelikte.",
+            "etymology": "Mid 17th century, from Greek 'esōterikos', from 'esōterō' meaning 'within', from 'eis' meaning 'into'.",
+            "example": "The esoteric philosophy was difficult for outsiders to grasp.",
+            "image": ""
+        },
+        {
+            "word": "benimsemek",
+            "translation": "espouse",
+            "definition": "Bir davayı, inancı veya yaşam biçimini benimsemek veya desteklemek.",
+            "etymology": "Late Middle English (in the sense 'marry'): from Old French 'espouser', from Latin 'sponsare', from 'spondere' meaning 'betroth'.",
+            "example": "The senator espoused the idea of reform.",
+            "image": ""
+        },
+        {
+            "word": "esrarengiz",
+            "translation": "ethereal",
+            "definition": "Bu dünyaya fazla mükemmel gelecek kadar son derece narin ve hafif.",
+            "etymology": "Mid 16th century, from Greek 'aitherios', from 'aither' meaning 'ether'.",
+            "example": "The ballerina's ethereal movements captivated the audience.",
+            "image": ""
+        },
+        {
+            "word": "övgü konuşması",
+            "translation": "eulogy",
+            "definition": "Bir kişiyi veya bir şeyi son derece öven, özellikle de yeni vefat etmiş birine ithafen yazılmış bir konuşma veya yazı.",
+            "etymology": "Late Middle English, from medieval Latin 'eulogium', from Greek 'eulogia' meaning 'praise'.",
+            "example": "His eulogy at the funeral was heartfelt.",
+            "image": ""
+        },
+        {
+            "word": "örtmeceli ifade",
+            "translation": "euphemism",
+            "definition": "Hoş olmayan veya utanç verici bir şeyden bahsederken çok sert veya açık sözlü kabul edilen bir kelime veya ifadenin yerine kullanılan, daha yumuşak veya dolaylı bir kelime veya ifade.",
+            "etymology": "Late 16th century, from Greek 'euphemismos', from 'euphēmizein' meaning 'use auspicious words', from 'eu-' meaning 'well' + 'phēmē' meaning 'speaking'.",
+            "example": "The company used 'downsizing' as a euphemism for layoffs.",
+            "image": ""
+        },
+        {
+            "word": "geçici",
+            "translation": "evanescent",
+            "definition": "Kısa süre içinde gözden, hafızadan veya varoluştan silinmek; hızla solmak veya kaybolmak.",
+            "etymology": "Early 18th century, from Latin 'evanescent-', from the verb 'evanescere', from 'e-' meaning 'out of' + 'vanescere' meaning 'vanish'.",
+            "example": "The evanescent rainbow disappeared as quickly as it appeared.",
+            "image": ""
+        },
+        {
+            "word": "kanıtlamak",
+            "translation": "evince",
+            "definition": "(Bir niteliğin veya duygunun) varlığını ortaya koymak; belirtmek.",
+            "etymology": "Late 16th century, from Latin 'evincere', from 'e-' meaning 'out' + 'vincere' meaning 'overcome'.",
+            "example": "His comments evinced a genuine interest in the topic.",
+            "image": ""
+        },
+        {
+            "word": "kötüleştirmek",
+            "translation": "exacerbate",
+            "definition": "(Bir problemi, kötü durumu veya olumsuz duyguyu) daha da kötüleştirmek.",
+            "etymology": "Mid 17th century, from Latin 'exacerbat-', from the verb 'exacerbare', from 'ex-' meaning 'thoroughly' + 'acerbus' meaning 'harsh, bitter'.",
+            "example": "His refusal to apologize only exacerbated the tension.",
+            "image": ""
+        },
+        {
+            "word": "aklamak",
+            "translation": "exculpate",
+            "definition": "(Birinin) herhangi bir yanlış yapmadığını göstermek veya beyan etmek.",
+            "etymology": "Mid 17th century, from medieval Latin 'exculpat-', from 'exculpare', from 'ex-' meaning 'out' + 'culpa' meaning 'blame'.",
+            "example": "The evidence exculpated the defendant from any wrongdoing.",
+            "image": ""
+        },
+        {
+            "word": "örnek teşkil eden",
+            "translation": "exemplary",
+            "definition": "İstenilen bir model olarak hizmet etmek; türünün en iyisini temsil etmek.",
+            "etymology": "Late 16th century, from late Latin 'exemplaris', from Latin 'exemplum' meaning 'example'.",
+            "example": "Her exemplary work ethic set a standard for others.",
+            "image": ""
+        },
+        {
+            "word": "acil",
+            "translation": "exigent",
+            "definition": "Zorlayıcı; talepkar.",
+            "etymology": "Late Middle English, from Latin 'exigent-', from 'exigere', from 'ex-' meaning 'out' + 'agere' meaning 'drive'.",
+            "example": "The exigent demands of the job were overwhelming.",
+            "image": ""
+        },
+        {
+            "word": "aklamak",
+            "translation": "exonerate",
+            "definition": "(Özellikle resmi bir kurum için) Birini, özellikle de olayı gerektiği gibi değerlendirdikten sonra, bir hata veya yanlışlıktan dolayı suçlamadan aklamak.",
+            "etymology": "Late Middle English, from Latin 'exonerat-', from the verb 'exonerare', from 'ex-' meaning 'from' + 'onus' meaning 'a burden'.",
+            "example": "The DNA evidence exonerated him from the crime.",
+            "image": ""
+        },
+        {
+            "word": "fahiş",
+            "translation": "exorbitant",
+            "definition": "(Bir fiyat veya tutar için) makul olmayan derecede yüksek.",
+            "etymology": "Late Middle English, from Latin 'exorbitant-', from 'exorbitare', from 'ex-' meaning 'out from' + 'orbita' meaning 'track'.",
+            "example": "The exorbitant price of the meal shocked the diners.",
+            "image": ""
+        },
+        {
+            "word": "uygun",
+            "translation": "expedient",
+            "definition": "(Bir eylem için) uygun ve pratik, ancak muhtemelen uygunsuz veya ahlaksız.",
+            "etymology": "Late Middle English, from Latin 'expedient-', from the verb 'expedire', from 'ex-' meaning 'out' + 'pes' meaning 'foot'.",
+            "example": "The mayor's decision to approve the project was politically expedient.",
+            "image": ""
+        },
+        {
+            "word": "kefaret etmek",
+            "translation": "expiate",
+            "definition": "(Suçluluk veya günahtan) arınmak.",
+            "etymology": "Late Middle English, from Latin 'expiat-', from the verb 'expiare', from 'ex-' meaning 'out' + 'piare' meaning 'appease'.",
+            "example": "He tried to expiate his sins by donating to charity.",
+            "image": ""
+        },
+        {
+            "word": "silmek",
+            "translation": "expunge",
+            "definition": "Tamamen silmek veya kaldırmak; yok etmek veya silmek.",
+            "etymology": "Early 17th century, from Latin 'expungere', meaning to mark for deletion (from 'ex-' meaning out and 'pungere' meaning to prick).",
+            "example": "The criminal record was expunged after the charges were dropped.",
+            "image": ""
+        },
+        {
+            "word": "kaybolmamış",
+            "translation": "extant",
+            "definition": "(Özellikle bir belge için) hâlâ varlığını sürdüren; günümüze kadar ulaşan.",
+            "etymology": "Mid 16th century, from Latin 'exstant-', from the verb 'exstare', from 'ex-' meaning 'out' + 'stare' meaning 'to stand'.",
+            "example": "The only extant copy of the manuscript was found in a library.",
+            "image": ""
+        },
+        {
+            "word": "doğaçlama",
+            "translation": "extemporaneous",
+            "definition": "Hazırlıksız söylenen veya yapılan.",
+            "etymology": "Mid 17th century, from late Latin 'extemporaneus', from 'ex tempore' meaning 'out of the time'.",
+            "example": "His extemporaneous speech impressed the audience.",
+            "image": ""
+        },
+        {
+            "word": "övmek",
+            "translation": "extol",
+            "definition": "Coşkuyla övgüde bulunun.",
+            "etymology": "Late Middle English, from Latin 'extollere', from 'ex-' meaning 'out, upward' + 'tollere' meaning 'raise'.",
+            "example": "The mayor extolled the volunteers for their hard work.",
+            "image": ""
+        },
+        {
+            "word": "yabancı",
+            "translation": "extraneous",
+            "definition": "Ele alınan konuyla ilgisiz veya alakasız.",
+            "etymology": "Mid 17th century, from Latin 'extraneus' meaning 'external, strange', from 'extra' meaning 'outside'.",
+            "example": "The report was full of extraneous information.",
+            "image": ""
+        },
+        {
+            "word": "ekstrapolasyon",
+            "translation": "extrapolate",
+            "definition": "Mevcut eğilimlerin devam edeceğini veya benzer yöntemlerin uygulanabilir olacağını varsayarak (bir yöntemin veya sonucun) uygulamasını bilinmeyen bir duruma genişletmek.",
+            "etymology": "Early 19th century, from 'extra-' meaning 'outside' + a shortened form of 'interpolate'.",
+            "example": "The scientist extrapolated future trends based on the data collected.",
+            "image": ""
+        },
+        {
+            "word": "kurtarmak",
+            "translation": "extricate",
+            "definition": "(Birini veya bir şeyi) bir kısıtlamadan veya zorluktan kurtarmak.",
+            "etymology": "Early 17th century, from Latin 'extricat-', from the verb 'extricare', from 'ex-' meaning 'out' + 'tricae' meaning 'perplexities'.",
+            "example": "He tried to extricate himself from the awkward situation.",
+            "image": ""
+        },
+        {
+            "word": "şakacı",
+            "translation": "facetious",
+            "definition": "Ciddi konuları kasten uygunsuz bir mizahla ele almak; umursamazlık.",
+            "etymology": "Late 16th century, from French 'facétieux', from 'facétie' meaning 'a joke', from Latin 'facetia' meaning 'jest'.",
+            "example": "His facetious remarks during the meeting were not appreciated.",
+            "image": ""
+        },
+        {
+            "word": "yanıltıcı",
+            "translation": "fallacious",
+            "definition": "Yanlış bir inanca dayanıyor.",
+            "etymology": "Early 16th century, from Latin 'fallaciosus', from 'fallacia' meaning 'deceit', from 'fallax' meaning 'deceptive'.",
+            "example": "The argument was based on fallacious reasoning.",
+            "image": ""
+        },
+        {
+            "word": "aptalca",
+            "translation": "fatuous",
+            "definition": "Saçma ve anlamsız.",
+            "etymology": "Early 17th century, from Latin 'fatuus' meaning 'foolish'.",
+            "example": "His fatuous comments only served to annoy everyone.",
+            "image": ""
+        },
+        {
+            "word": "verimli",
+            "translation": "fecund",
+            "definition": "Bol miktarda yavru veya yeni büyüme üretebilen veya üretebilen; verimli.",
+            "etymology": "Late Middle English, from French 'fécond', from Latin 'fecundus' meaning 'fruitful'.",
+            "example": "The fecund soil produced a bountiful harvest.",
+            "image": ""
+        },
+        {
+            "word": "mutlu",
+            "translation": "felicitous",
+            "definition": "İyi seçilmiş veya koşullara uygun.",
+            "etymology": "Late 18th century, from Latin 'felicitas' meaning 'happiness'.",
+            "example": "Her felicitous remarks cheered everyone up.",
+            "image": ""
+        },
+        {
+            "word": "vahşi",
+            "translation": "feral",
+            "definition": "(Özellikle bir hayvan için) vahşi halde, özellikle esaretten veya evcilleştirmeden kaçtıktan sonraki hali.",
+            "etymology": "Mid 17th century, from Latin 'ferus' meaning 'wild'.",
+            "example": "The feral cat prowled through the alleyways.",
+            "image": ""
+        },
+        {
+            "word": "coşkulu",
+            "translation": "fervent",
+            "definition": "Tutkulu bir yoğunluğa sahip olmak veya bunu sergilemek.",
+            "etymology": "Late Middle English, from Old French, from Latin 'fervent-', from 'fervere' meaning 'to boil'.",
+            "example": "His fervent support for the cause was evident.",
+            "image": ""
+        },
+        {
+            "word": "pis kokulu",
+            "translation": "fetid",
+            "definition": "Son derece rahatsız edici bir koku.",
+            "etymology": "Early 17th century, from Latin 'fetidus', from 'fetere' meaning 'to stink'.",
+            "example": "The fetid air in the sewer made it hard to breathe.",
+            "image": ""
+        },
+        {
+            "word": "açıkça",
+            "translation": "flagrant",
+            "definition": "(Yanlış veya ahlaksız kabul edilen bir şey için) göze çarpan veya açıkça saldırgan.",
+            "etymology": "Late Middle English, from Latin 'flagrant-' meaning 'blazing', from 'flagrare' meaning 'to blaze'.",
+            "example": "His flagrant disregard for the rules got him into trouble.",
+            "image": ""
+        },
+        {
+            "word": "florid",
+            "translation": "florid",
+            "definition": "Cildin kızarması veya pembeleşmesi.",
+            "etymology": "Mid 17th century, from Latin 'floridus', from 'flos' meaning 'flower'.",
+            "example": "Her florid face betrayed her embarrassment.",
+            "image": ""
+        },
+        {
+            "word": "şaşkına çevirmek",
+            "translation": "flummox",
+            "definition": "Birini büyük ölçüde şaşırtmak veya kafasını karıştırmak; hayrete düşürmek.",
+            "etymology": "Mid 19th century, of unknown origin; perhaps related to the dialect word 'flummock', meaning to make untidy.",
+            "example": "The complicated instructions flummoxed everyone who tried to assemble the furniture.",
+            "image": ""
+        },
+        {
+            "word": "zaaf",
+            "translation": "foible",
+            "definition": "Bir kişinin karakterindeki ufak bir zayıflık veya tuhaflık.",
+            "etymology": "Late 16th century (as an adjective in the sense 'feeble'): from obsolete French, in Old French 'fieble', from Latin 'flebilis' meaning 'lamentable'.",
+            "example": "His only foible was his love for sweets.",
+            "image": ""
+        },
+        {
+            "word": "hoşgörü",
+            "translation": "forbearance",
+            "definition": "Hastanın öz denetimi; kısıtlama ve hoşgörü.",
+            "etymology": "Middle English (in the sense 'endurance, tolerance'): from the verb 'forbear', from Old English 'forberan', from 'for-' meaning 'away, off' + 'beran' meaning 'to bear'.",
+            "example": "The teacher showed remarkable forbearance in dealing with the unruly class.",
+            "image": ""
+        },
+        {
+            "word": "metanet",
+            "translation": "fortitude",
+            "definition": "Acı ve zorluklar karşısında cesaret.",
+            "etymology": "Late Middle English, from Latin 'fortitudo', from 'fortis' meaning 'strong'.",
+            "example": "She showed great fortitude in the face of adversity.",
+            "image": ""
+        },
+        {
+            "word": "tesadüfi",
+            "translation": "fortuitous",
+            "definition": "Şans eseri olan; talihli.",
+            "etymology": "Mid 17th century, from Latin 'fortuitus', from 'fors' meaning 'chance'.",
+            "example": "The fortuitous meeting led to a successful partnership.",
+            "image": ""
+        },
+        {
+            "word": "huysuz",
+            "translation": "fractious",
+            "definition": "(Genellikle çocuklarda görülen) huysuz ve kavgacı.",
+            "etymology": "Early 18th century, from 'fraction', from Latin 'fractio', from 'frangere' meaning 'to break'.",
+            "example": "The fractious children were difficult to control.",
+            "image": ""
+        },
+        {
+            "word": "çılgın",
+            "translation": "frenetic",
+            "definition": "Oldukça vahşi ve kontrolsüz bir şekilde hızlı ve enerjik.",
+            "etymology": "Late 19th century, from Old French 'frénétique', via Latin from Greek 'phrenitikos', from 'phrenitis' meaning 'delirium'.",
+            "example": "The frenetic pace of the city life was overwhelming.",
+            "image": ""
+        },
+        {
+            "word": "gizli",
+            "translation": "furtive",
+            "definition": "Genellikle suçluluk duygusu veya keşfedilmenin sorunlara yol açacağı inancı nedeniyle dikkat çekmekten veya fark edilmekten kaçınmaya çalışmak; gizli saklı davranmak.",
+            "etymology": "Early 17th century, from Latin 'furtivus', from 'furtum' meaning 'theft'.",
+            "example": "The furtive glance he gave her aroused suspicion.",
+            "image": ""
+        },
+        {
+            "word": "cafcaflı",
+            "translation": "garish",
+            "definition": "Göz alıcı derecede parlak ve gösterişli; çarpıcı.",
+            "etymology": "Early 16th century, of unknown origin.",
+            "example": "The garish neon signs lit up the night.",
+            "image": ""
+        },
+        {
+            "word": "geveze",
+            "translation": "garrulous",
+            "definition": "Özellikle önemsiz konularda aşırı konuşkan.",
+            "etymology": "Early 17th century, from Latin 'garrulus', from 'garrire' meaning 'to chatter'.",
+            "example": "The garrulous old man held up the queue with his endless stories.",
+            "image": ""
+        },
+        {
+            "word": "cana yakın",
+            "translation": "genial",
+            "definition": "Dost canlısı ve neşeli.",
+            "etymology": "Mid 16th century (in the sense 'pleasantly mild and warm'): from Latin 'genialis', from 'genius' meaning 'attendant spirit present from one's birth'.",
+            "example": "Her genial personality made her popular at work.",
+            "image": ""
+        },
+        {
+            "word": "gösterişli",
+            "translation": "grandiloquent",
+            "definition": "Dil, üslup veya davranış biçiminde gösterişli veya abartılı, özellikle de etkileme amacıyla kullanılan.",
+            "etymology": "Late 16th century, from Latin 'grandiloquent-', from 'grandis' meaning 'grand' + 'loqui' meaning 'to speak'.",
+            "example": "His grandiloquent speech failed to impress the audience.",
+            "image": ""
+        },
+        {
+            "word": "sokulgan",
+            "translation": "gregarious",
+            "definition": "(Bir kişi için) arkadaşlık kurmayı seven; sosyal.",
+            "etymology": "Mid 17th century, from Latin 'gregarius', from 'grex, greg-' meaning 'a flock'.",
+            "example": "The gregarious host made everyone feel at ease.",
+            "image": ""
+        },
+        {
+            "word": "kurnazlık",
+            "translation": "guile",
+            "definition": "Kurnaz veya sinsi zekâ.",
+            "etymology": "Middle English, from Old French, of Germanic origin; related to 'wile'.",
+            "example": "She used her guile to escape the trap.",
+            "image": ""
+        },
+        {
+            "word": "klişe",
+            "translation": "hackneyed",
+            "definition": "(Bir ifade veya fikir için) çok fazla kullanıldığı için anlamını yitirmiş; özgün olmayan ve basmakalıp.",
+            "etymology": "Mid 18th century: from 'hackney' meaning 'used for hire'.",
+            "example": "His speech was full of hackneyed clichés.",
+            "image": ""
+        },
+        {
+            "word": "talihsiz",
+            "translation": "hapless",
+            "definition": "(Özellikle bir kişi için) talihsiz.",
+            "etymology": "Late Middle English, from Old Norse 'hap' meaning 'good fortune'.",
+            "example": "The hapless travellers were stranded at the airport for hours.",
+            "image": ""
+        },
+        {
+            "word": "nutuk",
+            "translation": "harangue",
+            "definition": "Uzun ve sert bir konuşma.",
+            "etymology": "Late Middle English, from Old French 'harangue', of Germanic origin.",
+            "example": "The politician's harangue was aimed at stirring up emotions.",
+            "image": ""
+        },
+        {
+            "word": "hegemonya",
+            "translation": "hegemony",
+            "definition": "Özellikle bir ülke veya toplumsal grubun diğerleri üzerinde sahip olduğu liderlik veya egemenlik.",
+            "etymology": "Mid 16th century, from Greek 'hēgemonia', from 'hēgemōn' meaning 'leader'.",
+            "example": "The country's economic hegemony allowed it to exert influence over its neighbours.",
+            "image": ""
+        },
+        {
+            "word": "iğrenç",
+            "translation": "heinous",
+            "definition": "(Bir kişi veya haksız fiil, özellikle bir suç için) son derece iğrenç veya kötü.",
+            "etymology": "Late Middle English, from Old French 'haineus', from 'haine' meaning 'hatred'.",
+            "example": "The heinous crime shocked the entire nation.",
+            "image": ""
+        },
+        {
+            "word": "heterojen",
+            "translation": "heterogeneous",
+            "definition": "Karakter veya içerik bakımından çeşitlilik gösteren.",
+            "etymology": "Early 17th century, from medieval Latin 'heterogeneus', from Greek 'heterogenēs', from 'heteros' meaning 'other' + 'genos' meaning 'a kind'.",
+            "example": "The heterogeneous group included people from all walks of life.",
+            "image": ""
+        },
+        {
+            "word": "ara",
+            "translation": "hiatus",
+            "definition": "Bir dizi, seri veya süreçte meydana gelen duraklama veya boşluk.",
+            "etymology": "Mid 16th century, from Latin, literally 'gaping'.",
+            "example": "The band took a year-long hiatus after their tour.",
+            "image": ""
+        },
+        {
+            "word": "histrionik",
+            "translation": "histrionic",
+            "definition": "Karakter veya tarz olarak aşırı teatral veya melodramatik.",
+            "etymology": "Mid 17th century, from late Latin 'histrionicus', from Latin 'histrio' meaning 'actor'.",
+            "example": "Her histrionic outburst made everyone uncomfortable.",
+            "image": ""
+        },
+        {
+            "word": "ikonoklast",
+            "translation": "iconoclast",
+            "definition": "Değer verilen inançlara veya kurumlara saldıran veya eleştiren kişi.",
+            "etymology": "Mid 17th century (sense 2): via medieval Latin from ecclesiastical Greek 'eikonoklastēs', from 'eikōn' meaning 'likeness' + 'klan' meaning 'to break'.",
+            "example": "The iconoclast challenged the traditional views of the church.",
+            "image": ""
+        },
+        {
+            "word": "kendine özgü",
+            "translation": "idiosyncratic",
+            "definition": "Özgünlükle ilgili; kendine has veya bireysel.",
+            "etymology": "Early 17th century, from Greek 'idiosunkratia', from 'idios' meaning 'own, private' + 'sun-' meaning 'with' + 'krasis' meaning 'mixture'.",
+            "example": "His idiosyncratic behaviour made him stand out from the crowd.",
+            "image": ""
+        },
+        {
+            "word": "rezil",
+            "translation": "ignominious",
+            "definition": "Kamuoyu önünde utanç veya rezalete yol açan veya bunu hak eden.",
+            "etymology": "Late Middle English, from French 'ignominieux', or from Latin 'ignominiosus', from 'ignominia'.",
+            "example": "The ignominious defeat was a blow to the team's morale.",
+            "image": ""
+        },
+        {
+            "word": "yasadışı",
+            "translation": "illicit",
+            "definition": "Kanun, kural veya gelenek gereği yasaklanmış.",
+            "etymology": "Mid 16th century, from French 'illicite', from Latin 'illicitus', from 'in-' meaning 'not' + 'licitus' meaning 'lawful'.",
+            "example": "The police cracked down on the illicit trade in endangered species.",
+            "image": ""
+        },
+        {
+            "word": "parasız",
+            "translation": "impecunious",
+            "definition": "Paranın az olması veya hiç olmaması.",
+            "etymology": "Late 16th century, from 'im-' meaning 'not' + 'pecunious', from Latin 'pecuniosus' meaning 'wealthy'.",
+            "example": "The impecunious student struggled to pay rent.",
+            "image": ""
+        },
+        {
+            "word": "zorunlu",
+            "translation": "imperative",
+            "definition": "Hayati öneme sahip; çok önemli.",
+            "etymology": "Mid 16th century, from late Latin 'imperativus', from Latin 'imperare' meaning 'to command'.",
+            "example": "It is imperative that you submit your application by the deadline.",
+            "image": ""
+        },
+        {
+            "word": "buyurgan",
+            "translation": "imperious",
+            "definition": "Gerekçesiz yere güç veya yetki üstlenmek; kibirli ve baskıcı olmak.",
+            "etymology": "Mid 16th century, from Latin 'imperiosus', from 'imperium' meaning 'command, authority, empire'.",
+            "example": "Her imperious tone made everyone feel uncomfortable.",
+            "image": ""
+        },
+        {
+            "word": "aceleci",
+            "translation": "impetuous",
+            "definition": "Hızlıca, düşünmeden veya özen göstermeden hareket etmek veya yapmak.",
+            "etymology": "Late Middle English, from Old French 'impetueux', from late Latin 'impetuosus', from 'impetus'.",
+            "example": "His impetuous decision to quit his job surprised everyone.",
+            "image": ""
+        },
+        {
+            "word": "çarpmak",
+            "translation": "impinge",
+            "definition": "Bir etkiye veya sonuca sahip olmak, özellikle de olumsuz bir etkiye sahip olmak.",
+            "etymology": "Mid 16th century, from Latin 'impingere', from 'in-' meaning 'into' + 'pangere' meaning 'fix, drive'.",
+            "example": "The new regulations impinged on the company's ability to operate freely.",
+            "image": ""
+        },
+        {
+            "word": "amansız",
+            "translation": "implacable",
+            "definition": "Yatıştırılamaz veya yatıştırılamaz.",
+            "etymology": "Late Middle English, from Latin 'implacabilis', from 'in-' meaning 'not' + 'placabilis'.",
+            "example": "His implacable hatred for his rival was well known.",
+            "image": ""
+        },
+        {
+            "word": "ısrar etmek",
+            "translation": "importune",
+            "definition": "Birinden bir şey yapmasını veya bir şeyi ısrarla ve ısrarla istemek.",
+            "etymology": "Mid 16th century, from Latin 'importunus', from 'in-' meaning 'not' + 'portunus' meaning 'fitting, opportune'.",
+            "example": "The salesman importuned me to buy the product even after I said no.",
+            "image": ""
+        },
+        {
+            "word": "atfetmek",
+            "translation": "impute",
+            "definition": "Bir şeyi (özellikle istenmeyen bir şeyi) birinin yaptığı, neden olduğu veya sahip olduğu bir şey olarak göstermek; ona atfetmek.",
+            "etymology": "Late Middle English, from Old French 'imputer', from Latin 'imputare', from 'in-' meaning 'in, towards' + 'putare' meaning 'to settle (an account)'.",
+            "example": "The crimes were imputed to the young man, though he was innocent.",
+            "image": ""
+        },
+        {
+            "word": "anlamsız",
+            "translation": "inane",
+            "definition": "Saçma; aptalca.",
+            "etymology": "Mid 16th century, from Latin 'inanis' meaning 'empty, vain'.",
+            "example": "Her inane comments during the meeting irritated everyone.",
+            "image": ""
+        },
+        {
+            "word": "başlangıç",
+            "translation": "inchoate",
+            "definition": "Henüz başlangıç aşamasında, dolayısıyla tam olarak şekillenmemiş veya gelişmemiş; ilkel.",
+            "etymology": "Mid 16th century, from Latin 'inchoatus', past participle of 'inchoare' meaning 'to begin'.",
+            "example": "His inchoate ideas lacked focus and clarity.",
+            "image": ""
+        },
+        {
+            "word": "keskin",
+            "translation": "incisive",
+            "definition": "(Bir kişi veya zihinsel süreç için) zeki, analitik ve net düşünme yeteneğine sahip.",
+            "etymology": "Late Middle English, from late Latin 'incisivus', from Latin 'incis-', from 'incidere' meaning 'to cut into'.",
+            "example": "Her incisive remarks cut through the confusion and got to the heart of the issue.",
+            "image": ""
+        },
+        {
+            "word": "düzeltilemez",
+            "translation": "incorrigible",
+            "definition": "(Bir kişi veya eğilimleri için) düzeltilemez, geliştirilemez veya ıslah edilemez.",
+            "etymology": "Late Middle English, from Old French, from Latin 'incorrigibilis', from 'in-' meaning 'not' + 'corrigere' meaning 'to correct'.",
+            "example": "His incorrigible habit of arriving late caused frustration at work.",
+            "image": ""
+        },
+        {
+            "word": "yorulmak bilmez",
+            "translation": "indefatigable",
+            "definition": "(Bir kişi veya çabaları için) yorulmadan devam eden.",
+            "etymology": "Early 17th century, from Latin 'indefatigabilis', from 'in-' meaning 'not' + 'defatigare' meaning 'wear out'.",
+            "example": "The indefatigable worker never took a day off.",
+            "image": ""
+        },
+        {
+            "word": "tembel",
+            "translation": "indolent",
+            "definition": "Aktivite veya çabadan kaçınmak isteyen; tembel.",
+            "etymology": "Mid 17th century, from late Latin 'indolent-', from in-' meaning 'not' + 'dolere' meaning 'to suffer or give pain'.",
+            "example": "The indolent man spent his days lying on the couch.",
+            "image": ""
+        },
+        {
+            "word": "yılmaz",
+            "translation": "indomitable",
+            "definition": "Boyun eğdirilmesi veya yenilmesi imkansız.",
+            "etymology": "Late Middle English, from Latin 'indomitabilis', from 'in-' meaning 'not' + 'domitare' meaning 'to tame'.",
+            "example": "Her indomitable spirit kept her going even in the face of adversity.",
+            "image": ""
+        },
+        {
+            "word": "tarif edilemez",
+            "translation": "ineffable",
+            "definition": "Sözlerle ifade edilemeyecek veya tarif edilemeyecek kadar büyük veya aşırı.",
+            "etymology": "Late Middle English, from Old French 'ineffable', from Latin 'ineffabilis', from 'in-' meaning 'not' + 'effabilis' meaning 'able to be expressed'.",
+            "example": "The beauty of the sunset was ineffable.",
+            "image": ""
+        },
+        {
+            "word": "beceriksiz",
+            "translation": "inept",
+            "definition": "Beceriksiz veya beceriksiz olduğunu göstermek; sakar.",
+            "etymology": "Early 17th century, from Latin 'ineptus', from 'in-' meaning 'not' + 'aptus' meaning 'fitted'.",
+            "example": "His inept handling of the situation made things worse.",
+            "image": ""
+        },
+        {
+            "word": "amansız",
+            "translation": "inexorable",
+            "definition": "Durdurulması veya önlenmesi imkansız.",
+            "etymology": "Mid 16th century, from French 'inexorable', from Latin 'inexorabilis', from 'in-' meaning 'not' + 'exorabilis' meaning 'to be moved by entreaty'.",
+            "example": "The inexorable march of time affects us all.",
+            "image": ""
+        },
+        {
+            "word": "saf",
+            "translation": "ingenuous",
+            "definition": "(Bir kişi veya eylem için) masum ve şüphelenmeyen.",
+            "etymology": "Late 16th century, from Latin 'ingenuus' meaning 'of noble birth', from 'in-' meaning 'in' + 'gignere' meaning 'to beget'.",
+            "example": "Her ingenuous nature made her easy to trust.",
+            "image": ""
+        },
+        {
+            "word": "düşmanca",
+            "translation": "inimical",
+            "definition": "Engellemeye veya zarar vermeye meyilli.",
+            "etymology": "Late Middle English, from late Latin 'inimicalis', from Latin 'inimicus'.",
+            "example": "The inimical weather conditions made it difficult to continue the journey.",
+            "image": ""
+        },
+        {
+            "word": "doğuştan",
+            "translation": "innate",
+            "definition": "Doğuştan; doğal.",
+            "etymology": "Late Middle English, from Latin 'innatus', from 'in-' meaning 'into' + 'nasci' meaning 'to be born'.",
+            "example": "Her innate sense of justice guided her actions.",
+            "image": ""
+        },
+        {
+            "word": "zararsız",
+            "translation": "innocuous",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "doyumsuz",
+            "translation": "insatiable",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "anlaşılmaz",
+            "translation": "inscrutable",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "sinsi",
+            "translation": "insidious",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "tatsız",
+            "translation": "insipid",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "küstah",
+            "translation": "insolent",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "ada",
+            "translation": "insular",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "uzlaşmaz",
+            "translation": "intransigent",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "cesur",
+            "translation": "intrepid",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "sular altında bırakmak",
+            "translation": "inundate",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "hakaret",
+            "translation": "invective",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "inatçı",
+            "translation": "inveterate",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "dokunulmaz",
+            "translation": "inviolable",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "sinirli",
+            "translation": "irascible",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "saygısız",
+            "translation": "irreverent",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "gezgin",
+            "translation": "itinerant",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "yan yana koymak",
+            "translation": "juxtapose",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "özlü",
+            "translation": "laconic",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "cömertlik",
+            "translation": "largesse",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "gizli",
+            "translation": "latent",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "övgü dolu",
+            "translation": "laudatory",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "sihirbazlık",
+            "translation": "legerdemain",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "hoşgörülü",
+            "translation": "lenient",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "letarji",
+            "translation": "lethargy",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "ahlaksız",
+            "translation": "licentious",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "berrak",
+            "translation": "limpid",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "kilit nokta",
+            "translation": "linchpin",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "litani",
+            "translation": "litany",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "geveze",
+            "translation": "loquacious",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "berrak",
+            "translation": "lucid",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "parlak",
+            "translation": "luminous",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "bağışlayıcı",
+            "translation": "magnanimous",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "lanet",
+            "translation": "malediction",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "kötü niyetli",
+            "translation": "malevolent",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "tembel",
+            "translation": "malinger",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "şekillendirilebilir",
+            "translation": "malleable",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "çokgen",
+            "translation": "manifold",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "duygusal",
+            "translation": "maudlin",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "aykırı",
+            "translation": "maverick",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "duygusal",
+            "translation": "mawkish",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "tatlı dilli",
+            "translation": "mellifluous",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "yalancı",
+            "translation": "mendacious",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "cıva",
+            "translation": "mercurial",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "liyakatli",
+            "translation": "meritorious",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "titiz",
+            "translation": "meticulous",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "az miktarda",
+            "translation": "modicum",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "bataklık",
+            "translation": "morass",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "töreler",
+            "translation": "mores",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "çok çeşitli",
+            "translation": "multifarious",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "cömert",
+            "translation": "munificent",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "sayısız",
+            "translation": "myriad",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "nadir",
+            "translation": "nadir",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        }
+    ]
+}

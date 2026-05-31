@@ -1,0 +1,2277 @@
+{
+    "dictionary_name": "Kamusi ya Maneno ya C2",
+    "words": [
+        {
+            "word": "upotovu",
+            "translation": "aberration",
+            "definition": "Kuachana na kile kilicho cha kawaida, cha kawaida, au kinachotarajiwa, kwa kawaida huwa jambo lisilohitajika.",
+            "etymology": "Late 16th century: from Latin 'aberratio(n-)', from the verb 'aberrare', from 'ab-' away + 'errare' to stray.",
+            "example": "The storm was an aberration from the usual weather pattern.",
+            "image": ""
+        },
+        {
+            "word": "chuki",
+            "translation": "abhor",
+            "definition": "Kuzingatia kwa chuki na chuki.",
+            "etymology": "Late Middle English: from Latin 'abhorrere', from 'ab-' away from + 'horrere' to shudder.",
+            "example": "She abhors violence of any kind.",
+            "image": ""
+        },
+        {
+            "word": "kukataa",
+            "translation": "abnegation",
+            "definition": "Kitendo cha kukataa au kukataa kitu; kujikana.",
+            "etymology": "Late Middle English, from Latin 'abnegatio(n-)' from 'abnegare', from 'ab-' away + 'negare' deny.",
+            "example": "His life of abnegation and austerity was quite admirable.",
+            "image": ""
+        },
+        {
+            "word": "futa",
+            "translation": "abrogate",
+            "definition": "Kufuta au kuondoa (sheria, haki, au makubaliano rasmi).",
+            "etymology": "Early 16th century, from Latin 'abrogat-', 'abrogare', from 'ab-' away, 'rogare' to propose (a law).",
+            "example": "The government decided to abrogate the outdated law.",
+            "image": ""
+        },
+        {
+            "word": "kutoroka",
+            "translation": "abscond",
+            "definition": "Kuondoka haraka na kwa siri, kwa kawaida ili kuepuka kugunduliwa au kukamatwa.",
+            "etymology": "Mid 16th century, from Latin 'abscondere' to hide away, from 'abs-' away + 'condere' to stow.",
+            "example": "The thief absconded with the stolen jewels.",
+            "image": ""
+        },
+        {
+            "word": "isiyoeleweka",
+            "translation": "abstruse",
+            "definition": "Vigumu kuelewa; haijulikani.",
+            "etymology": "Early 17th century, from Latin 'abstrusus', past participle of 'abstrudere' to conceal, from 'ab-' away + 'trudere' to push.",
+            "example": "The professor's lectures were so abstruse that many students gave up.",
+            "image": ""
+        },
+        {
+            "word": "tuzo",
+            "translation": "accolade",
+            "definition": "Tuzo au upendeleo unaotolewa kama heshima maalum au kama utambuzi wa sifa.",
+            "etymology": "Early 17th century, from French, from Provençal 'acolada', based on Latin 'ad-' to + 'collum' neck (referring to the ceremonial embrace conferred by a king when knighting someone).",
+            "example": "She received accolades from critics and fans alike.",
+            "image": ""
+        },
+        {
+            "word": "mwenye hasira kali",
+            "translation": "acrimonious",
+            "definition": "Hasira na uchungu (kawaida ya hotuba au mjadala).",
+            "etymology": "Early 17th century, from acrimony + -ous.",
+            "example": "Their acrimonious divorce proceedings dragged on for years.",
+            "image": ""
+        },
+        {
+            "word": "werevu",
+            "translation": "acumen",
+            "definition": "Uwezo wa kufanya maamuzi mazuri na maamuzi ya haraka, kwa kawaida katika eneo fulani.",
+            "etymology": "Late 16th century, from Latin 'acumen' meaning sharpness, from 'acuere' to sharpen.",
+            "example": "His business acumen led the company to success.",
+            "image": ""
+        },
+        {
+            "word": "onya",
+            "translation": "admonish",
+            "definition": "Kumwonya au kumkemea mtu kwa uthabiti.",
+            "etymology": "Middle English, from Old French 'admonester', based on Latin 'admonere', from 'ad-' to + 'monere' to warn.",
+            "example": "She admonished him for his rudeness.",
+            "image": ""
+        },
+        {
+            "word": "utukufu",
+            "translation": "adulation",
+            "definition": "Pongezi au sifa kupita kiasi.",
+            "etymology": "Late Middle English, from Latin 'adulatio(n-)' from 'adulari' to fawn on.",
+            "example": "The star enjoyed the adulation of his fans.",
+            "image": ""
+        },
+        {
+            "word": "aegis",
+            "translation": "aegis",
+            "definition": "Ulinzi, uungaji mkono, au usaidizi wa mtu au shirika fulani.",
+            "etymology": "Early 17th century, via Latin from Greek 'aigis', meaning shield of Zeus.",
+            "example": "The project was developed under the aegis of the university.",
+            "image": ""
+        },
+        {
+            "word": "mwenye urafiki",
+            "translation": "affable",
+            "definition": "Rafiki, mwenye tabia njema, au rahisi kuzungumza naye.",
+            "etymology": "Late Middle English, from Latin 'affabilis', from 'ad-' to + 'fari' to speak.",
+            "example": "He was an affable and agreeable companion.",
+            "image": ""
+        },
+        {
+            "word": "tajiri",
+            "translation": "affluent",
+            "definition": "Kuwa na pesa nyingi; utajiri.",
+            "etymology": "Late Middle English, from Latin 'affluent-', 'affluere', from 'ad-' to + 'fluere' to flow.",
+            "example": "The affluent neighbourhood was full of mansions and luxury cars.",
+            "image": ""
+        },
+        {
+            "word": "ongeza nguvu",
+            "translation": "aggrandize",
+            "definition": "Kuongeza nguvu, hadhi, au utajiri wa.",
+            "etymology": "Mid 17th century, from French 'agrandiss-' (from the verb 'agrandir', based on Latin 'grandis' large).",
+            "example": "The politician used every opportunity to aggrandize his position.",
+            "image": ""
+        },
+        {
+            "word": "uthabiti",
+            "translation": "alacrity",
+            "definition": "Utayari wa haraka na wa furaha.",
+            "etymology": "Late Middle English, from Latin 'alacritas', from 'alacer' lively, eager.",
+            "example": "She accepted the invitation with alacrity.",
+            "image": ""
+        },
+        {
+            "word": "kujitolea",
+            "translation": "altruism",
+            "definition": "Imani au desturi ya kujali bila ubinafsi ustawi wa wengine.",
+            "etymology": "Mid 19th century, from French 'altruisme', from 'autrui' meaning 'other people'.",
+            "example": "Her altruism was evident in her volunteer work.",
+            "image": ""
+        },
+        {
+            "word": "mchanganyiko",
+            "translation": "amalgamate",
+            "definition": "Kuunganisha au kuungana ili kuunda shirika au muundo mmoja.",
+            "etymology": "Early 17th century, from medieval Latin 'amalgamat-', from the verb 'amalgamare', from 'amalgama'.",
+            "example": "The two companies amalgamated to increase their market share.",
+            "image": ""
+        },
+        {
+            "word": "punguza mkazo",
+            "translation": "ameliorate",
+            "definition": "Kufanya (kitu kibaya au kisichoridhisha) kuwa bora zaidi.",
+            "etymology": "Late 18th century, from Latin 'meliorare', from 'melior' better.",
+            "example": "The reforms were designed to ameliorate the situation.",
+            "image": ""
+        },
+        {
+            "word": "inayoweza kurekebishwa",
+            "translation": "amenable",
+            "definition": "Wazi na huitikia pendekezo; hushawishika au kudhibitiwa kwa urahisi.",
+            "etymology": "Late 16th century, from Old French 'amener' bring to, from 'a-' (from Latin 'ad-' to) + 'mener' to lead.",
+            "example": "The patients were amenable to treatment.",
+            "image": ""
+        },
+        {
+            "word": "uasili",
+            "translation": "anachronism",
+            "definition": "Kitu kinachohusiana au kinachofaa kwa kipindi kingine isipokuwa kile ambacho kipo.",
+            "etymology": "Mid 17th century, from Greek 'anakhronismos', from 'ana-' back + 'khronos' time.",
+            "example": "The sword in the modern-day film was an anachronism.",
+            "image": ""
+        },
+        {
+            "word": "laana",
+            "translation": "anathema",
+            "definition": "Kitu au mtu ambaye mtu humchukii vikali.",
+            "etymology": "Early 16th century, from ecclesiastical Latin, 'excommunicated', from Greek 'anathema' meaning 'an offering' or 'something dedicated'.",
+            "example": "Violence was anathema to his beliefs.",
+            "image": ""
+        },
+        {
+            "word": "kiambatisho",
+            "translation": "annex",
+            "definition": "Kuongeza au kuongeza kama sehemu ya ziada au ya chini, hasa kwenye hati.",
+            "etymology": "Late Middle English, from Old French 'annexer', from Latin 'annectere' to tie or bind.",
+            "example": "The treaty was annexed to the agreement.",
+            "image": ""
+        },
+        {
+            "word": "chuki",
+            "translation": "antipathy",
+            "definition": "Hisia ya chuki iliyozama ndani kabisa.",
+            "etymology": "Late 16th century, from French 'antipathie', from Latin 'antipathia', from Greek 'antipatheia', from 'anti-' against + 'pathos' feeling.",
+            "example": "His antipathy towards authority figures was well known.",
+            "image": ""
+        },
+        {
+            "word": "asiyejali",
+            "translation": "apathetic",
+            "definition": "Kuonyesha au kutohisi nia, shauku, au wasiwasi.",
+            "etymology": "Mid 18th century, from Greek 'apatheia', from 'apathēs' without feeling, from 'a-' without + 'pathos' emotion.",
+            "example": "The voters were apathetic about the upcoming election.",
+            "image": ""
+        },
+        {
+            "word": "apokrifa",
+            "translation": "apocryphal",
+            "definition": "Ya ukweli wa kutiliwa shaka, ingawa imesambazwa sana kama kweli.",
+            "etymology": "Mid 16th century, from ecclesiastical Latin 'apocryphus', from Greek 'apokruphos' meaning hidden or secret.",
+            "example": "The apocryphal story spread quickly through the town.",
+            "image": ""
+        },
+        {
+            "word": "jina la utani",
+            "translation": "appellation",
+            "definition": "Jina au cheo.",
+            "etymology": "Late Middle English, from Old French, from Latin 'appellatio(n-)', from 'appellare' meaning to address.",
+            "example": "He earned the appellation of 'the Great' due to his achievements.",
+            "image": ""
+        },
+        {
+            "word": "idhinisho",
+            "translation": "approbation",
+            "definition": "Idhini au sifa.",
+            "etymology": "Late Middle English, from Latin 'approbatio(n-)', from 'approbare' to approve.",
+            "example": "The plan won the approbation of all the staff.",
+            "image": ""
+        },
+        {
+            "word": "kiholela",
+            "translation": "arbitrary",
+            "definition": "Kulingana na chaguo la nasibu au matakwa ya kibinafsi, badala ya sababu au mfumo wowote.",
+            "etymology": "Late Middle English, from Latin 'arbitrarius', from 'arbiter' judge, supreme ruler.",
+            "example": "His arbitrary decision left everyone confused.",
+            "image": ""
+        },
+        {
+            "word": "angani",
+            "translation": "arcane",
+            "definition": "Inaeleweka na wachache; siri au siri.",
+            "etymology": "Mid 16th century, from Latin 'arcanus' meaning secret, from 'arca' chest.",
+            "example": "The rituals of the cult were arcane and inscrutable.",
+            "image": ""
+        },
+        {
+            "word": "hakikisha",
+            "translation": "ascertain",
+            "definition": "Ili kupata (kitu) kwa uhakika; hakikisha.",
+            "etymology": "Late Middle English, from Old French 'acertener', based on Latin 'certus' settled, sure.",
+            "example": "An attempt to ascertain the cause of the accident.",
+            "image": ""
+        },
+        {
+            "word": "ukosefu wa hewa",
+            "translation": "asperity",
+            "definition": "Ukali wa sauti au namna.",
+            "etymology": "Middle English, from Old French 'asperite', from Latin 'asperitas', from 'asper' rough.",
+            "example": "He pointed out the flaws with some asperity.",
+            "image": ""
+        },
+        {
+            "word": "mwenye bidii",
+            "translation": "assiduous",
+            "definition": "Kuonyesha uangalifu na uvumilivu mkubwa.",
+            "etymology": "Mid 16th century, from Latin 'assiduus', from 'assidere' to attend to.",
+            "example": "She was assiduous in her duties, ensuring everything was perfect.",
+            "image": ""
+        },
+        {
+            "word": "hifadhi",
+            "translation": "asylum",
+            "definition": "Ulinzi unaotolewa na taifa kwa mtu ambaye ameondoka nchini mwake kama mkimbizi wa kisiasa.",
+            "etymology": "Late Middle English, via Latin from Greek 'asulon', from 'a-' without + 'sulon' right of seizure.",
+            "example": "The political dissident sought asylum in a neighbouring country.",
+            "image": ""
+        },
+        {
+            "word": "kupunguza",
+            "translation": "attenuate",
+            "definition": "Ili kupunguza nguvu, athari, au thamani ya.",
+            "etymology": "Late Middle English, from Latin 'attenuatus', past participle of 'attenuare' meaning to make thin.",
+            "example": "The drug's effect was attenuated by the consumption of alcohol.",
+            "image": ""
+        },
+        {
+            "word": "jasiri",
+            "translation": "audacious",
+            "definition": "Kuonyesha nia ya kuchukua hatari kubwa ajabu.",
+            "etymology": "Mid 16th century, from Latin 'audax', from 'audere' meaning to dare.",
+            "example": "Her audacious decision paid off.",
+            "image": ""
+        },
+        {
+            "word": "ongeza",
+            "translation": "augment",
+            "definition": "Kufanya (kitu) kuwa kikubwa zaidi kwa kukiongeza; kuongeza.",
+            "etymology": "Late Middle English, from Old French 'augmenter', from late Latin 'augmentare', from 'augere' to increase.",
+            "example": "He augmented his income by working overtime.",
+            "image": ""
+        },
+        {
+            "word": "mkali",
+            "translation": "austere",
+            "definition": "Mkali au mkali katika tabia, mtazamo, au mwonekano.",
+            "etymology": "Middle English, from Old French 'austere', from Latin 'austerus', from Greek 'austēros' severe.",
+            "example": "The austere teacher rarely smiled.",
+            "image": ""
+        },
+        {
+            "word": "uchoyo",
+            "translation": "avarice",
+            "definition": "Uchoyo mkubwa wa utajiri au faida ya kimwili.",
+            "etymology": "Middle English, from Old French 'avarice', from Latin 'avaritia', from 'avarus' greedy.",
+            "example": "His life was driven by avarice.",
+            "image": ""
+        },
+        {
+            "word": "axiom",
+            "translation": "axiom",
+            "definition": "Kauli au pendekezo linaloonekana kama lililothibitishwa, linalokubalika, au linalojidhihirisha kuwa kweli.",
+            "etymology": "Late 15th century, from French 'axiome', or via late Latin from Greek 'axiōma' that which is thought worthy or fit, from 'axios' worthy.",
+            "example": "It is an axiom that supply equals demand.",
+            "image": ""
+        },
+        {
+            "word": "yenye baa",
+            "translation": "baleful",
+            "definition": "Kutishia madhara; kutishia.",
+            "etymology": "Old English 'bealoful', from 'bealu' evil + 'ful'.",
+            "example": "She gave him a baleful glance.",
+            "image": ""
+        },
+        {
+            "word": "ngome",
+            "translation": "bastion",
+            "definition": "Sehemu inayojitokeza ya ngome iliyojengwa kwa pembe inayoelekea kwenye mstari wa ukuta.",
+            "etymology": "Late 16th century, from French, from Italian 'bastire' to build.",
+            "example": "The bastion stood strong against the attacking forces.",
+            "image": ""
+        },
+        {
+            "word": "amini",
+            "translation": "belie",
+            "definition": "Kushindwa kutoa wazo au taswira halisi ya (kitu); kuficha au kupingana.",
+            "etymology": "Old English 'belēogan' meaning to deceive by lying, from 'be-' about + 'lēogan' to lie.",
+            "example": "His calm manner belied his inner turmoil.",
+            "image": ""
+        },
+        {
+            "word": "mkarimu",
+            "translation": "benevolent",
+            "definition": "Mwenye nia njema na wema.",
+            "etymology": "Late Middle English, from Latin 'benevolent-', from 'bene' well + 'velle' to wish.",
+            "example": "The benevolent stranger offered to pay for the groceries.",
+            "image": ""
+        },
+        {
+            "word": "hafifu",
+            "translation": "benign",
+            "definition": "Mpole na mkarimu.",
+            "etymology": "Middle English, from Old French 'benigne', from Latin 'benignus', from 'bene' well + 'genus' born.",
+            "example": "The old man had a benign smile.",
+            "image": ""
+        },
+        {
+            "word": "urithi",
+            "translation": "bequeath",
+            "definition": "Kuacha (mali binafsi au mwili wa mtu) kwa mtu au mnufaika mwingine kwa wosia.",
+            "etymology": "Old English 'becwethan' meaning to declare or give by will.",
+            "example": "He bequeathed his entire estate to his daughter.",
+            "image": ""
+        },
+        {
+            "word": "bilk",
+            "translation": "bilk",
+            "definition": "Kupata au kumnyima mtu pesa kwa njia isiyo ya haki au kwa udanganyifu; kudanganya au kudanganya.",
+            "etymology": "Mid 17th century (originally denoting a hoax or trick): probably a variant of 'balk'.",
+            "example": "The fraudster bilked investors out of millions.",
+            "image": ""
+        },
+        {
+            "word": "upuuzi",
+            "translation": "blandishment",
+            "definition": "Kauli au kitendo cha kufurahisha au cha kufurahisha kinachotumika kumshawishi mtu kwa upole kufanya jambo fulani.",
+            "etymology": "Late Middle English, from Old French 'blandir', from Latin 'blandus' flattering.",
+            "example": "She used all her blandishments to get her way.",
+            "image": ""
+        },
+        {
+            "word": "yenye mabomu",
+            "translation": "bombastic",
+            "definition": "Sauti ya juu lakini isiyo na maana; iliyojaa.",
+            "etymology": "Late Middle English, from Old French 'bombace' meaning 'cotton padding', used in an earlier sense of 'pompous speech'.",
+            "example": "His bombastic speech was full of exaggerated claims.",
+            "image": ""
+        },
+        {
+            "word": "baraka",
+            "translation": "boon",
+            "definition": "Kitu kinachofaa au chenye manufaa.",
+            "etymology": "Middle English, from Old Norse 'bón' prayer.",
+            "example": "The donation was a great boon to the charity.",
+            "image": ""
+        },
+        {
+            "word": "brusque",
+            "translation": "brusque",
+            "definition": "Kuongea au kwa njia ya ghafla au isiyo ya kawaida.",
+            "etymology": "Mid 17th century, from French 'brusque', from Italian 'brusco' meaning 'sour'.",
+            "example": "His brusque manner sometimes offends people.",
+            "image": ""
+        },
+        {
+            "word": "yenye matuta",
+            "translation": "bumptious",
+            "definition": "Mwenye kujiamini kupita kiasi.",
+            "etymology": "Early 19th century, from 'bump' + '-tious'.",
+            "example": "His bumptious attitude alienated his colleagues.",
+            "image": ""
+        },
+        {
+            "word": "mkali",
+            "translation": "burnish",
+            "definition": "Kung&#39;arisha (kitu, hasa chuma) kwa kusugua.",
+            "etymology": "Middle English, from Old French 'burniss-', lengthened stem of 'burnir', based on late Latin 'burinire' to polish.",
+            "example": "He burnished the silver until it shone.",
+            "image": ""
+        },
+        {
+            "word": "kitako",
+            "translation": "buttress",
+            "definition": "Muundo wa mawe au matofali uliojengwa dhidi ya ukuta ili kuuimarisha au kuutegemeza.",
+            "etymology": "Middle English, from Old French 'boterace', from 'boter' to strike or butt.",
+            "example": "The cathedral’s walls were supported by massive buttresses.",
+            "image": ""
+        },
+        {
+            "word": "sauti ya kejeli",
+            "translation": "cacophony",
+            "definition": "Mchanganyiko mkali na usio na msuguano wa sauti.",
+            "etymology": "Mid 17th century, from Greek 'kakophōnia', from 'kakophōnos' meaning 'ill-sounding', from 'kakos' bad + 'phōnē' voice.",
+            "example": "The cacophony of car horns filled the air.",
+            "image": ""
+        },
+        {
+            "word": "maiti",
+            "translation": "cadaverous",
+            "definition": "Kufanana na maiti kwa kuwa mweupe sana, mwembamba, au mfupa.",
+            "etymology": "Late 16th century, from Latin 'cadaver' corpse.",
+            "example": "His cadaverous appearance alarmed his friends.",
+            "image": ""
+        },
+        {
+            "word": "wasio na huruma",
+            "translation": "callous",
+            "definition": "Kuonyesha au kuwa na kutojali na ukatili kwa wengine.",
+            "etymology": "Late Middle English, from Latin 'callosus' meaning hard-skinned.",
+            "example": "His callous disregard for others' feelings was shocking.",
+            "image": ""
+        },
+        {
+            "word": "kejeli",
+            "translation": "calumny",
+            "definition": "Kutoa kauli za uongo na za kashfa kuhusu mtu ili kuharibu sifa yake.",
+            "etymology": "Late Middle English, from Latin 'calumnia' meaning 'false statement'.",
+            "example": "He was the victim of calumny from his political opponents.",
+            "image": ""
+        },
+        {
+            "word": "urafiki",
+            "translation": "camaraderie",
+            "definition": "Kuaminiana na urafiki miongoni mwa watu wanaotumia muda mwingi pamoja.",
+            "etymology": "Mid 19th century, from French, from 'camarade' meaning comrade.",
+            "example": "The camaraderie among the team members was palpable.",
+            "image": ""
+        },
+        {
+            "word": "uwazi",
+            "translation": "candor",
+            "definition": "Sifa ya kuwa wazi na mkweli katika kujieleza; uwazi.",
+            "etymology": "Late Middle English, from Latin 'candor' meaning 'whiteness'.",
+            "example": "His candor in discussing the issue was refreshing.",
+            "image": ""
+        },
+        {
+            "word": "salimu",
+            "translation": "capitulate",
+            "definition": "Acha kumpinga mpinzani au hitaji lisilohitajika; kujisalimisha.",
+            "etymology": "Mid 16th century, from French 'capituler', from medieval Latin 'capitulare', from 'capitulum' chapter (so called because agreements were formally divided into sections).",
+            "example": "The army capitulated after losing the battle.",
+            "image": ""
+        },
+        {
+            "word": "isiyobadilika",
+            "translation": "capricious",
+            "definition": "Kusababishwa na mabadiliko ya ghafla na yasiyoweza kueleweka ya hisia au tabia.",
+            "etymology": "Early 17th century, from French 'capricieux', from Italian 'capriccioso', from 'capriccio' meaning 'sudden start or motion'.",
+            "example": "Her capricious nature made it hard to predict her actions.",
+            "image": ""
+        },
+        {
+            "word": "katuni",
+            "translation": "caricature",
+            "definition": "Picha, maelezo, au kuiga mtu ambapo sifa fulani za kuvutia hutiwa chumvi ili kuunda athari ya katuni au ya kutisha.",
+            "etymology": "Mid 18th century, from French, from Italian 'caricatura', from 'caricare' meaning 'to load'.",
+            "example": "The artist's caricature of the politician exaggerated his large nose.",
+            "image": ""
+        },
+        {
+            "word": "kashifu",
+            "translation": "castigate",
+            "definition": "Kukemea (mtu) vikali.",
+            "etymology": "Early 17th century, from Latin 'castigat-', from the verb 'castigare', from 'castus' pure, chaste.",
+            "example": "The teacher castigated the students for their poor performance.",
+            "image": ""
+        },
+        {
+            "word": "kichocheo",
+            "translation": "catalyst",
+            "definition": "Dutu inayoongeza kiwango cha mmenyuko wa kemikali bila yenyewe kupitia mabadiliko yoyote ya kudumu ya kemikali.",
+            "etymology": "Early 20th century, from Greek 'katalusis' meaning dissolution, from 'kataluein' to dissolve.",
+            "example": "The new manager was the catalyst for change in the company.",
+            "image": ""
+        },
+        {
+            "word": "catharsis",
+            "translation": "catharsis",
+            "definition": "Mchakato wa kutoa, na hivyo kutoa unafuu kutokana na hisia kali au zilizokandamizwa.",
+            "etymology": "Late Middle English, from Greek 'katharsis' meaning purification.",
+            "example": "Crying after the argument was a catharsis for her.",
+            "image": ""
+        },
+        {
+            "word": "kichocheo",
+            "translation": "caustic",
+            "definition": "Inaweza kuchoma au kuharibu tishu za kikaboni kwa kutumia kemikali.",
+            "etymology": "Late Middle English, from Latin 'causticus', from Greek 'kaustikos', from 'kaustos' meaning 'combustible'.",
+            "example": "The cleaner contained caustic chemicals.",
+            "image": ""
+        },
+        {
+            "word": "lawama",
+            "translation": "censure",
+            "definition": "Kuonyesha kutokubali kabisa (mtu au kitu fulani), kwa kawaida katika taarifa rasmi.",
+            "etymology": "Late Middle English, from Old French 'censurer', from Latin 'censura' meaning 'judgment or assessment'.",
+            "example": "The senator was censured for his inappropriate remarks.",
+            "image": ""
+        },
+        {
+            "word": "ubongo",
+            "translation": "cerebral",
+            "definition": "Ya ubongo wa ubongo.",
+            "etymology": "Early 19th century, from French 'cérébral', from Latin 'cerebrum' meaning 'brain'.",
+            "example": "His cerebral approach to the problem was impressive.",
+            "image": ""
+        },
+        {
+            "word": "ufugaji wa kuku",
+            "translation": "chicanery",
+            "definition": "Matumizi ya hila ili kufikia lengo la kisiasa, kifedha, au kisheria.",
+            "etymology": "Early 17th century, from French 'chicanerie', from 'chicaner' to quibble.",
+            "example": "The candidate was accused of chicanery during the campaign.",
+            "image": ""
+        },
+        {
+            "word": "chide",
+            "translation": "chide",
+            "definition": "Kukemea au kukemea.",
+            "etymology": "Old English 'cīdan' meaning 'quarrel'.",
+            "example": "The mother chided her child for running into the street.",
+            "image": ""
+        },
+        {
+            "word": "koleri",
+            "translation": "choleric",
+            "definition": "Mwenye hasira kali au mwenye hasira kali.",
+            "etymology": "Late Middle English, from Old French 'colerique', from Latin 'cholē' meaning 'bile', one of the four bodily humours (thought to cause a temper).",
+            "example": "His choleric nature made him difficult to work with.",
+            "image": ""
+        },
+        {
+            "word": "uangalifu",
+            "translation": "circumspect",
+            "definition": "Kuwa mwangalifu na kutotaka kuchukua hatari.",
+            "etymology": "Late Middle English, from Latin 'circumspectus', from 'circum-' around + 'specere' to look.",
+            "example": "She was circumspect in her decision to invest in the new company.",
+            "image": ""
+        },
+        {
+            "word": "zunguka",
+            "translation": "circumvent",
+            "definition": "Tafuta njia ya kuzunguka (kikwazo).",
+            "etymology": "Late Middle English, from Latin 'circumvent-', from 'circumvenire', from 'circum-' around + 'venire' to come.",
+            "example": "He circumvented the security system to gain access to the building.",
+            "image": ""
+        },
+        {
+            "word": "siri",
+            "translation": "clandestine",
+            "definition": "Kufichwa au kufanywa kwa siri, hasa kwa sababu ni haramu.",
+            "etymology": "Mid 16th century, from Latin 'clandestinus', from 'clam' secretly.",
+            "example": "Their clandestine meetings were held in a hidden location.",
+            "image": ""
+        },
+        {
+            "word": "ushirikiano",
+            "translation": "coalesce",
+            "definition": "Kusanyikeni pamoja ili kuunda misa moja au nzima.",
+            "etymology": "Mid 16th century, from Latin 'coalescere', from 'co-' together + 'alescere' grow.",
+            "example": "The two companies coalesced to create a larger organization.",
+            "image": ""
+        },
+        {
+            "word": "nguvu",
+            "translation": "cogent",
+            "definition": "(ya hoja au kesi) wazi, yenye mantiki, na yenye kushawishi.",
+            "etymology": "Mid 17th century, from Latin 'cogent-', 'cogere' meaning 'compel'.",
+            "example": "Her cogent argument persuaded the jury.",
+            "image": ""
+        },
+        {
+            "word": "sambamba",
+            "translation": "commensurate",
+            "definition": "Sambamba kwa ukubwa au kiwango; kwa uwiano.",
+            "etymology": "Mid 17th century, from late Latin 'commensuratus', from 'com-' together + 'mensuratus' measured.",
+            "example": "Salary will be commensurate with experience.",
+            "image": ""
+        },
+        {
+            "word": "mkusanyiko",
+            "translation": "compendium",
+            "definition": "Mkusanyiko wa taarifa fupi lakini zenye maelezo kuhusu mada fulani, hasa katika kitabu au chapisho lingine.",
+            "etymology": "Late 16th century, from Latin, from 'compendere' meaning 'weigh together'.",
+            "example": "The book is a compendium of facts about the natural world.",
+            "image": ""
+        },
+        {
+            "word": "msongamano",
+            "translation": "compunction",
+            "definition": "Hisia ya hatia au wasiwasi wa kimaadili unaozuia au unaofuata kufanya jambo baya.",
+            "etymology": "Late Middle English, from Old French 'compunction', from Latin 'compunctio(n-)', from 'compungere' to prick sharply.",
+            "example": "She had no compunction about lying to get what she wanted.",
+            "image": ""
+        },
+        {
+            "word": "sambamba",
+            "translation": "concomitant",
+            "definition": "Kuambatana au kuhusishwa kiasili.",
+            "etymology": "Mid 17th century, from late Latin 'concomitant-', from the verb 'concomitari', from 'con-' together with + 'comitari' to accompany.",
+            "example": "She loved travel, with all its concomitant worries.",
+            "image": ""
+        },
+        {
+            "word": "moto mkali",
+            "translation": "conflagration",
+            "definition": "Moto mkubwa unaoharibu ardhi au mali nyingi.",
+            "etymology": "Late 15th century, from Latin 'conflagratio(n-)', from 'conflagrare' to blaze together.",
+            "example": "The conflagration spread quickly through the forest.",
+            "image": ""
+        },
+        {
+            "word": "makutano",
+            "translation": "confluence",
+            "definition": "Makutano ya mito miwili, hasa mito yenye upana sawa.",
+            "etymology": "Late Middle English, from late Latin 'confluentia', from Latin 'confluere' meaning 'flow together'.",
+            "example": "The confluence of the rivers created a powerful current.",
+            "image": ""
+        },
+        {
+            "word": "dhana",
+            "translation": "conjecture",
+            "definition": "Maoni au hitimisho linaloundwa kwa msingi wa taarifa zisizo kamili.",
+            "etymology": "Late Middle English, from Old French 'conjecturer', from Latin 'conjectura', from 'conicere' meaning 'throw together'.",
+            "example": "Her conjecture about the cause of the problem was based on guesswork.",
+            "image": ""
+        },
+        {
+            "word": "mjanja",
+            "translation": "connive",
+            "definition": "Ruhusu kwa siri (kitu kinachochukuliwa kuwa kisicho cha maadili, kinyume cha sheria, au chenye madhara) kitokee.",
+            "etymology": "Early 17th century, from French 'conniver', from Latin 'connivere', from 'con-' together + 'nivere' meaning 'to wink'.",
+            "example": "The police were accused of conniving with criminals.",
+            "image": ""
+        },
+        {
+            "word": "mtaalamu",
+            "translation": "connoisseur",
+            "definition": "Jaji mtaalamu katika masuala ya ladha.",
+            "etymology": "Early 18th century, from French 'connaisseur', from 'connaître' meaning 'know'.",
+            "example": "He was a connoisseur of fine wines.",
+            "image": ""
+        },
+        {
+            "word": "wenye ukoo",
+            "translation": "consanguineous",
+            "definition": "Kuhusiana au kuashiria watu waliotokana na babu mmoja.",
+            "etymology": "Late 17th century, from Latin 'consanguineus' meaning 'of the same blood'.",
+            "example": "The consanguineous nature of the community made it close-knit.",
+            "image": ""
+        },
+        {
+            "word": "mshtuko",
+            "translation": "consternation",
+            "definition": "Hisia za wasiwasi au kufadhaika, kwa kawaida katika jambo lisilotarajiwa.",
+            "etymology": "Early 17th century, from Latin 'consternatio(n-)', from 'consternare', from 'con-' expressing intensive force + 'sternere' meaning 'lay prostrate'.",
+            "example": "To his consternation, the door was locked.",
+            "image": ""
+        },
+        {
+            "word": "kutafsiri",
+            "translation": "construe",
+            "definition": "Tafsiri (neno au kitendo) kwa njia maalum.",
+            "etymology": "Late Middle English, from Latin 'construere' meaning 'build up, pile together'.",
+            "example": "His remarks were construed as an attack on the government.",
+            "image": ""
+        },
+        {
+            "word": "kamili",
+            "translation": "consummate",
+            "definition": "Kuonyesha kiwango cha juu cha ujuzi na ustadi; kamili au kamilifu.",
+            "etymology": "Late Middle English, from Latin 'consummat-' meaning 'brought to completion', from 'consummare', from 'con-' altogether + 'summa' meaning 'sum total'.",
+            "example": "She was a consummate professional.",
+            "image": ""
+        },
+        {
+            "word": "mzozo",
+            "translation": "contentious",
+            "definition": "Kusababisha au kuna uwezekano wa kusababisha hoja; utata.",
+            "etymology": "Late Middle English, from Old French 'contentieux', from Latin 'contentiosus', from 'contentio' meaning 'strife'.",
+            "example": "The contentious issue divided the community.",
+            "image": ""
+        },
+        {
+            "word": "iliyo karibu",
+            "translation": "contiguous",
+            "definition": "Kushiriki mpaka wa kawaida; kugusana.",
+            "etymology": "Early 16th century, from Latin 'contiguus' meaning 'touching', from 'contingere' meaning 'be in contact with'.",
+            "example": "The contiguous states share a border.",
+            "image": ""
+        },
+        {
+            "word": "toba",
+            "translation": "contrite",
+            "definition": "Kuhisi au kuonyesha majuto au toba; kuathiriwa na hatia.",
+            "etymology": "Middle English, from Old French, or from Latin 'contritus', past participle of 'conterere' meaning 'grind down', from 'con-' expressing intensive force + 'terere' meaning 'to rub'.",
+            "example": "She was contrite after causing the accident.",
+            "image": ""
+        },
+        {
+            "word": "convivious",
+            "translation": "convivial",
+            "definition": "(ya mazingira au tukio) ya kirafiki, yenye uchangamfu, na ya kufurahisha.",
+            "etymology": "Late 17th century, from Latin 'convivium' meaning 'a feast', from 'con-' together + 'vivere' to live.",
+            "example": "The wedding reception was a convivial affair.",
+            "image": ""
+        },
+        {
+            "word": "wingi",
+            "translation": "copious",
+            "definition": "Upatikanaji au wingi mwingi.",
+            "etymology": "Late Middle English, from Old French 'copieux' or Latin 'copiosus', from 'copia' meaning 'plenty'.",
+            "example": "She took copious notes during the lecture.",
+            "image": ""
+        },
+        {
+            "word": "thibitisha",
+            "translation": "corroborate",
+            "definition": "Thibitisha au toa uungwaji mkono kwa (taarifa, nadharia, au ugunduzi).",
+            "etymology": "Mid 16th century, from Latin 'corroborat-', from 'corroborare', from 'cor-' together + 'roborare' meaning 'to strengthen'.",
+            "example": "The witness corroborated the defendant's alibi.",
+            "image": ""
+        },
+        {
+            "word": "uaminifu",
+            "translation": "credence",
+            "definition": "Kuamini au kukubali kitu kama kweli.",
+            "etymology": "Late Middle English, from Old French, from Latin 'credentia', from 'credere' meaning 'to believe'.",
+            "example": "The report gave credence to the rumours.",
+            "image": ""
+        },
+        {
+            "word": "mwenye kuamini",
+            "translation": "credulous",
+            "definition": "Kuwa au kuonyesha utayari mkubwa sana wa kuamini mambo.",
+            "etymology": "Early 16th century, from Latin 'credulus' meaning 'easily deceived'.",
+            "example": "The credulous audience believed every word of the scammer's speech.",
+            "image": ""
+        },
+        {
+            "word": "nzito",
+            "translation": "cumbersome",
+            "definition": "Kubwa au nzito na kwa hivyo ni vigumu kubeba au kutumia; ni vigumu kubeba.",
+            "etymology": "Late Middle English (in the sense 'difficult to get through'): from 'cumber' + '-some'.",
+            "example": "The cumbersome package was hard to transport.",
+            "image": ""
+        },
+        {
+            "word": "uchu",
+            "translation": "cupidity",
+            "definition": "Uchoyo wa pesa au mali.",
+            "etymology": "Late Middle English, from Old French 'cupidite', from Latin 'cupiditas', from 'cupidus' meaning 'desirous', from 'cupere' meaning 'to desire'.",
+            "example": "His cupidity led him to embezzle funds.",
+            "image": ""
+        },
+        {
+            "word": "mshale",
+            "translation": "cursory",
+            "definition": "Haraka na kwa hivyo si kamili au ya kina.",
+            "etymology": "Early 17th century, from Latin 'cursorius', from 'cursor' meaning 'runner', from 'currere' meaning 'to run'.",
+            "example": "The report was completed in a cursory manner.",
+            "image": ""
+        },
+        {
+            "word": "uhaba",
+            "translation": "dearth",
+            "definition": "Uhaba au ukosefu wa kitu.",
+            "etymology": "Middle English, from 'dear' + '-th'.",
+            "example": "There was a dearth of job opportunities in the small town.",
+            "image": ""
+        },
+        {
+            "word": "janga",
+            "translation": "debacle",
+            "definition": "Kushindwa ghafla na kwa aibu; hitilafu.",
+            "etymology": "Early 19th century, from French 'débâcle', from 'débâcler' meaning 'to unbar', from 'des-' meaning 'away' + 'bacler' meaning 'to bar'.",
+            "example": "The dinner party turned into a debacle when the chef quit.",
+            "image": ""
+        },
+        {
+            "word": "debunk",
+            "translation": "debunk",
+            "definition": "Onyesha uwongo au utupu wa (hadithi, wazo, au imani).",
+            "etymology": "1920s, from 'bunk', short for 'bunkum'.",
+            "example": "The journalist debunked the conspiracy theory.",
+            "image": ""
+        },
+        {
+            "word": "uozo",
+            "translation": "decadence",
+            "definition": "Kuporomoka kwa maadili au kitamaduni kunakoonyeshwa na kujifurahisha kupita kiasi katika anasa au anasa.",
+            "etymology": "Mid 16th century, from French 'décadence', from medieval Latin 'decadentia', from 'decadere' meaning 'to decay'.",
+            "example": "The decadence of the Roman Empire contributed to its fall.",
+            "image": ""
+        },
+        {
+            "word": "mapambo",
+            "translation": "decorum",
+            "definition": "Tabia inayoendana na ladha nzuri na ustahifu.",
+            "etymology": "Late Middle English, from Latin, neuter of 'decorus' meaning 'seemly'.",
+            "example": "She maintained her decorum throughout the formal dinner.",
+            "image": ""
+        },
+        {
+            "word": "heshima",
+            "translation": "deference",
+            "definition": "Unyenyekevu na heshima.",
+            "etymology": "Mid 17th century, from French 'déférence', from 'déférer' meaning 'to defer'.",
+            "example": "He addressed her with deference, recognising her authority.",
+            "image": ""
+        },
+        {
+            "word": "mbaya",
+            "translation": "deleterious",
+            "definition": "Kusababisha madhara au uharibifu.",
+            "etymology": "Mid 17th century, from Greek 'dēlētērios' meaning 'noxious'.",
+            "example": "The deleterious effects of smoking are well known.",
+            "image": ""
+        },
+        {
+            "word": "demagogue",
+            "translation": "demagogue",
+            "definition": "Kiongozi wa kisiasa anayetafuta uungwaji mkono kwa kushawishi matamanio na ubaguzi wa watu wa kawaida badala ya kutumia hoja zenye mantiki.",
+            "etymology": "Mid 17th century, from Greek 'dēmagōgos', from 'dēmos' meaning 'the people' + 'agōgos' meaning 'leading'.",
+            "example": "The demagogue manipulated public fears to gain support.",
+            "image": ""
+        },
+        {
+            "word": "demur",
+            "translation": "demur",
+            "definition": "Kuongeza mashaka au pingamizi au kuonyesha kusitasita.",
+            "etymology": "Late Middle English, from Old French 'demourer', based on Latin 'demorari' meaning 'to delay'.",
+            "example": "She agreed without demur.",
+            "image": ""
+        },
+        {
+            "word": "dharau",
+            "translation": "denigrate",
+            "definition": "Kukosoa isivyo haki; dharau.",
+            "etymology": "Late Middle English, from Latin 'denigrat-', from the verb 'denigrare', from 'de-' meaning 'away, completely' + 'niger' meaning 'black'.",
+            "example": "The media denigrated the politician’s reputation.",
+            "image": ""
+        },
+        {
+            "word": "uharibifu",
+            "translation": "depredation",
+            "definition": "Kitendo cha kushambulia au kupora.",
+            "etymology": "Early 17th century, from Latin 'depraedatio(n-)', from 'depraedari' meaning 'plunder'.",
+            "example": "The depredation of the village by the invaders was swift and brutal.",
+            "image": ""
+        },
+        {
+            "word": "dhalimu",
+            "translation": "despot",
+            "definition": "Mtawala au mtu mwingine mwenye mamlaka kamili, kwa kawaida yule anayeyatumia kwa njia ya kikatili au ya kukandamiza.",
+            "etymology": "Mid 16th century, from French 'despote', via medieval Latin from Greek 'despotēs' meaning 'master'.",
+            "example": "The despot ruled with an iron fist.",
+            "image": ""
+        },
+        {
+            "word": "mwenye diafani",
+            "translation": "diaphanous",
+            "definition": "(Hasa ya kitambaa) nyepesi, maridadi, na inayong&#39;aa.",
+            "etymology": "Early 17th century, from medieval Latin 'diaphanus', from Greek 'diaphanēs', from 'dia-' meaning 'through' + 'phainein' meaning 'to show'.",
+            "example": "The diaphanous curtains billowed gently in the breeze.",
+            "image": ""
+        },
+        {
+            "word": "mafundisho",
+            "translation": "didactic",
+            "definition": "Imekusudiwa kufundisha, hasa katika kuwa na mafundisho ya maadili kama nia ya siri.",
+            "etymology": "Mid 17th century, from Greek 'didaktikos', from 'didaskein' meaning 'to teach'.",
+            "example": "The didactic novel aimed to impart moral lessons.",
+            "image": ""
+        },
+        {
+            "word": "mseto",
+            "translation": "diffident",
+            "definition": "Mwenye kiasi au mwenye haya kwa sababu ya kutojiamini.",
+            "etymology": "Late Middle English, from Latin 'diffident-', from the verb 'diffidere', from 'dis-' meaning 'away' + 'fidere' meaning 'to trust'.",
+            "example": "The diffident student was reluctant to speak in class.",
+            "image": ""
+        },
+        {
+            "word": "kupanuka",
+            "translation": "dilatory",
+            "definition": "Polepole kuchukua hatua.",
+            "etymology": "Late Middle English, from Old French 'dilatoire', from Latin 'dilatorius', from 'dilatare' meaning 'defer, postpone'.",
+            "example": "The government’s dilatory response frustrated the public.",
+            "image": ""
+        },
+        {
+            "word": "pungufu",
+            "translation": "diminutive",
+            "definition": "Ndogo sana au isiyo ya kawaida.",
+            "etymology": "Late Middle English, from Old French, from Latin 'diminutivus', from 'diminuere' meaning 'diminish'.",
+            "example": "The diminutive figure seemed out of place among the tall athletes.",
+            "image": ""
+        },
+        {
+            "word": "tofauti",
+            "translation": "disparate",
+            "definition": "Kimsingi ni tofauti katika aina; hairuhusu ulinganisho.",
+            "etymology": "Late Middle English, from Latin 'disparatus', from 'disparare' meaning 'to separate'.",
+            "example": "The two theories are based on disparate assumptions.",
+            "image": ""
+        },
+        {
+            "word": "tenganisha",
+            "translation": "dissemble",
+            "definition": "Ficha nia, hisia, au imani za kweli za mtu.",
+            "etymology": "Late Middle English, from Old French 'dissimuler', based on Latin 'dissimulare' meaning 'to disguise'.",
+            "example": "He dissembled his true intentions with a smile.",
+            "image": ""
+        },
+        {
+            "word": "mfarakano",
+            "translation": "dissension",
+            "definition": "Kutokubaliana kunakosababisha kutoelewana.",
+            "etymology": "Middle English, from Old French 'dissension', from Latin 'dissensio(n-)', from 'dissentire' meaning 'to differ in sentiment'.",
+            "example": "The political party was torn apart by internal dissension.",
+            "image": ""
+        },
+        {
+            "word": "tawanya",
+            "translation": "dissipate",
+            "definition": "Kutawanya au kutawanya.",
+            "etymology": "Late Middle English, from Latin 'dissipare' meaning 'scatter'.",
+            "example": "The fog dissipated as the sun rose.",
+            "image": ""
+        },
+        {
+            "word": "mtiifu",
+            "translation": "docile",
+            "definition": "Uko tayari kukubali udhibiti au maelekezo; mtiifu.",
+            "etymology": "Late 15th century, from Latin 'docilis', from 'docere' meaning 'teach'.",
+            "example": "The docile puppy quickly learned new commands.",
+            "image": ""
+        },
+        {
+            "word": "kiitikadi",
+            "translation": "dogmatic",
+            "definition": "Nilipenda kuweka kanuni kama kweli isiyopingika.",
+            "etymology": "Mid 16th century, from late Latin 'dogmaticus', from Greek 'dogmatikos', from 'dogma' meaning 'opinion'.",
+            "example": "The professor's dogmatic approach left no room for debate.",
+            "image": ""
+        },
+        {
+            "word": "douri",
+            "translation": "dour",
+            "definition": "Mkali, mkali, au mwenye huzuni bila kukoma katika hali au mwonekano.",
+            "etymology": "Late Middle English (in the sense 'obstinate'): probably from Scottish Gaelic 'dur', from Latin 'durus' meaning 'hard'.",
+            "example": "The dour expression on his face revealed his disappointment.",
+            "image": ""
+        },
+        {
+            "word": "unafiki",
+            "translation": "duplicity",
+            "definition": "Udanganyifu; biashara mbili.",
+            "etymology": "Late Middle English, from Old French, from late Latin 'duplicitas', from 'duplex' meaning 'double'.",
+            "example": "Her duplicity was uncovered when she was caught lying to both parties.",
+            "image": ""
+        },
+        {
+            "word": "yenye kunusa",
+            "translation": "ebullient",
+            "definition": "Furaha na nguvu nyingi.",
+            "etymology": "Late 16th century, from Latin 'ebullient-', from 'ebullire' meaning 'to boil up'.",
+            "example": "Her ebullient personality made her the life of the party.",
+            "image": ""
+        },
+        {
+            "word": "mseto",
+            "translation": "eclectic",
+            "definition": "Kupata mawazo, mtindo, au ladha kutoka vyanzo mbalimbali na vingi.",
+            "etymology": "Late 17th century, from Greek 'eklektikos', from 'eklegein' meaning 'to pick out'.",
+            "example": "His eclectic taste in music included everything from classical to punk rock.",
+            "image": ""
+        },
+        {
+            "word": "jengo",
+            "translation": "edifice",
+            "definition": "Jengo kubwa, la kuvutia.",
+            "etymology": "Late Middle English, from Latin 'aedificium', from 'aedificare' meaning 'to build'.",
+            "example": "The cathedral was an impressive edifice.",
+            "image": ""
+        },
+        {
+            "word": "efface",
+            "translation": "efface",
+            "definition": "Futa (alama) kutoka kwenye uso.",
+            "etymology": "Mid 16th century, from French 'effacer', from 'e-' meaning 'away' + 'face' meaning 'face'.",
+            "example": "The inscription had been effaced by the passage of time.",
+            "image": ""
+        },
+        {
+            "word": "mwangaza",
+            "translation": "effervescent",
+            "definition": "(Ya kimiminika) kutoa viputo; kipumuaji.",
+            "etymology": "Early 18th century, from Latin 'effervescere', from 'ex-' meaning 'out, up' + 'fervescere' meaning 'begin to boil'.",
+            "example": "The effervescent drink tickled her throat.",
+            "image": ""
+        },
+        {
+            "word": "ufanisi",
+            "translation": "efficacy",
+            "definition": "Uwezo wa kutoa matokeo yanayotarajiwa au yaliyokusudiwa.",
+            "etymology": "Early 16th century, from Latin 'efficacia', from 'efficax' meaning 'efficacious'.",
+            "example": "The efficacy of the treatment was confirmed by the studies.",
+            "image": ""
+        },
+        {
+            "word": "ukali",
+            "translation": "effrontery",
+            "definition": "Tabia ya kiburi au ya kiburi.",
+            "etymology": "Late 17th century, from French 'effronterie', based on late Latin 'effrons' meaning 'shameless'.",
+            "example": "The student's effrontery in speaking back to the teacher was shocking.",
+            "image": ""
+        },
+        {
+            "word": "mbaya",
+            "translation": "egregious",
+            "definition": "Mbaya sana; ya kushangaza.",
+            "etymology": "Mid 16th century, from Latin 'egregius' meaning 'standing out from the flock'.",
+            "example": "The company's egregious disregard for the environment led to public outrage.",
+            "image": ""
+        },
+        {
+            "word": "kuchochea",
+            "translation": "elicit",
+            "definition": "Kuamsha au kutoa maoni (mwitikio, jibu, au ukweli) kutoka kwa mtu.",
+            "etymology": "Mid 17th century, from Latin 'elicere', from 'e-' meaning 'out' + 'lacere' meaning 'entice'.",
+            "example": "The comedian's jokes elicited laughter from the audience.",
+            "image": ""
+        },
+        {
+            "word": "fafanua",
+            "translation": "elucidate",
+            "definition": "Eleza (kitu) wazi; eleza.",
+            "etymology": "Late 16th century, from late Latin 'elucidat-', from 'elucidare', from 'e-' meaning 'out' + 'lucidus' meaning 'lucid'.",
+            "example": "The professor elucidated the complex theory with several examples.",
+            "image": ""
+        },
+        {
+            "word": "dhaifu",
+            "translation": "emaciated",
+            "definition": "Mwembamba au dhaifu kupita kiasi, hasa kwa sababu ya ugonjwa au ukosefu wa chakula.",
+            "etymology": "Early 17th century, from Latin 'emaciatus', from the verb 'emaciare', from 'e-' meaning 'out' + 'macies' meaning 'leanness'.",
+            "example": "The emaciated refugees were given food and shelter.",
+            "image": ""
+        },
+        {
+            "word": "rekebisha",
+            "translation": "emend",
+            "definition": "Fanya marekebisho na maboresho kwenye (maandishi).",
+            "etymology": "Late Middle English, from Latin 'emendare', from 'e-' meaning 'out' + 'mendum' meaning 'fault'.",
+            "example": "The editor emended the manuscript before publication.",
+            "image": ""
+        },
+        {
+            "word": "mashuhuri",
+            "translation": "eminent",
+            "definition": "(Ya mtu) maarufu na anayeheshimika ndani ya nyanja au taaluma fulani.",
+            "etymology": "Late Middle English, from Latin 'eminent-', from 'eminere' meaning 'stand out'.",
+            "example": "The eminent scientist was awarded a Nobel Prize.",
+            "image": ""
+        },
+        {
+            "word": "kiburudisho",
+            "translation": "emollient",
+            "definition": "Kuwa na ubora wa kulainisha au kutuliza ngozi.",
+            "etymology": "Mid 17th century, from Latin 'emollient-', from the verb 'emollire', from 'e-' meaning 'out' + 'mollis' meaning 'soft'.",
+            "example": "The emollient lotion relieved her dry skin.",
+            "image": ""
+        },
+        {
+            "word": "majaribio",
+            "translation": "empirical",
+            "definition": "Kulingana na, kuhusiana na, au kuthibitishwa kwa uchunguzi au uzoefu badala ya nadharia au mantiki safi.",
+            "etymology": "Mid 16th century, from Latin 'empiricus', from Greek 'empeirikos', from 'empeiria' meaning 'experience'.",
+            "example": "The empirical data supported the scientist's hypothesis.",
+            "image": ""
+        },
+        {
+            "word": "enervate",
+            "translation": "enervate",
+            "definition": "Kusababisha (mtu) kuhisi amechoka na nguvu au uhai; kudhoofika.",
+            "etymology": "Early 17th century, from Latin 'enervat-', from the verb 'enervare', from 'e-' meaning 'out of' + 'nervus' meaning 'sinew'.",
+            "example": "The heat enervated the workers, making it hard to continue.",
+            "image": ""
+        },
+        {
+            "word": "hakimiliki",
+            "translation": "enfranchise",
+            "definition": "Mpe haki ya kupiga kura.",
+            "etymology": "Late Middle English, from Old French 'enfranchir', from 'en-' meaning 'in' + 'franc' meaning 'free'.",
+            "example": "The movement sought to enfranchise all citizens, regardless of gender.",
+            "image": ""
+        },
+        {
+            "word": "mzalishaji",
+            "translation": "engender",
+            "definition": "Kusababisha au kusababisha (hisia, hali, au hali).",
+            "etymology": "Middle English, from Old French 'engendrer', from Latin 'ingenerare', from 'in-' meaning 'in' + 'generare' meaning 'beget'.",
+            "example": "The controversial decision engendered a debate among the community.",
+            "image": ""
+        },
+        {
+            "word": "fumbo",
+            "translation": "enigma",
+            "definition": "Mtu au kitu ambacho ni cha fumbo, cha kutatanisha, au kigumu kuelewa.",
+            "etymology": "Late 16th century, via Latin from Greek 'ainigma', from 'ainissesthai' meaning 'speak allusively'.",
+            "example": "The artist was an enigma, known for his cryptic messages.",
+            "image": ""
+        },
+        {
+            "word": "uadui",
+            "translation": "enmity",
+            "definition": "Hali au hisia ya kupinga kikamilifu au kuwa na uadui kwa mtu au kitu fulani.",
+            "etymology": "Middle English, from Old French 'enemistie', based on Latin 'inimicus'.",
+            "example": "The longstanding enmity between the two nations was hard to overcome.",
+            "image": ""
+        },
+        {
+            "word": "ennui",
+            "translation": "ennui",
+            "definition": "Hisia ya kutojali na kutoridhika kunakotokana na ukosefu wa kazi au msisimko.",
+            "etymology": "Mid 18th century, from French, from Latin 'inodiare' meaning 'to make loathsome'.",
+            "example": "The endless meetings filled him with ennui.",
+            "image": ""
+        },
+        {
+            "word": "ya muda mfupi",
+            "translation": "ephemeral",
+            "definition": "Inadumu kwa muda mfupi sana.",
+            "etymology": "Late 16th century, from Greek 'ephemeros' meaning 'lasting only a day'.",
+            "example": "The beauty of the sunset was ephemeral.",
+            "image": ""
+        },
+        {
+            "word": "epistolari",
+            "translation": "epistolary",
+            "definition": "Kuhusiana au kuashiria uandishi wa barua au kazi za fasihi katika mfumo wa barua.",
+            "etymology": "Mid 17th century, from French 'épistolaire', from Latin 'epistolaris', from 'epistola' meaning 'letter'.",
+            "example": "The novel was written in an epistolary format.",
+            "image": ""
+        },
+        {
+            "word": "usawa",
+            "translation": "equanimity",
+            "definition": "Utulivu wa kiakili, utulivu, na usawa wa tabia, hasa katika hali ngumu.",
+            "etymology": "Early 17th century, from Latin 'aequanimitas', from 'aequus' meaning 'equal' + 'animus' meaning 'mind'.",
+            "example": "She handled the stressful situation with remarkable equanimity.",
+            "image": ""
+        },
+        {
+            "word": "pingamizi",
+            "translation": "equivocate",
+            "definition": "Tumia lugha isiyoeleweka ili kuficha ukweli au kuepuka kujitoa.",
+            "etymology": "Late Middle English, from late Latin 'aequivocat-' meaning 'called by the same name'.",
+            "example": "The politician equivocated when asked about the scandal.",
+            "image": ""
+        },
+        {
+            "word": "msomi",
+            "translation": "erudite",
+            "definition": "Kuwa na au kuonyesha maarifa au kujifunza vizuri.",
+            "etymology": "Late Middle English, from Latin 'eruditus', from 'erudire' meaning 'instruct'.",
+            "example": "The professor's erudite lecture impressed the students.",
+            "image": ""
+        },
+        {
+            "word": "epuka",
+            "translation": "eschew",
+            "definition": "Epuka kutumia kwa makusudi; jiepushe na.",
+            "etymology": "Late Middle English, from Old French 'eschiver', of Germanic origin; related to 'shun'.",
+            "example": "He eschewed violence in all its forms.",
+            "image": ""
+        },
+        {
+            "word": "kisirisiri",
+            "translation": "esoteric",
+            "definition": "Imekusudiwa au inawezekana kueleweka na idadi ndogo tu ya watu wenye ujuzi au maslahi maalum.",
+            "etymology": "Mid 17th century, from Greek 'esōterikos', from 'esōterō' meaning 'within', from 'eis' meaning 'into'.",
+            "example": "The esoteric philosophy was difficult for outsiders to grasp.",
+            "image": ""
+        },
+        {
+            "word": "mtetezi",
+            "translation": "espouse",
+            "definition": "Kukubali au kuunga mkono (sababu, imani, au mtindo wa maisha).",
+            "etymology": "Late Middle English (in the sense 'marry'): from Old French 'espouser', from Latin 'sponsare', from 'spondere' meaning 'betroth'.",
+            "example": "The senator espoused the idea of reform.",
+            "image": ""
+        },
+        {
+            "word": "ethereal",
+            "translation": "ethereal",
+            "definition": "Nyepesi sana na nyepesi kwa njia ambayo inaonekana kamili sana kwa ulimwengu huu.",
+            "etymology": "Mid 16th century, from Greek 'aitherios', from 'aither' meaning 'ether'.",
+            "example": "The ballerina's ethereal movements captivated the audience.",
+            "image": ""
+        },
+        {
+            "word": "sifa",
+            "translation": "eulogy",
+            "definition": "Hotuba au maandishi yanayomsifu sana mtu au kitu, hasa heshima kwa mtu ambaye amefariki hivi karibuni.",
+            "etymology": "Late Middle English, from medieval Latin 'eulogium', from Greek 'eulogia' meaning 'praise'.",
+            "example": "His eulogy at the funeral was heartfelt.",
+            "image": ""
+        },
+        {
+            "word": "euphemism",
+            "translation": "euphemism",
+            "definition": "Neno au usemi mpole au usio wa moja kwa moja hubadilisha ule unaochukuliwa kuwa mkali sana au mkweli unaporejelea jambo lisilopendeza au la aibu.",
+            "etymology": "Late 16th century, from Greek 'euphemismos', from 'euphēmizein' meaning 'use auspicious words', from 'eu-' meaning 'well' + 'phēmē' meaning 'speaking'.",
+            "example": "The company used 'downsizing' as a euphemism for layoffs.",
+            "image": ""
+        },
+        {
+            "word": "kubadilika",
+            "translation": "evanescent",
+            "definition": "Hupotea haraka, hupotea, husahaulika, au kuwepo; hupotea au kutoweka haraka.",
+            "etymology": "Early 18th century, from Latin 'evanescent-', from the verb 'evanescere', from 'e-' meaning 'out of' + 'vanescere' meaning 'vanish'.",
+            "example": "The evanescent rainbow disappeared as quickly as it appeared.",
+            "image": ""
+        },
+        {
+            "word": "ushahidi",
+            "translation": "evince",
+            "definition": "Kufichua uwepo wa (sifa au hisia); kuonyesha.",
+            "etymology": "Late 16th century, from Latin 'evincere', from 'e-' meaning 'out' + 'vincere' meaning 'overcome'.",
+            "example": "His comments evinced a genuine interest in the topic.",
+            "image": ""
+        },
+        {
+            "word": "kuzidisha",
+            "translation": "exacerbate",
+            "definition": "Kufanya (tatizo, hali mbaya, au hisia hasi) kuwa mbaya zaidi.",
+            "etymology": "Mid 17th century, from Latin 'exacerbat-', from the verb 'exacerbare', from 'ex-' meaning 'thoroughly' + 'acerbus' meaning 'harsh, bitter'.",
+            "example": "His refusal to apologize only exacerbated the tension.",
+            "image": ""
+        },
+        {
+            "word": "exculpate",
+            "translation": "exculpate",
+            "definition": "Onyesha au tangaza kwamba (mtu) hana hatia ya kufanya makosa.",
+            "etymology": "Mid 17th century, from medieval Latin 'exculpat-', from 'exculpare', from 'ex-' meaning 'out' + 'culpa' meaning 'blame'.",
+            "example": "The evidence exculpated the defendant from any wrongdoing.",
+            "image": ""
+        },
+        {
+            "word": "mfano",
+            "translation": "exemplary",
+            "definition": "Inatumika kama kielelezo kinachostahili; ikiwakilisha bora zaidi ya aina yake.",
+            "etymology": "Late 16th century, from late Latin 'exemplaris', from Latin 'exemplum' meaning 'example'.",
+            "example": "Her exemplary work ethic set a standard for others.",
+            "image": ""
+        },
+        {
+            "word": "exigent",
+            "translation": "exigent",
+            "definition": "Kushinikiza; kudai.",
+            "etymology": "Late Middle English, from Latin 'exigent-', from 'exigere', from 'ex-' meaning 'out' + 'agere' meaning 'drive'.",
+            "example": "The exigent demands of the job were overwhelming.",
+            "image": ""
+        },
+        {
+            "word": "kuondoa hatia",
+            "translation": "exonerate",
+            "definition": "(Hasa ya chombo rasmi) huondoa (mtu) lawama kwa kosa au kosa, hasa baada ya kuzingatiwa ipasavyo kwa kesi hiyo.",
+            "etymology": "Late Middle English, from Latin 'exonerat-', from the verb 'exonerare', from 'ex-' meaning 'from' + 'onus' meaning 'a burden'.",
+            "example": "The DNA evidence exonerated him from the crime.",
+            "image": ""
+        },
+        {
+            "word": "kupita kiasi",
+            "translation": "exorbitant",
+            "definition": "(Kwa bei au kiasi kinachotozwa) juu sana.",
+            "etymology": "Late Middle English, from Latin 'exorbitant-', from 'exorbitare', from 'ex-' meaning 'out from' + 'orbita' meaning 'track'.",
+            "example": "The exorbitant price of the meal shocked the diners.",
+            "image": ""
+        },
+        {
+            "word": "haraka",
+            "translation": "expedient",
+            "definition": "(Kwa kitendo) rahisi na kinachofaa, ingawa huenda si sahihi au kisicho cha maadili.",
+            "etymology": "Late Middle English, from Latin 'expedient-', from the verb 'expedire', from 'ex-' meaning 'out' + 'pes' meaning 'foot'.",
+            "example": "The mayor's decision to approve the project was politically expedient.",
+            "image": ""
+        },
+        {
+            "word": "toa msamaha",
+            "translation": "expiate",
+            "definition": "Lipia (hatia au dhambi).",
+            "etymology": "Late Middle English, from Latin 'expiat-', from the verb 'expiare', from 'ex-' meaning 'out' + 'piare' meaning 'appease'.",
+            "example": "He tried to expiate his sins by donating to charity.",
+            "image": ""
+        },
+        {
+            "word": "futa",
+            "translation": "expunge",
+            "definition": "Kufuta au kuondoa kabisa; kufuta au kufuta.",
+            "etymology": "Early 17th century, from Latin 'expungere', meaning to mark for deletion (from 'ex-' meaning out and 'pungere' meaning to prick).",
+            "example": "The criminal record was expunged after the charges were dropped.",
+            "image": ""
+        },
+        {
+            "word": "iliyopo",
+            "translation": "extant",
+            "definition": "(Hasa hati) bado ipo; imesalia.",
+            "etymology": "Mid 16th century, from Latin 'exstant-', from the verb 'exstare', from 'ex-' meaning 'out' + 'stare' meaning 'to stand'.",
+            "example": "The only extant copy of the manuscript was found in a library.",
+            "image": ""
+        },
+        {
+            "word": "isiyo ya wakati halisi",
+            "translation": "extemporaneous",
+            "definition": "Kutamkwa au kufanywa bila maandalizi.",
+            "etymology": "Mid 17th century, from late Latin 'extemporaneus', from 'ex tempore' meaning 'out of the time'.",
+            "example": "His extemporaneous speech impressed the audience.",
+            "image": ""
+        },
+        {
+            "word": "sifa",
+            "translation": "extol",
+            "definition": "Sifa kwa shauku.",
+            "etymology": "Late Middle English, from Latin 'extollere', from 'ex-' meaning 'out, upward' + 'tollere' meaning 'raise'.",
+            "example": "The mayor extolled the volunteers for their hard work.",
+            "image": ""
+        },
+        {
+            "word": "nje ya",
+            "translation": "extraneous",
+            "definition": "Haina uhusiano wowote au haihusiani na mhusika anayeshughulikiwa.",
+            "etymology": "Mid 17th century, from Latin 'extraneus' meaning 'external, strange', from 'extra' meaning 'outside'.",
+            "example": "The report was full of extraneous information.",
+            "image": ""
+        },
+        {
+            "word": "extrapolate",
+            "translation": "extrapolate",
+            "definition": "Panua matumizi ya (mbinu au hitimisho) kwa hali isiyojulikana kwa kudhani kwamba mitindo iliyopo itaendelea au mbinu kama hizo zitatumika.",
+            "etymology": "Early 19th century, from 'extra-' meaning 'outside' + a shortened form of 'interpolate'.",
+            "example": "The scientist extrapolated future trends based on the data collected.",
+            "image": ""
+        },
+        {
+            "word": "kutoa",
+            "translation": "extricate",
+            "definition": "Huru (mtu au kitu fulani) kutokana na kizuizi au ugumu.",
+            "etymology": "Early 17th century, from Latin 'extricat-', from the verb 'extricare', from 'ex-' meaning 'out' + 'tricae' meaning 'perplexities'.",
+            "example": "He tried to extricate himself from the awkward situation.",
+            "image": ""
+        },
+        {
+            "word": "mwenye uso",
+            "translation": "facetious",
+            "definition": "Kushughulikia masuala makubwa kwa ucheshi usiofaa kimakusudi; ucheshi wa dharau.",
+            "etymology": "Late 16th century, from French 'facétieux', from 'facétie' meaning 'a joke', from Latin 'facetia' meaning 'jest'.",
+            "example": "His facetious remarks during the meeting were not appreciated.",
+            "image": ""
+        },
+        {
+            "word": "udanganyifu",
+            "translation": "fallacious",
+            "definition": "Kulingana na imani potofu.",
+            "etymology": "Early 16th century, from Latin 'fallaciosus', from 'fallacia' meaning 'deceit', from 'fallax' meaning 'deceptive'.",
+            "example": "The argument was based on fallacious reasoning.",
+            "image": ""
+        },
+        {
+            "word": "mnono",
+            "translation": "fatuous",
+            "definition": "Upumbavu na usio na maana.",
+            "etymology": "Early 17th century, from Latin 'fatuus' meaning 'foolish'.",
+            "example": "His fatuous comments only served to annoy everyone.",
+            "image": ""
+        },
+        {
+            "word": "fecund",
+            "translation": "fecund",
+            "definition": "Kuzalisha au kuweza kutoa wingi wa watoto au ukuaji mpya; wenye rutuba.",
+            "etymology": "Late Middle English, from French 'fécond', from Latin 'fecundus' meaning 'fruitful'.",
+            "example": "The fecund soil produced a bountiful harvest.",
+            "image": ""
+        },
+        {
+            "word": "furaha",
+            "translation": "felicitous",
+            "definition": "Imechaguliwa vizuri au inafaa kwa hali.",
+            "etymology": "Late 18th century, from Latin 'felicitas' meaning 'happiness'.",
+            "example": "Her felicitous remarks cheered everyone up.",
+            "image": ""
+        },
+        {
+            "word": "mwitu",
+            "translation": "feral",
+            "definition": "(Hasa ya mnyama) katika hali ya porini, hasa baada ya kutoroka kutoka utumwani au kufugwa.",
+            "etymology": "Mid 17th century, from Latin 'ferus' meaning 'wild'.",
+            "example": "The feral cat prowled through the alleyways.",
+            "image": ""
+        },
+        {
+            "word": "bidii",
+            "translation": "fervent",
+            "definition": "Kuwa au kuonyesha nguvu ya shauku.",
+            "etymology": "Late Middle English, from Old French, from Latin 'fervent-', from 'fervere' meaning 'to boil'.",
+            "example": "His fervent support for the cause was evident.",
+            "image": ""
+        },
+        {
+            "word": "fetusi",
+            "translation": "fetid",
+            "definition": "Harufu isiyopendeza sana.",
+            "etymology": "Early 17th century, from Latin 'fetidus', from 'fetere' meaning 'to stink'.",
+            "example": "The fetid air in the sewer made it hard to breathe.",
+            "image": ""
+        },
+        {
+            "word": "mkali",
+            "translation": "flagrant",
+            "definition": "(Kuhusu kitu kinachochukuliwa kuwa kibaya au kisicho cha maadili) kwa njia dhahiri au dhahiri ya kukera.",
+            "etymology": "Late Middle English, from Latin 'flagrant-' meaning 'blazing', from 'flagrare' meaning 'to blaze'.",
+            "example": "His flagrant disregard for the rules got him into trouble.",
+            "image": ""
+        },
+        {
+            "word": "floridi",
+            "translation": "florid",
+            "definition": "Kuwa na rangi nyekundu au iliyokolea.",
+            "etymology": "Mid 17th century, from Latin 'floridus', from 'flos' meaning 'flower'.",
+            "example": "Her florid face betrayed her embarrassment.",
+            "image": ""
+        },
+        {
+            "word": "flummox",
+            "translation": "flummox",
+            "definition": "Kumchanganya au kumchanganya mtu sana; kumchanganya.",
+            "etymology": "Mid 19th century, of unknown origin; perhaps related to the dialect word 'flummock', meaning to make untidy.",
+            "example": "The complicated instructions flummoxed everyone who tried to assemble the furniture.",
+            "image": ""
+        },
+        {
+            "word": "dhaifu",
+            "translation": "foible",
+            "definition": "Udhaifu mdogo au utofauti katika tabia ya mtu.",
+            "etymology": "Late 16th century (as an adjective in the sense 'feeble'): from obsolete French, in Old French 'fieble', from Latin 'flebilis' meaning 'lamentable'.",
+            "example": "His only foible was his love for sweets.",
+            "image": ""
+        },
+        {
+            "word": "uvumilivu",
+            "translation": "forbearance",
+            "definition": "Kujizuia kwa mgonjwa; kujizuia na kuvumilia.",
+            "etymology": "Middle English (in the sense 'endurance, tolerance'): from the verb 'forbear', from Old English 'forberan', from 'for-' meaning 'away, off' + 'beran' meaning 'to bear'.",
+            "example": "The teacher showed remarkable forbearance in dealing with the unruly class.",
+            "image": ""
+        },
+        {
+            "word": "ujasiri",
+            "translation": "fortitude",
+            "definition": "Ujasiri katika maumivu au shida.",
+            "etymology": "Late Middle English, from Latin 'fortitudo', from 'fortis' meaning 'strong'.",
+            "example": "She showed great fortitude in the face of adversity.",
+            "image": ""
+        },
+        {
+            "word": "bahati mbaya",
+            "translation": "fortuitous",
+            "definition": "Inatokea kwa bahati nzuri; bahati nzuri.",
+            "etymology": "Mid 17th century, from Latin 'fortuitus', from 'fors' meaning 'chance'.",
+            "example": "The fortuitous meeting led to a successful partnership.",
+            "image": ""
+        },
+        {
+            "word": "yenye misukosuko",
+            "translation": "fractious",
+            "definition": "(Kwa kawaida watoto) wenye hasira na ugomvi.",
+            "etymology": "Early 18th century, from 'fraction', from Latin 'fractio', from 'frangere' meaning 'to break'.",
+            "example": "The fractious children were difficult to control.",
+            "image": ""
+        },
+        {
+            "word": "mwenye msisimko",
+            "translation": "frenetic",
+            "definition": "Haraka na yenye nguvu kwa njia ya mwitu na isiyodhibitiwa.",
+            "etymology": "Late 19th century, from Old French 'frénétique', via Latin from Greek 'phrenitikos', from 'phrenitis' meaning 'delirium'.",
+            "example": "The frenetic pace of the city life was overwhelming.",
+            "image": ""
+        },
+        {
+            "word": "mjanja",
+            "translation": "furtive",
+            "definition": "Kujaribu kuepuka kutambuliwa au kuzingatiwa, kwa kawaida kwa sababu ya hatia au imani kwamba ugunduzi ungesababisha matatizo; usiri.",
+            "etymology": "Early 17th century, from Latin 'furtivus', from 'furtum' meaning 'theft'.",
+            "example": "The furtive glance he gave her aroused suspicion.",
+            "image": ""
+        },
+        {
+            "word": "garish",
+            "translation": "garish",
+            "definition": "Mng&#39;ao na mwenye kuvutia; mchafu.",
+            "etymology": "Early 16th century, of unknown origin.",
+            "example": "The garish neon signs lit up the night.",
+            "image": ""
+        },
+        {
+            "word": "yenye ukali",
+            "translation": "garrulous",
+            "definition": "Mzungumzaji kupita kiasi, hasa katika mambo madogo.",
+            "etymology": "Early 17th century, from Latin 'garrulus', from 'garrire' meaning 'to chatter'.",
+            "example": "The garrulous old man held up the queue with his endless stories.",
+            "image": ""
+        },
+        {
+            "word": "genius",
+            "translation": "genial",
+            "definition": "Rafiki na mchangamfu.",
+            "etymology": "Mid 16th century (in the sense 'pleasantly mild and warm'): from Latin 'genialis', from 'genius' meaning 'attendant spirit present from one's birth'.",
+            "example": "Her genial personality made her popular at work.",
+            "image": ""
+        },
+        {
+            "word": "grandiloquent",
+            "translation": "grandiloquent",
+            "definition": "Mwenye fahari au mwenye kupita kiasi katika lugha, mtindo, au tabia, hasa kwa njia inayokusudiwa kuvutia.",
+            "etymology": "Late 16th century, from Latin 'grandiloquent-', from 'grandis' meaning 'grand' + 'loqui' meaning 'to speak'.",
+            "example": "His grandiloquent speech failed to impress the audience.",
+            "image": ""
+        },
+        {
+            "word": "mshiriki",
+            "translation": "gregarious",
+            "definition": "(Ya mtu) anayependa kuwa na kampuni; mkarimu.",
+            "etymology": "Mid 17th century, from Latin 'gregarius', from 'grex, greg-' meaning 'a flock'.",
+            "example": "The gregarious host made everyone feel at ease.",
+            "image": ""
+        },
+        {
+            "word": "hila",
+            "translation": "guile",
+            "definition": "Akili ya hila au ya ujanja.",
+            "etymology": "Middle English, from Old French, of Germanic origin; related to 'wile'.",
+            "example": "She used her guile to escape the trap.",
+            "image": ""
+        },
+        {
+            "word": "hackneyed",
+            "translation": "hackneyed",
+            "definition": "(Ya kifungu au wazo) kisicho na umuhimu kwa sababu ya kutumika kupita kiasi; kisicho cha asili na kisicho na maana.",
+            "etymology": "Mid 18th century: from 'hackney' meaning 'used for hire'.",
+            "example": "His speech was full of hackneyed clichés.",
+            "image": ""
+        },
+        {
+            "word": "bahati mbaya",
+            "translation": "hapless",
+            "definition": "(Hasa ya mtu) mwenye bahati mbaya.",
+            "etymology": "Late Middle English, from Old Norse 'hap' meaning 'good fortune'.",
+            "example": "The hapless travellers were stranded at the airport for hours.",
+            "image": ""
+        },
+        {
+            "word": "harangue",
+            "translation": "harangue",
+            "definition": "Hotuba ndefu na ya uchokozi.",
+            "etymology": "Late Middle English, from Old French 'harangue', of Germanic origin.",
+            "example": "The politician's harangue was aimed at stirring up emotions.",
+            "image": ""
+        },
+        {
+            "word": "utawala",
+            "translation": "hegemony",
+            "definition": "Uongozi au utawala, hasa kwa nchi moja au kundi moja la kijamii kuliko mengine.",
+            "etymology": "Mid 16th century, from Greek 'hēgemonia', from 'hēgemōn' meaning 'leader'.",
+            "example": "The country's economic hegemony allowed it to exert influence over its neighbours.",
+            "image": ""
+        },
+        {
+            "word": "mbaya",
+            "translation": "heinous",
+            "definition": "(Ya mtu au kitendo kibaya, hasa uhalifu) cha kuchukiza kabisa au kiovu.",
+            "etymology": "Late Middle English, from Old French 'haineus', from 'haine' meaning 'hatred'.",
+            "example": "The heinous crime shocked the entire nation.",
+            "image": ""
+        },
+        {
+            "word": "tofauti",
+            "translation": "heterogeneous",
+            "definition": "Tofauti katika wahusika au maudhui.",
+            "etymology": "Early 17th century, from medieval Latin 'heterogeneus', from Greek 'heterogenēs', from 'heteros' meaning 'other' + 'genos' meaning 'a kind'.",
+            "example": "The heterogeneous group included people from all walks of life.",
+            "image": ""
+        },
+        {
+            "word": "mapumziko",
+            "translation": "hiatus",
+            "definition": "Kusitisha au pengo katika mfuatano, mfululizo, au mchakato.",
+            "etymology": "Mid 16th century, from Latin, literally 'gaping'.",
+            "example": "The band took a year-long hiatus after their tour.",
+            "image": ""
+        },
+        {
+            "word": "histrionic",
+            "translation": "histrionic",
+            "definition": "Tamthilia au melodrama kupita kiasi katika mhusika au mtindo.",
+            "etymology": "Mid 17th century, from late Latin 'histrionicus', from Latin 'histrio' meaning 'actor'.",
+            "example": "Her histrionic outburst made everyone uncomfortable.",
+            "image": ""
+        },
+        {
+            "word": "iconoklasti",
+            "translation": "iconoclast",
+            "definition": "Mtu anayeshambulia au kukosoa imani au taasisi zinazopendwa.",
+            "etymology": "Mid 17th century (sense 2): via medieval Latin from ecclesiastical Greek 'eikonoklastēs', from 'eikōn' meaning 'likeness' + 'klan' meaning 'to break'.",
+            "example": "The iconoclast challenged the traditional views of the church.",
+            "image": ""
+        },
+        {
+            "word": "isiyo ya kawaida",
+            "translation": "idiosyncratic",
+            "definition": "Kuhusiana na tabia isiyo ya kawaida; ya kipekee au ya mtu binafsi.",
+            "etymology": "Early 17th century, from Greek 'idiosunkratia', from 'idios' meaning 'own, private' + 'sun-' meaning 'with' + 'krasis' meaning 'mixture'.",
+            "example": "His idiosyncratic behaviour made him stand out from the crowd.",
+            "image": ""
+        },
+        {
+            "word": "aibu",
+            "translation": "ignominious",
+            "definition": "Kustahili au kusababisha aibu au aibu hadharani.",
+            "etymology": "Late Middle English, from French 'ignominieux', or from Latin 'ignominiosus', from 'ignominia'.",
+            "example": "The ignominious defeat was a blow to the team's morale.",
+            "image": ""
+        },
+        {
+            "word": "haramu",
+            "translation": "illicit",
+            "definition": "Imepigwa marufuku na sheria, kanuni, au desturi.",
+            "etymology": "Mid 16th century, from French 'illicite', from Latin 'illicitus', from 'in-' meaning 'not' + 'licitus' meaning 'lawful'.",
+            "example": "The police cracked down on the illicit trade in endangered species.",
+            "image": ""
+        },
+        {
+            "word": "wasio na lawama",
+            "translation": "impecunious",
+            "definition": "Kuwa na pesa kidogo au kutokuwa na pesa kabisa.",
+            "etymology": "Late 16th century, from 'im-' meaning 'not' + 'pecunious', from Latin 'pecuniosus' meaning 'wealthy'.",
+            "example": "The impecunious student struggled to pay rent.",
+            "image": ""
+        },
+        {
+            "word": "lazima",
+            "translation": "imperative",
+            "definition": "Ya umuhimu mkubwa; muhimu.",
+            "etymology": "Mid 16th century, from late Latin 'imperativus', from Latin 'imperare' meaning 'to command'.",
+            "example": "It is imperative that you submit your application by the deadline.",
+            "image": ""
+        },
+        {
+            "word": "mwenye mamlaka",
+            "translation": "imperious",
+            "definition": "Kujichukulia mamlaka au nguvu bila uhalali; kiburi na ubabe.",
+            "etymology": "Mid 16th century, from Latin 'imperiosus', from 'imperium' meaning 'command, authority, empire'.",
+            "example": "Her imperious tone made everyone feel uncomfortable.",
+            "image": ""
+        },
+        {
+            "word": "mwenye kasi",
+            "translation": "impetuous",
+            "definition": "Kutenda au kufanywa haraka na bila mawazo au kujali.",
+            "etymology": "Late Middle English, from Old French 'impetueux', from late Latin 'impetuosus', from 'impetus'.",
+            "example": "His impetuous decision to quit his job surprised everyone.",
+            "image": ""
+        },
+        {
+            "word": "kipindupindu",
+            "translation": "impinge",
+            "definition": "Kuwa na athari au athari, hasa ile hasi.",
+            "etymology": "Mid 16th century, from Latin 'impingere', from 'in-' meaning 'into' + 'pangere' meaning 'fix, drive'.",
+            "example": "The new regulations impinged on the company's ability to operate freely.",
+            "image": ""
+        },
+        {
+            "word": "isiyoweza kubadilishwa",
+            "translation": "implacable",
+            "definition": "Haiwezi kutulizwa au kutulizwa.",
+            "etymology": "Late Middle English, from Latin 'implacabilis', from 'in-' meaning 'not' + 'placabilis'.",
+            "example": "His implacable hatred for his rival was well known.",
+            "image": ""
+        },
+        {
+            "word": "kuagiza",
+            "translation": "importune",
+            "definition": "Muulize (mtu) kwa bidii na kwa kuendelea kwa ajili ya au kufanya jambo fulani.",
+            "etymology": "Mid 16th century, from Latin 'importunus', from 'in-' meaning 'not' + 'portunus' meaning 'fitting, opportune'.",
+            "example": "The salesman importuned me to buy the product even after I said no.",
+            "image": ""
+        },
+        {
+            "word": "mwenye kushutumu",
+            "translation": "impute",
+            "definition": "Kuwakilisha (kitu, hasa kitu kisichotakikana) kama kinachofanywa, kinachosababishwa, au kinachomilikiwa na mtu; sifa.",
+            "etymology": "Late Middle English, from Old French 'imputer', from Latin 'imputare', from 'in-' meaning 'in, towards' + 'putare' meaning 'to settle (an account)'.",
+            "example": "The crimes were imputed to the young man, though he was innocent.",
+            "image": ""
+        },
+        {
+            "word": "isiyo na maana",
+            "translation": "inane",
+            "definition": "Mpumbavu; mjinga.",
+            "etymology": "Mid 16th century, from Latin 'inanis' meaning 'empty, vain'.",
+            "example": "Her inane comments during the meeting irritated everyone.",
+            "image": ""
+        },
+        {
+            "word": "inchoate",
+            "translation": "inchoate",
+            "definition": "Imeanza tu na kwa hivyo haijaundwa kikamilifu au haijaendelezwa; ya msingi.",
+            "etymology": "Mid 16th century, from Latin 'inchoatus', past participle of 'inchoare' meaning 'to begin'.",
+            "example": "His inchoate ideas lacked focus and clarity.",
+            "image": ""
+        },
+        {
+            "word": "yenye mkazo",
+            "translation": "incisive",
+            "definition": "(Ya mtu au mchakato wa kiakili) uchambuzi wa busara na mawazo wazi.",
+            "etymology": "Late Middle English, from late Latin 'incisivus', from Latin 'incis-', from 'incidere' meaning 'to cut into'.",
+            "example": "Her incisive remarks cut through the confusion and got to the heart of the issue.",
+            "image": ""
+        },
+        {
+            "word": "isiyoweza kurekebishwa",
+            "translation": "incorrigible",
+            "definition": "(Ya mtu au mielekeo yake) ambayo haiwezi kusahihishwa, kuboreshwa, au kurekebishwa.",
+            "etymology": "Late Middle English, from Old French, from Latin 'incorrigibilis', from 'in-' meaning 'not' + 'corrigere' meaning 'to correct'.",
+            "example": "His incorrigible habit of arriving late caused frustration at work.",
+            "image": ""
+        },
+        {
+            "word": "isiyochoka",
+            "translation": "indefatigable",
+            "definition": "(Ya mtu au juhudi zake) akiendelea bila kuchoka.",
+            "etymology": "Early 17th century, from Latin 'indefatigabilis', from 'in-' meaning 'not' + 'defatigare' meaning 'wear out'.",
+            "example": "The indefatigable worker never took a day off.",
+            "image": ""
+        },
+        {
+            "word": "mvivu",
+            "translation": "indolent",
+            "definition": "Kutaka kuepuka shughuli au juhudi; uvivu.",
+            "etymology": "Mid 17th century, from late Latin 'indolent-', from in-' meaning 'not' + 'dolere' meaning 'to suffer or give pain'.",
+            "example": "The indolent man spent his days lying on the couch.",
+            "image": ""
+        },
+        {
+            "word": "isiyoshindika",
+            "translation": "indomitable",
+            "definition": "Haiwezekani kutawala au kushindwa.",
+            "etymology": "Late Middle English, from Latin 'indomitabilis', from 'in-' meaning 'not' + 'domitare' meaning 'to tame'.",
+            "example": "Her indomitable spirit kept her going even in the face of adversity.",
+            "image": ""
+        },
+        {
+            "word": "isiyoelezeka",
+            "translation": "ineffable",
+            "definition": "Kubwa sana au kupita kiasi kuweza kuelezewa au kuelezewa kwa maneno.",
+            "etymology": "Late Middle English, from Old French 'ineffable', from Latin 'ineffabilis', from 'in-' meaning 'not' + 'effabilis' meaning 'able to be expressed'.",
+            "example": "The beauty of the sunset was ineffable.",
+            "image": ""
+        },
+        {
+            "word": "mpuuzi",
+            "translation": "inept",
+            "definition": "Kuwa na au kutoonyesha ujuzi wowote; kichaa.",
+            "etymology": "Early 17th century, from Latin 'ineptus', from 'in-' meaning 'not' + 'aptus' meaning 'fitted'.",
+            "example": "His inept handling of the situation made things worse.",
+            "image": ""
+        },
+        {
+            "word": "isiyoweza kusahaulika",
+            "translation": "inexorable",
+            "definition": "Haiwezekani kusimamisha au kuzuia.",
+            "etymology": "Mid 16th century, from French 'inexorable', from Latin 'inexorabilis', from 'in-' meaning 'not' + 'exorabilis' meaning 'to be moved by entreaty'.",
+            "example": "The inexorable march of time affects us all.",
+            "image": ""
+        },
+        {
+            "word": "mwenye busara",
+            "translation": "ingenuous",
+            "definition": "(Ya mtu au kitendo) asiye na hatia na asiye na shaka.",
+            "etymology": "Late 16th century, from Latin 'ingenuus' meaning 'of noble birth', from 'in-' meaning 'in' + 'gignere' meaning 'to beget'.",
+            "example": "Her ingenuous nature made her easy to trust.",
+            "image": ""
+        },
+        {
+            "word": "uadui",
+            "translation": "inimical",
+            "definition": "Huelekea kuzuia au kudhuru.",
+            "etymology": "Late Middle English, from late Latin 'inimicalis', from Latin 'inimicus'.",
+            "example": "The inimical weather conditions made it difficult to continue the journey.",
+            "image": ""
+        },
+        {
+            "word": "asili",
+            "translation": "innate",
+            "definition": "Asili; ya kuzaliwa nayo.",
+            "etymology": "Late Middle English, from Latin 'innatus', from 'in-' meaning 'into' + 'nasci' meaning 'to be born'.",
+            "example": "Her innate sense of justice guided her actions.",
+            "image": ""
+        },
+        {
+            "word": "isiyo na madhara",
+            "translation": "innocuous",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "isiyotosheka",
+            "translation": "insatiable",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "isiyoweza kuchunguzwa",
+            "translation": "inscrutable",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "mdanganyifu",
+            "translation": "insidious",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "wasio na akili",
+            "translation": "insipid",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "wenye kiburi",
+            "translation": "insolent",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "insula",
+            "translation": "insular",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "isiyobadilika",
+            "translation": "intransigent",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "jasiri",
+            "translation": "intrepid",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "tarehe ya kujaa maji",
+            "translation": "inundate",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "invective",
+            "translation": "invective",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "mkaidi",
+            "translation": "inveterate",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "isiyoweza kuvunjika",
+            "translation": "inviolable",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "mwenye hasira kali",
+            "translation": "irascible",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "wasio na heshima",
+            "translation": "irreverent",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "msafiri",
+            "translation": "itinerant",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "juxtapose",
+            "translation": "juxtapose",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "lakoni",
+            "translation": "laconic",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "kubwa",
+            "translation": "largesse",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "fiche",
+            "translation": "latent",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "sifa",
+            "translation": "laudatory",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "legerdemain",
+            "translation": "legerdemain",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "mpole",
+            "translation": "lenient",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "uchovu",
+            "translation": "lethargy",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "mchafu",
+            "translation": "licentious",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "limpid",
+            "translation": "limpid",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "pini ya linch",
+            "translation": "linchpin",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "litania",
+            "translation": "litany",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "mzungumzaji",
+            "translation": "loquacious",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "wazi",
+            "translation": "lucid",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "mwangaza",
+            "translation": "luminous",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "mwenye ukarimu",
+            "translation": "magnanimous",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "laana",
+            "translation": "malediction",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "wenye nia mbaya",
+            "translation": "malevolent",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "malinger",
+            "translation": "malinger",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "inayoweza kunyumbulika",
+            "translation": "malleable",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "nyingi",
+            "translation": "manifold",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "maudlin",
+            "translation": "maudlin",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "maverick",
+            "translation": "maverick",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "mawkish",
+            "translation": "mawkish",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "mellifluous",
+            "translation": "mellifluous",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "mlaghai",
+            "translation": "mendacious",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "zebaki",
+            "translation": "mercurial",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "sifa nzuri",
+            "translation": "meritorious",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "makini",
+            "translation": "meticulous",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "modukum",
+            "translation": "modicum",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "mchanga",
+            "translation": "morass",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "zaidi",
+            "translation": "mores",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "yenye mambo mengi",
+            "translation": "multifarious",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "mwenye ukarimu",
+            "translation": "munificent",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "maelfu",
+            "translation": "myriad",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "nadir",
+            "translation": "nadir",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        }
+    ]
+}

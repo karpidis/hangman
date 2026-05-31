@@ -1,0 +1,2277 @@
+{
+    "dictionary_name": "Dictionnaire des mots C2",
+    "words": [
+        {
+            "word": "aberration",
+            "translation": "aberration",
+            "definition": "Un écart par rapport à ce qui est normal, habituel ou attendu, généralement un écart indésirable.",
+            "etymology": "Late 16th century: from Latin 'aberratio(n-)', from the verb 'aberrare', from 'ab-' away + 'errare' to stray.",
+            "example": "The storm was an aberration from the usual weather pattern.",
+            "image": ""
+        },
+        {
+            "word": "abhorrer",
+            "translation": "abhor",
+            "definition": "Considérer avec dégoût et haine.",
+            "etymology": "Late Middle English: from Latin 'abhorrere', from 'ab-' away from + 'horrere' to shudder.",
+            "example": "She abhors violence of any kind.",
+            "image": ""
+        },
+        {
+            "word": "renoncement",
+            "translation": "abnegation",
+            "definition": "L&#39;acte de renoncer à quelque chose ou de le rejeter ; l&#39;abnégation.",
+            "etymology": "Late Middle English, from Latin 'abnegatio(n-)' from 'abnegare', from 'ab-' away + 'negare' deny.",
+            "example": "His life of abnegation and austerity was quite admirable.",
+            "image": ""
+        },
+        {
+            "word": "abroger",
+            "translation": "abrogate",
+            "definition": "Abroger ou supprimer (une loi, un droit ou un accord formel).",
+            "etymology": "Early 16th century, from Latin 'abrogat-', 'abrogare', from 'ab-' away, 'rogare' to propose (a law).",
+            "example": "The government decided to abrogate the outdated law.",
+            "image": ""
+        },
+        {
+            "word": "prendre la fuite",
+            "translation": "abscond",
+            "definition": "Partir précipitamment et secrètement, généralement pour éviter d&#39;être repéré ou arrêté.",
+            "etymology": "Mid 16th century, from Latin 'abscondere' to hide away, from 'abs-' away + 'condere' to stow.",
+            "example": "The thief absconded with the stolen jewels.",
+            "image": ""
+        },
+        {
+            "word": "abstrus",
+            "translation": "abstruse",
+            "definition": "Difficile à comprendre ; obscur.",
+            "etymology": "Early 17th century, from Latin 'abstrusus', past participle of 'abstrudere' to conceal, from 'ab-' away + 'trudere' to push.",
+            "example": "The professor's lectures were so abstruse that many students gave up.",
+            "image": ""
+        },
+        {
+            "word": "accolade",
+            "translation": "accolade",
+            "definition": "Une récompense ou un privilège accordé à titre d&#39;honneur particulier ou en reconnaissance d&#39;un mérite.",
+            "etymology": "Early 17th century, from French, from Provençal 'acolada', based on Latin 'ad-' to + 'collum' neck (referring to the ceremonial embrace conferred by a king when knighting someone).",
+            "example": "She received accolades from critics and fans alike.",
+            "image": ""
+        },
+        {
+            "word": "acrimonieux",
+            "translation": "acrimonious",
+            "definition": "Colérique et amer (généralement à propos d&#39;un discours ou d&#39;un débat).",
+            "etymology": "Early 17th century, from acrimony + -ous.",
+            "example": "Their acrimonious divorce proceedings dragged on for years.",
+            "image": ""
+        },
+        {
+            "word": "perspicacité",
+            "translation": "acumen",
+            "definition": "L&#39;aptitude à porter des jugements judicieux et à prendre des décisions rapides, généralement dans un domaine particulier.",
+            "etymology": "Late 16th century, from Latin 'acumen' meaning sharpness, from 'acuere' to sharpen.",
+            "example": "His business acumen led the company to success.",
+            "image": ""
+        },
+        {
+            "word": "avertir",
+            "translation": "admonish",
+            "definition": "Avertir ou réprimander fermement quelqu&#39;un.",
+            "etymology": "Middle English, from Old French 'admonester', based on Latin 'admonere', from 'ad-' to + 'monere' to warn.",
+            "example": "She admonished him for his rudeness.",
+            "image": ""
+        },
+        {
+            "word": "adulation",
+            "translation": "adulation",
+            "definition": "Admiration ou éloges excessifs.",
+            "etymology": "Late Middle English, from Latin 'adulatio(n-)' from 'adulari' to fawn on.",
+            "example": "The star enjoyed the adulation of his fans.",
+            "image": ""
+        },
+        {
+            "word": "égide",
+            "translation": "aegis",
+            "definition": "La protection, le soutien ou l&#39;appui d&#39;une personne ou d&#39;une organisation en particulier.",
+            "etymology": "Early 17th century, via Latin from Greek 'aigis', meaning shield of Zeus.",
+            "example": "The project was developed under the aegis of the university.",
+            "image": ""
+        },
+        {
+            "word": "affable",
+            "translation": "affable",
+            "definition": "Amical, de bonne humeur ou facile d&#39;approche.",
+            "etymology": "Late Middle English, from Latin 'affabilis', from 'ad-' to + 'fari' to speak.",
+            "example": "He was an affable and agreeable companion.",
+            "image": ""
+        },
+        {
+            "word": "riche",
+            "translation": "affluent",
+            "definition": "Posséder beaucoup d&#39;argent ; être riche.",
+            "etymology": "Late Middle English, from Latin 'affluent-', 'affluere', from 'ad-' to + 'fluere' to flow.",
+            "example": "The affluent neighbourhood was full of mansions and luxury cars.",
+            "image": ""
+        },
+        {
+            "word": "agrandir",
+            "translation": "aggrandize",
+            "definition": "Accroître le pouvoir, le statut ou la richesse de.",
+            "etymology": "Mid 17th century, from French 'agrandiss-' (from the verb 'agrandir', based on Latin 'grandis' large).",
+            "example": "The politician used every opportunity to aggrandize his position.",
+            "image": ""
+        },
+        {
+            "word": "empressement",
+            "translation": "alacrity",
+            "definition": "Une disponibilité vive et joyeuse.",
+            "etymology": "Late Middle English, from Latin 'alacritas', from 'alacer' lively, eager.",
+            "example": "She accepted the invitation with alacrity.",
+            "image": ""
+        },
+        {
+            "word": "altruisme",
+            "translation": "altruism",
+            "definition": "La croyance ou la pratique d&#39;une préoccupation désintéressée pour le bien-être des autres.",
+            "etymology": "Mid 19th century, from French 'altruisme', from 'autrui' meaning 'other people'.",
+            "example": "Her altruism was evident in her volunteer work.",
+            "image": ""
+        },
+        {
+            "word": "fusionner",
+            "translation": "amalgamate",
+            "definition": "Se combiner ou s&#39;unir pour former une seule organisation ou structure.",
+            "etymology": "Early 17th century, from medieval Latin 'amalgamat-', from the verb 'amalgamare', from 'amalgama'.",
+            "example": "The two companies amalgamated to increase their market share.",
+            "image": ""
+        },
+        {
+            "word": "améliorer",
+            "translation": "ameliorate",
+            "definition": "Améliorer (quelque chose de mauvais ou d&#39;insatisfaisant).",
+            "etymology": "Late 18th century, from Latin 'meliorare', from 'melior' better.",
+            "example": "The reforms were designed to ameliorate the situation.",
+            "image": ""
+        },
+        {
+            "word": "conciliant",
+            "translation": "amenable",
+            "definition": "Ouvert et réceptif aux suggestions ; facile à persuader ou à contrôler.",
+            "etymology": "Late 16th century, from Old French 'amener' bring to, from 'a-' (from Latin 'ad-' to) + 'mener' to lead.",
+            "example": "The patients were amenable to treatment.",
+            "image": ""
+        },
+        {
+            "word": "anachronisme",
+            "translation": "anachronism",
+            "definition": "Une chose appartenant à une autre époque que celle dans laquelle elle existe, ou qui lui est propre.",
+            "etymology": "Mid 17th century, from Greek 'anakhronismos', from 'ana-' back + 'khronos' time.",
+            "example": "The sword in the modern-day film was an anachronism.",
+            "image": ""
+        },
+        {
+            "word": "anathème",
+            "translation": "anathema",
+            "definition": "Quelque chose ou quelqu&#39;un que l&#39;on déteste profondément.",
+            "etymology": "Early 16th century, from ecclesiastical Latin, 'excommunicated', from Greek 'anathema' meaning 'an offering' or 'something dedicated'.",
+            "example": "Violence was anathema to his beliefs.",
+            "image": ""
+        },
+        {
+            "word": "annexe",
+            "translation": "annex",
+            "definition": "Ajouter ou rajouter comme partie supplémentaire ou subordonnée, notamment à un document.",
+            "etymology": "Late Middle English, from Old French 'annexer', from Latin 'annectere' to tie or bind.",
+            "example": "The treaty was annexed to the agreement.",
+            "image": ""
+        },
+        {
+            "word": "antipathie",
+            "translation": "antipathy",
+            "definition": "Un profond sentiment d&#39;aversion.",
+            "etymology": "Late 16th century, from French 'antipathie', from Latin 'antipathia', from Greek 'antipatheia', from 'anti-' against + 'pathos' feeling.",
+            "example": "His antipathy towards authority figures was well known.",
+            "image": ""
+        },
+        {
+            "word": "apathique",
+            "translation": "apathetic",
+            "definition": "Ne manifester ni ne ressentir aucun intérêt, aucun enthousiasme, ni aucune préoccupation.",
+            "etymology": "Mid 18th century, from Greek 'apatheia', from 'apathēs' without feeling, from 'a-' without + 'pathos' emotion.",
+            "example": "The voters were apathetic about the upcoming election.",
+            "image": ""
+        },
+        {
+            "word": "apocryphe",
+            "translation": "apocryphal",
+            "definition": "D&#39;authenticité douteuse, bien que largement diffusée comme étant vraie.",
+            "etymology": "Mid 16th century, from ecclesiastical Latin 'apocryphus', from Greek 'apokruphos' meaning hidden or secret.",
+            "example": "The apocryphal story spread quickly through the town.",
+            "image": ""
+        },
+        {
+            "word": "appellation",
+            "translation": "appellation",
+            "definition": "Un nom ou un titre.",
+            "etymology": "Late Middle English, from Old French, from Latin 'appellatio(n-)', from 'appellare' meaning to address.",
+            "example": "He earned the appellation of 'the Great' due to his achievements.",
+            "image": ""
+        },
+        {
+            "word": "approbation",
+            "translation": "approbation",
+            "definition": "Approbation ou éloges.",
+            "etymology": "Late Middle English, from Latin 'approbatio(n-)', from 'approbare' to approve.",
+            "example": "The plan won the approbation of all the staff.",
+            "image": ""
+        },
+        {
+            "word": "arbitraire",
+            "translation": "arbitrary",
+            "definition": "Fondé sur un choix aléatoire ou un caprice personnel, plutôt que sur une raison ou un système.",
+            "etymology": "Late Middle English, from Latin 'arbitrarius', from 'arbiter' judge, supreme ruler.",
+            "example": "His arbitrary decision left everyone confused.",
+            "image": ""
+        },
+        {
+            "word": "ésotérique",
+            "translation": "arcane",
+            "definition": "Compris par peu de gens ; mystérieux ou secret.",
+            "etymology": "Mid 16th century, from Latin 'arcanus' meaning secret, from 'arca' chest.",
+            "example": "The rituals of the cult were arcane and inscrutable.",
+            "image": ""
+        },
+        {
+            "word": "vérifier",
+            "translation": "ascertain",
+            "definition": "S&#39;assurer de (quelque chose) avec certitude.",
+            "etymology": "Late Middle English, from Old French 'acertener', based on Latin 'certus' settled, sure.",
+            "example": "An attempt to ascertain the cause of the accident.",
+            "image": ""
+        },
+        {
+            "word": "aspérité",
+            "translation": "asperity",
+            "definition": "Dureté du ton ou des manières.",
+            "etymology": "Middle English, from Old French 'asperite', from Latin 'asperitas', from 'asper' rough.",
+            "example": "He pointed out the flaws with some asperity.",
+            "image": ""
+        },
+        {
+            "word": "assidu",
+            "translation": "assiduous",
+            "definition": "Faisant preuve d&#39;une grande attention et de persévérance.",
+            "etymology": "Mid 16th century, from Latin 'assiduus', from 'assidere' to attend to.",
+            "example": "She was assiduous in her duties, ensuring everything was perfect.",
+            "image": ""
+        },
+        {
+            "word": "asile",
+            "translation": "asylum",
+            "definition": "Protection accordée par une nation à une personne ayant quitté son pays natal en tant que réfugié politique.",
+            "etymology": "Late Middle English, via Latin from Greek 'asulon', from 'a-' without + 'sulon' right of seizure.",
+            "example": "The political dissident sought asylum in a neighbouring country.",
+            "image": ""
+        },
+        {
+            "word": "atténuer",
+            "translation": "attenuate",
+            "definition": "Réduire la force, l&#39;effet ou la valeur de.",
+            "etymology": "Late Middle English, from Latin 'attenuatus', past participle of 'attenuare' meaning to make thin.",
+            "example": "The drug's effect was attenuated by the consumption of alcohol.",
+            "image": ""
+        },
+        {
+            "word": "audacieux",
+            "translation": "audacious",
+            "definition": "Faire preuve d&#39;une volonté de prendre des risques étonnamment audacieux.",
+            "etymology": "Mid 16th century, from Latin 'audax', from 'audere' meaning to dare.",
+            "example": "Her audacious decision paid off.",
+            "image": ""
+        },
+        {
+            "word": "augmenter",
+            "translation": "augment",
+            "definition": "Augmenter (quelque chose) en y ajoutant quelque chose ; accroître.",
+            "etymology": "Late Middle English, from Old French 'augmenter', from late Latin 'augmentare', from 'augere' to increase.",
+            "example": "He augmented his income by working overtime.",
+            "image": ""
+        },
+        {
+            "word": "austère",
+            "translation": "austere",
+            "definition": "Sévère ou strict dans ses manières, son attitude ou son apparence.",
+            "etymology": "Middle English, from Old French 'austere', from Latin 'austerus', from Greek 'austēros' severe.",
+            "example": "The austere teacher rarely smiled.",
+            "image": ""
+        },
+        {
+            "word": "avarice",
+            "translation": "avarice",
+            "definition": "Une avidité extrême pour la richesse ou le gain matériel.",
+            "etymology": "Middle English, from Old French 'avarice', from Latin 'avaritia', from 'avarus' greedy.",
+            "example": "His life was driven by avarice.",
+            "image": ""
+        },
+        {
+            "word": "axiome",
+            "translation": "axiom",
+            "definition": "Une affirmation ou une proposition considérée comme établie, acceptée ou allant de soi.",
+            "etymology": "Late 15th century, from French 'axiome', or via late Latin from Greek 'axiōma' that which is thought worthy or fit, from 'axios' worthy.",
+            "example": "It is an axiom that supply equals demand.",
+            "image": ""
+        },
+        {
+            "word": "funeste",
+            "translation": "baleful",
+            "definition": "Menacer ; inquiétant.",
+            "etymology": "Old English 'bealoful', from 'bealu' evil + 'ful'.",
+            "example": "She gave him a baleful glance.",
+            "image": ""
+        },
+        {
+            "word": "bastion",
+            "translation": "bastion",
+            "definition": "Partie saillante d&#39;une fortification construite en angle par rapport à l&#39;axe d&#39;un mur.",
+            "etymology": "Late 16th century, from French, from Italian 'bastire' to build.",
+            "example": "The bastion stood strong against the attacking forces.",
+            "image": ""
+        },
+        {
+            "word": "démentir",
+            "translation": "belie",
+            "definition": "Ne pas donner une idée ou une impression fidèle de (quelque chose) ; dissimuler ou contredire.",
+            "etymology": "Old English 'belēogan' meaning to deceive by lying, from 'be-' about + 'lēogan' to lie.",
+            "example": "His calm manner belied his inner turmoil.",
+            "image": ""
+        },
+        {
+            "word": "bienveillant",
+            "translation": "benevolent",
+            "definition": "Bien intentionné et aimable.",
+            "etymology": "Late Middle English, from Latin 'benevolent-', from 'bene' well + 'velle' to wish.",
+            "example": "The benevolent stranger offered to pay for the groceries.",
+            "image": ""
+        },
+        {
+            "word": "bénin",
+            "translation": "benign",
+            "definition": "Doux et gentil.",
+            "etymology": "Middle English, from Old French 'benigne', from Latin 'benignus', from 'bene' well + 'genus' born.",
+            "example": "The old man had a benign smile.",
+            "image": ""
+        },
+        {
+            "word": "léguer",
+            "translation": "bequeath",
+            "definition": "Léguer (un bien personnel ou son corps) à une personne ou à un autre bénéficiaire par testament.",
+            "etymology": "Old English 'becwethan' meaning to declare or give by will.",
+            "example": "He bequeathed his entire estate to his daughter.",
+            "image": ""
+        },
+        {
+            "word": "blouser",
+            "translation": "bilk",
+            "definition": "Obtenir ou retenir de l&#39;argent à (quelqu&#39;un) de manière injuste ou par tromperie ; escroquer ou frauder.",
+            "etymology": "Mid 17th century (originally denoting a hoax or trick): probably a variant of 'balk'.",
+            "example": "The fraudster bilked investors out of millions.",
+            "image": ""
+        },
+        {
+            "word": "flatterie",
+            "translation": "blandishment",
+            "definition": "Une déclaration ou une action flatteuse ou agréable utilisée pour persuader quelqu&#39;un en douceur de faire quelque chose.",
+            "etymology": "Late Middle English, from Old French 'blandir', from Latin 'blandus' flattering.",
+            "example": "She used all her blandishments to get her way.",
+            "image": ""
+        },
+        {
+            "word": "grandiloquent",
+            "translation": "bombastic",
+            "definition": "Ça sonne bien, mais ça ne veut rien dire ; c&#39;est exagéré.",
+            "etymology": "Late Middle English, from Old French 'bombace' meaning 'cotton padding', used in an earlier sense of 'pompous speech'.",
+            "example": "His bombastic speech was full of exaggerated claims.",
+            "image": ""
+        },
+        {
+            "word": "aubaine",
+            "translation": "boon",
+            "definition": "Une chose utile ou bénéfique.",
+            "etymology": "Middle English, from Old Norse 'bón' prayer.",
+            "example": "The donation was a great boon to the charity.",
+            "image": ""
+        },
+        {
+            "word": "brusque",
+            "translation": "brusque",
+            "definition": "Discret ou désinvolte dans son discours ou ses manières.",
+            "etymology": "Mid 17th century, from French 'brusque', from Italian 'brusco' meaning 'sour'.",
+            "example": "His brusque manner sometimes offends people.",
+            "image": ""
+        },
+        {
+            "word": "prétentieux",
+            "translation": "bumptious",
+            "definition": "Exaspérant par son assurance.",
+            "etymology": "Early 19th century, from 'bump' + '-tious'.",
+            "example": "His bumptious attitude alienated his colleagues.",
+            "image": ""
+        },
+        {
+            "word": "polir",
+            "translation": "burnish",
+            "definition": "Polir (quelque chose, en particulier du métal) par frottement.",
+            "etymology": "Middle English, from Old French 'burniss-', lengthened stem of 'burnir', based on late Latin 'burinire' to polish.",
+            "example": "He burnished the silver until it shone.",
+            "image": ""
+        },
+        {
+            "word": "contrefort",
+            "translation": "buttress",
+            "definition": "Une structure en pierre ou en brique construite contre un mur pour le renforcer ou le soutenir.",
+            "etymology": "Middle English, from Old French 'boterace', from 'boter' to strike or butt.",
+            "example": "The cathedral’s walls were supported by massive buttresses.",
+            "image": ""
+        },
+        {
+            "word": "cacophonie",
+            "translation": "cacophony",
+            "definition": "Un mélange de sons âpre et discordant.",
+            "etymology": "Mid 17th century, from Greek 'kakophōnia', from 'kakophōnos' meaning 'ill-sounding', from 'kakos' bad + 'phōnē' voice.",
+            "example": "The cacophony of car horns filled the air.",
+            "image": ""
+        },
+        {
+            "word": "cadavérique",
+            "translation": "cadaverous",
+            "definition": "Ressemblant à un cadavre par sa pâleur, sa maigreur ou son aspect osseux.",
+            "etymology": "Late 16th century, from Latin 'cadaver' corpse.",
+            "example": "His cadaverous appearance alarmed his friends.",
+            "image": ""
+        },
+        {
+            "word": "insensible",
+            "translation": "callous",
+            "definition": "Faire preuve d&#39;un mépris insensible et cruel envers autrui.",
+            "etymology": "Late Middle English, from Latin 'callosus' meaning hard-skinned.",
+            "example": "His callous disregard for others' feelings was shocking.",
+            "image": ""
+        },
+        {
+            "word": "calomnie",
+            "translation": "calumny",
+            "definition": "Le fait de faire de fausses déclarations et de porter atteinte à la réputation d&#39;une personne.",
+            "etymology": "Late Middle English, from Latin 'calumnia' meaning 'false statement'.",
+            "example": "He was the victim of calumny from his political opponents.",
+            "image": ""
+        },
+        {
+            "word": "camaraderie",
+            "translation": "camaraderie",
+            "definition": "La confiance mutuelle et l&#39;amitié entre des personnes qui passent beaucoup de temps ensemble.",
+            "etymology": "Mid 19th century, from French, from 'camarade' meaning comrade.",
+            "example": "The camaraderie among the team members was palpable.",
+            "image": ""
+        },
+        {
+            "word": "candeur",
+            "translation": "candor",
+            "definition": "La qualité de s&#39;exprimer avec ouverture et honnêteté ; la franchise.",
+            "etymology": "Late Middle English, from Latin 'candor' meaning 'whiteness'.",
+            "example": "His candor in discussing the issue was refreshing.",
+            "image": ""
+        },
+        {
+            "word": "capituler",
+            "translation": "capitulate",
+            "definition": "Cesser de résister à un adversaire ou à une demande importune ; se rendre.",
+            "etymology": "Mid 16th century, from French 'capituler', from medieval Latin 'capitulare', from 'capitulum' chapter (so called because agreements were formally divided into sections).",
+            "example": "The army capitulated after losing the battle.",
+            "image": ""
+        },
+        {
+            "word": "capricieux",
+            "translation": "capricious",
+            "definition": "Sujet à des changements d&#39;humeur ou de comportement soudains et inexplicables.",
+            "etymology": "Early 17th century, from French 'capricieux', from Italian 'capriccioso', from 'capriccio' meaning 'sudden start or motion'.",
+            "example": "Her capricious nature made it hard to predict her actions.",
+            "image": ""
+        },
+        {
+            "word": "caricature",
+            "translation": "caricature",
+            "definition": "Une image, une description ou une imitation d&#39;une personne dans laquelle certains traits marquants sont exagérés afin de créer un effet comique ou grotesque.",
+            "etymology": "Mid 18th century, from French, from Italian 'caricatura', from 'caricare' meaning 'to load'.",
+            "example": "The artist's caricature of the politician exaggerated his large nose.",
+            "image": ""
+        },
+        {
+            "word": "fustiger",
+            "translation": "castigate",
+            "definition": "Réprimander (quelqu&#39;un) sévèrement.",
+            "etymology": "Early 17th century, from Latin 'castigat-', from the verb 'castigare', from 'castus' pure, chaste.",
+            "example": "The teacher castigated the students for their poor performance.",
+            "image": ""
+        },
+        {
+            "word": "catalyseur",
+            "translation": "catalyst",
+            "definition": "Une substance qui accélère une réaction chimique sans subir elle-même de transformation chimique permanente.",
+            "etymology": "Early 20th century, from Greek 'katalusis' meaning dissolution, from 'kataluein' to dissolve.",
+            "example": "The new manager was the catalyst for change in the company.",
+            "image": ""
+        },
+        {
+            "word": "catharsis",
+            "translation": "catharsis",
+            "definition": "Le processus de libération, et donc de soulagement, des émotions fortes ou refoulées.",
+            "etymology": "Late Middle English, from Greek 'katharsis' meaning purification.",
+            "example": "Crying after the argument was a catharsis for her.",
+            "image": ""
+        },
+        {
+            "word": "caustique",
+            "translation": "caustic",
+            "definition": "Capable de brûler ou de corroder les tissus organiques par action chimique.",
+            "etymology": "Late Middle English, from Latin 'causticus', from Greek 'kaustikos', from 'kaustos' meaning 'combustible'.",
+            "example": "The cleaner contained caustic chemicals.",
+            "image": ""
+        },
+        {
+            "word": "censurer",
+            "translation": "censure",
+            "definition": "Exprimer une forte désapprobation à l&#39;égard de (quelqu&#39;un ou quelque chose), généralement dans une déclaration formelle.",
+            "etymology": "Late Middle English, from Old French 'censurer', from Latin 'censura' meaning 'judgment or assessment'.",
+            "example": "The senator was censured for his inappropriate remarks.",
+            "image": ""
+        },
+        {
+            "word": "cérébral",
+            "translation": "cerebral",
+            "definition": "Du cerveau.",
+            "etymology": "Early 19th century, from French 'cérébral', from Latin 'cerebrum' meaning 'brain'.",
+            "example": "His cerebral approach to the problem was impressive.",
+            "image": ""
+        },
+        {
+            "word": "chicanerie",
+            "translation": "chicanery",
+            "definition": "Le recours à la ruse pour atteindre un objectif politique, financier ou juridique.",
+            "etymology": "Early 17th century, from French 'chicanerie', from 'chicaner' to quibble.",
+            "example": "The candidate was accused of chicanery during the campaign.",
+            "image": ""
+        },
+        {
+            "word": "gronder",
+            "translation": "chide",
+            "definition": "Réprimander ou gronder.",
+            "etymology": "Old English 'cīdan' meaning 'quarrel'.",
+            "example": "The mother chided her child for running into the street.",
+            "image": ""
+        },
+        {
+            "word": "colérique",
+            "translation": "choleric",
+            "definition": "Mauvaise humeur ou irritable.",
+            "etymology": "Late Middle English, from Old French 'colerique', from Latin 'cholē' meaning 'bile', one of the four bodily humours (thought to cause a temper).",
+            "example": "His choleric nature made him difficult to work with.",
+            "image": ""
+        },
+        {
+            "word": "circonspect",
+            "translation": "circumspect",
+            "definition": "Méfiant et réticent à prendre des risques.",
+            "etymology": "Late Middle English, from Latin 'circumspectus', from 'circum-' around + 'specere' to look.",
+            "example": "She was circumspect in her decision to invest in the new company.",
+            "image": ""
+        },
+        {
+            "word": "circonvenir",
+            "translation": "circumvent",
+            "definition": "Trouver un moyen de contourner (un obstacle).",
+            "etymology": "Late Middle English, from Latin 'circumvent-', from 'circumvenire', from 'circum-' around + 'venire' to come.",
+            "example": "He circumvented the security system to gain access to the building.",
+            "image": ""
+        },
+        {
+            "word": "clandestin",
+            "translation": "clandestine",
+            "definition": "Gardé secret ou réalisé en secret, surtout parce que c&#39;est illicite.",
+            "etymology": "Mid 16th century, from Latin 'clandestinus', from 'clam' secretly.",
+            "example": "Their clandestine meetings were held in a hidden location.",
+            "image": ""
+        },
+        {
+            "word": "se fondre",
+            "translation": "coalesce",
+            "definition": "Se rassembler pour former une masse ou un tout.",
+            "etymology": "Mid 16th century, from Latin 'coalescere', from 'co-' together + 'alescere' grow.",
+            "example": "The two companies coalesced to create a larger organization.",
+            "image": ""
+        },
+        {
+            "word": "convaincant",
+            "translation": "cogent",
+            "definition": "(d&#39;un argument ou d&#39;une affaire) clair, logique et convaincant.",
+            "etymology": "Mid 17th century, from Latin 'cogent-', 'cogere' meaning 'compel'.",
+            "example": "Her cogent argument persuaded the jury.",
+            "image": ""
+        },
+        {
+            "word": "commensurable",
+            "translation": "commensurate",
+            "definition": "De taille ou de degré équivalents ; proportionnels.",
+            "etymology": "Mid 17th century, from late Latin 'commensuratus', from 'com-' together + 'mensuratus' measured.",
+            "example": "Salary will be commensurate with experience.",
+            "image": ""
+        },
+        {
+            "word": "compendium",
+            "translation": "compendium",
+            "definition": "Un recueil d&#39;informations concises mais détaillées sur un sujet particulier, notamment dans un livre ou une autre publication.",
+            "etymology": "Late 16th century, from Latin, from 'compendere' meaning 'weigh together'.",
+            "example": "The book is a compendium of facts about the natural world.",
+            "image": ""
+        },
+        {
+            "word": "scrupule",
+            "translation": "compunction",
+            "definition": "Un sentiment de culpabilité ou de scrupules moraux qui empêche ou suit la commission d&#39;un acte répréhensible.",
+            "etymology": "Late Middle English, from Old French 'compunction', from Latin 'compunctio(n-)', from 'compungere' to prick sharply.",
+            "example": "She had no compunction about lying to get what she wanted.",
+            "image": ""
+        },
+        {
+            "word": "concomitant",
+            "translation": "concomitant",
+            "definition": "Naturellement présent ou associé.",
+            "etymology": "Mid 17th century, from late Latin 'concomitant-', from the verb 'concomitari', from 'con-' together with + 'comitari' to accompany.",
+            "example": "She loved travel, with all its concomitant worries.",
+            "image": ""
+        },
+        {
+            "word": "incendie",
+            "translation": "conflagration",
+            "definition": "Un incendie de grande ampleur qui détruit une grande superficie de terres ou de biens.",
+            "etymology": "Late 15th century, from Latin 'conflagratio(n-)', from 'conflagrare' to blaze together.",
+            "example": "The conflagration spread quickly through the forest.",
+            "image": ""
+        },
+        {
+            "word": "confluence",
+            "translation": "confluence",
+            "definition": "La confluence de deux rivières, notamment de rivières de largeur à peu près égale.",
+            "etymology": "Late Middle English, from late Latin 'confluentia', from Latin 'confluere' meaning 'flow together'.",
+            "example": "The confluence of the rivers created a powerful current.",
+            "image": ""
+        },
+        {
+            "word": "conjecture",
+            "translation": "conjecture",
+            "definition": "Une opinion ou une conclusion formée sur la base d&#39;informations incomplètes.",
+            "etymology": "Late Middle English, from Old French 'conjecturer', from Latin 'conjectura', from 'conicere' meaning 'throw together'.",
+            "example": "Her conjecture about the cause of the problem was based on guesswork.",
+            "image": ""
+        },
+        {
+            "word": "fermer les yeux",
+            "translation": "connive",
+            "definition": "Laisser secrètement se produire (quelque chose considéré comme immoral, illégal ou nuisible).",
+            "etymology": "Early 17th century, from French 'conniver', from Latin 'connivere', from 'con-' together + 'nivere' meaning 'to wink'.",
+            "example": "The police were accused of conniving with criminals.",
+            "image": ""
+        },
+        {
+            "word": "connaisseur",
+            "translation": "connoisseur",
+            "definition": "Un juge expert en matière de goût.",
+            "etymology": "Early 18th century, from French 'connaisseur', from 'connaître' meaning 'know'.",
+            "example": "He was a connoisseur of fine wines.",
+            "image": ""
+        },
+        {
+            "word": "consanguin",
+            "translation": "consanguineous",
+            "definition": "Relatif à ou désignant des personnes descendant d&#39;un même ancêtre.",
+            "etymology": "Late 17th century, from Latin 'consanguineus' meaning 'of the same blood'.",
+            "example": "The consanguineous nature of the community made it close-knit.",
+            "image": ""
+        },
+        {
+            "word": "consternation",
+            "translation": "consternation",
+            "definition": "Sentiments d&#39;anxiété ou de consternation, généralement face à un événement inattendu.",
+            "etymology": "Early 17th century, from Latin 'consternatio(n-)', from 'consternare', from 'con-' expressing intensive force + 'sternere' meaning 'lay prostrate'.",
+            "example": "To his consternation, the door was locked.",
+            "image": ""
+        },
+        {
+            "word": "interpréter",
+            "translation": "construe",
+            "definition": "Interpréter (un mot ou une action) d&#39;une manière particulière.",
+            "etymology": "Late Middle English, from Latin 'construere' meaning 'build up, pile together'.",
+            "example": "His remarks were construed as an attack on the government.",
+            "image": ""
+        },
+        {
+            "word": "consommé",
+            "translation": "consummate",
+            "definition": "Faisant preuve d&#39;un haut degré de compétence et de talent ; complet ou parfait.",
+            "etymology": "Late Middle English, from Latin 'consummat-' meaning 'brought to completion', from 'consummare', from 'con-' altogether + 'summa' meaning 'sum total'.",
+            "example": "She was a consummate professional.",
+            "image": ""
+        },
+        {
+            "word": "controversé",
+            "translation": "contentious",
+            "definition": "Qui provoque ou est susceptible de provoquer une dispute ; controversé.",
+            "etymology": "Late Middle English, from Old French 'contentieux', from Latin 'contentiosus', from 'contentio' meaning 'strife'.",
+            "example": "The contentious issue divided the community.",
+            "image": ""
+        },
+        {
+            "word": "contigu",
+            "translation": "contiguous",
+            "definition": "Partager une frontière commune ; se toucher.",
+            "etymology": "Early 16th century, from Latin 'contiguus' meaning 'touching', from 'contingere' meaning 'be in contact with'.",
+            "example": "The contiguous states share a border.",
+            "image": ""
+        },
+        {
+            "word": "contrit",
+            "translation": "contrite",
+            "definition": "Éprouver ou exprimer des remords ou de la pénitence ; être affecté par la culpabilité.",
+            "etymology": "Middle English, from Old French, or from Latin 'contritus', past participle of 'conterere' meaning 'grind down', from 'con-' expressing intensive force + 'terere' meaning 'to rub'.",
+            "example": "She was contrite after causing the accident.",
+            "image": ""
+        },
+        {
+            "word": "convivial",
+            "translation": "convivial",
+            "definition": "(d&#39;une ambiance ou d&#39;un événement) convivial, animé et agréable.",
+            "etymology": "Late 17th century, from Latin 'convivium' meaning 'a feast', from 'con-' together + 'vivere' to live.",
+            "example": "The wedding reception was a convivial affair.",
+            "image": ""
+        },
+        {
+            "word": "copieux",
+            "translation": "copious",
+            "definition": "Abondant en offre ou en quantité.",
+            "etymology": "Late Middle English, from Old French 'copieux' or Latin 'copiosus', from 'copia' meaning 'plenty'.",
+            "example": "She took copious notes during the lecture.",
+            "image": ""
+        },
+        {
+            "word": "corroborer",
+            "translation": "corroborate",
+            "definition": "Confirmer ou appuyer (une affirmation, une théorie ou une conclusion).",
+            "etymology": "Mid 16th century, from Latin 'corroborat-', from 'corroborare', from 'cor-' together + 'roborare' meaning 'to strengthen'.",
+            "example": "The witness corroborated the defendant's alibi.",
+            "image": ""
+        },
+        {
+            "word": "foi",
+            "translation": "credence",
+            "definition": "Croire en quelque chose ou l&#39;accepter comme vrai.",
+            "etymology": "Late Middle English, from Old French, from Latin 'credentia', from 'credere' meaning 'to believe'.",
+            "example": "The report gave credence to the rumours.",
+            "image": ""
+        },
+        {
+            "word": "crédule",
+            "translation": "credulous",
+            "definition": "Avoir ou manifester une trop grande propension à croire des choses.",
+            "etymology": "Early 16th century, from Latin 'credulus' meaning 'easily deceived'.",
+            "example": "The credulous audience believed every word of the scammer's speech.",
+            "image": ""
+        },
+        {
+            "word": "lourd",
+            "translation": "cumbersome",
+            "definition": "Gros ou lourd, et donc difficile à transporter ou à utiliser ; encombrant.",
+            "etymology": "Late Middle English (in the sense 'difficult to get through'): from 'cumber' + '-some'.",
+            "example": "The cumbersome package was hard to transport.",
+            "image": ""
+        },
+        {
+            "word": "cupidité",
+            "translation": "cupidity",
+            "definition": "L&#39;avidité pour l&#39;argent ou les biens matériels.",
+            "etymology": "Late Middle English, from Old French 'cupidite', from Latin 'cupiditas', from 'cupidus' meaning 'desirous', from 'cupere' meaning 'to desire'.",
+            "example": "His cupidity led him to embezzle funds.",
+            "image": ""
+        },
+        {
+            "word": "superficiel",
+            "translation": "cursory",
+            "definition": "Hâtif et donc peu approfondi et non détaillé.",
+            "etymology": "Early 17th century, from Latin 'cursorius', from 'cursor' meaning 'runner', from 'currere' meaning 'to run'.",
+            "example": "The report was completed in a cursory manner.",
+            "image": ""
+        },
+        {
+            "word": "disette",
+            "translation": "dearth",
+            "definition": "Une rareté ou un manque de quelque chose.",
+            "etymology": "Middle English, from 'dear' + '-th'.",
+            "example": "There was a dearth of job opportunities in the small town.",
+            "image": ""
+        },
+        {
+            "word": "débâcle",
+            "translation": "debacle",
+            "definition": "Un échec soudain et ignominieux ; un fiasco.",
+            "etymology": "Early 19th century, from French 'débâcle', from 'débâcler' meaning 'to unbar', from 'des-' meaning 'away' + 'bacler' meaning 'to bar'.",
+            "example": "The dinner party turned into a debacle when the chef quit.",
+            "image": ""
+        },
+        {
+            "word": "discréditer",
+            "translation": "debunk",
+            "definition": "Démasquer la fausseté ou le caractère creux (d&#39;un mythe, d&#39;une idée ou d&#39;une croyance).",
+            "etymology": "1920s, from 'bunk', short for 'bunkum'.",
+            "example": "The journalist debunked the conspiracy theory.",
+            "image": ""
+        },
+        {
+            "word": "décadence",
+            "translation": "decadence",
+            "definition": "Déclin moral ou culturel caractérisé par une recherche excessive du plaisir ou du luxe.",
+            "etymology": "Mid 16th century, from French 'décadence', from medieval Latin 'decadentia', from 'decadere' meaning 'to decay'.",
+            "example": "The decadence of the Roman Empire contributed to its fall.",
+            "image": ""
+        },
+        {
+            "word": "décorum",
+            "translation": "decorum",
+            "definition": "Un comportement conforme aux bonnes mœurs et aux convenances.",
+            "etymology": "Late Middle English, from Latin, neuter of 'decorus' meaning 'seemly'.",
+            "example": "She maintained her decorum throughout the formal dinner.",
+            "image": ""
+        },
+        {
+            "word": "respect",
+            "translation": "deference",
+            "definition": "Soumission polie et respect.",
+            "etymology": "Mid 17th century, from French 'déférence', from 'déférer' meaning 'to defer'.",
+            "example": "He addressed her with deference, recognising her authority.",
+            "image": ""
+        },
+        {
+            "word": "délétère",
+            "translation": "deleterious",
+            "definition": "Causer des dommages ou des préjudices.",
+            "etymology": "Mid 17th century, from Greek 'dēlētērios' meaning 'noxious'.",
+            "example": "The deleterious effects of smoking are well known.",
+            "image": ""
+        },
+        {
+            "word": "démagogue",
+            "translation": "demagogue",
+            "definition": "Un dirigeant politique qui cherche à obtenir du soutien en faisant appel aux désirs et aux préjugés des gens ordinaires plutôt qu&#39;en utilisant des arguments rationnels.",
+            "etymology": "Mid 17th century, from Greek 'dēmagōgos', from 'dēmos' meaning 'the people' + 'agōgos' meaning 'leading'.",
+            "example": "The demagogue manipulated public fears to gain support.",
+            "image": ""
+        },
+        {
+            "word": "hésitation",
+            "translation": "demur",
+            "definition": "Émettre des doutes ou des objections, ou manifester des réticences.",
+            "etymology": "Late Middle English, from Old French 'demourer', based on Latin 'demorari' meaning 'to delay'.",
+            "example": "She agreed without demur.",
+            "image": ""
+        },
+        {
+            "word": "dénigrer",
+            "translation": "denigrate",
+            "definition": "Critiquer injustement ; dénigrer.",
+            "etymology": "Late Middle English, from Latin 'denigrat-', from the verb 'denigrare', from 'de-' meaning 'away, completely' + 'niger' meaning 'black'.",
+            "example": "The media denigrated the politician’s reputation.",
+            "image": ""
+        },
+        {
+            "word": "déprédation",
+            "translation": "depredation",
+            "definition": "Un acte d&#39;attaque ou de pillage.",
+            "etymology": "Early 17th century, from Latin 'depraedatio(n-)', from 'depraedari' meaning 'plunder'.",
+            "example": "The depredation of the village by the invaders was swift and brutal.",
+            "image": ""
+        },
+        {
+            "word": "despote",
+            "translation": "despot",
+            "definition": "Un dirigeant ou toute autre personne détenant un pouvoir absolu, généralement quelqu&#39;un qui l&#39;exerce de manière cruelle ou oppressive.",
+            "etymology": "Mid 16th century, from French 'despote', via medieval Latin from Greek 'despotēs' meaning 'master'.",
+            "example": "The despot ruled with an iron fist.",
+            "image": ""
+        },
+        {
+            "word": "diaphane",
+            "translation": "diaphanous",
+            "definition": "(Surtout en tissu) léger, délicat et translucide.",
+            "etymology": "Early 17th century, from medieval Latin 'diaphanus', from Greek 'diaphanēs', from 'dia-' meaning 'through' + 'phainein' meaning 'to show'.",
+            "example": "The diaphanous curtains billowed gently in the breeze.",
+            "image": ""
+        },
+        {
+            "word": "didactique",
+            "translation": "didactic",
+            "definition": "Destiné à enseigner, notamment en ayant pour but sous-jacent l&#39;instruction morale.",
+            "etymology": "Mid 17th century, from Greek 'didaktikos', from 'didaskein' meaning 'to teach'.",
+            "example": "The didactic novel aimed to impart moral lessons.",
+            "image": ""
+        },
+        {
+            "word": "timide",
+            "translation": "diffident",
+            "definition": "Modeste ou timide par manque de confiance en soi.",
+            "etymology": "Late Middle English, from Latin 'diffident-', from the verb 'diffidere', from 'dis-' meaning 'away' + 'fidere' meaning 'to trust'.",
+            "example": "The diffident student was reluctant to speak in class.",
+            "image": ""
+        },
+        {
+            "word": "dilatoire",
+            "translation": "dilatory",
+            "definition": "Lents à réagir.",
+            "etymology": "Late Middle English, from Old French 'dilatoire', from Latin 'dilatorius', from 'dilatare' meaning 'defer, postpone'.",
+            "example": "The government’s dilatory response frustrated the public.",
+            "image": ""
+        },
+        {
+            "word": "diminutif",
+            "translation": "diminutive",
+            "definition": "Extrêmement petit ou inhabituellement petit.",
+            "etymology": "Late Middle English, from Old French, from Latin 'diminutivus', from 'diminuere' meaning 'diminish'.",
+            "example": "The diminutive figure seemed out of place among the tall athletes.",
+            "image": ""
+        },
+        {
+            "word": "disparate",
+            "translation": "disparate",
+            "definition": "Essentiellement différents par nature ; ne permettant aucune comparaison.",
+            "etymology": "Late Middle English, from Latin 'disparatus', from 'disparare' meaning 'to separate'.",
+            "example": "The two theories are based on disparate assumptions.",
+            "image": ""
+        },
+        {
+            "word": "dissimuler",
+            "translation": "dissemble",
+            "definition": "Dissimuler ses véritables motivations, sentiments ou convictions.",
+            "etymology": "Late Middle English, from Old French 'dissimuler', based on Latin 'dissimulare' meaning 'to disguise'.",
+            "example": "He dissembled his true intentions with a smile.",
+            "image": ""
+        },
+        {
+            "word": "dissension",
+            "translation": "dissension",
+            "definition": "Désaccord menant à la discorde.",
+            "etymology": "Middle English, from Old French 'dissension', from Latin 'dissensio(n-)', from 'dissentire' meaning 'to differ in sentiment'.",
+            "example": "The political party was torn apart by internal dissension.",
+            "image": ""
+        },
+        {
+            "word": "se dissiper",
+            "translation": "dissipate",
+            "definition": "Disperser ou éparpiller.",
+            "etymology": "Late Middle English, from Latin 'dissipare' meaning 'scatter'.",
+            "example": "The fog dissipated as the sun rose.",
+            "image": ""
+        },
+        {
+            "word": "docile",
+            "translation": "docile",
+            "definition": "Prêt à accepter le contrôle ou les instructions ; soumis.",
+            "etymology": "Late 15th century, from Latin 'docilis', from 'docere' meaning 'teach'.",
+            "example": "The docile puppy quickly learned new commands.",
+            "image": ""
+        },
+        {
+            "word": "dogmatique",
+            "translation": "dogmatic",
+            "definition": "Enclin à énoncer des principes comme étant incontestablement vrais.",
+            "etymology": "Mid 16th century, from late Latin 'dogmaticus', from Greek 'dogmatikos', from 'dogma' meaning 'opinion'.",
+            "example": "The professor's dogmatic approach left no room for debate.",
+            "image": ""
+        },
+        {
+            "word": "austère",
+            "translation": "dour",
+            "definition": "D&#39;une sévérité, d&#39;une rigueur ou d&#39;une tristesse implacables, que ce soit dans ses manières ou son apparence.",
+            "etymology": "Late Middle English (in the sense 'obstinate'): probably from Scottish Gaelic 'dur', from Latin 'durus' meaning 'hard'.",
+            "example": "The dour expression on his face revealed his disappointment.",
+            "image": ""
+        },
+        {
+            "word": "duplicité",
+            "translation": "duplicity",
+            "definition": "Tromperie ; duplicité.",
+            "etymology": "Late Middle English, from Old French, from late Latin 'duplicitas', from 'duplex' meaning 'double'.",
+            "example": "Her duplicity was uncovered when she was caught lying to both parties.",
+            "image": ""
+        },
+        {
+            "word": "exubérant",
+            "translation": "ebullient",
+            "definition": "Joyeux et plein d&#39;énergie.",
+            "etymology": "Late 16th century, from Latin 'ebullient-', from 'ebullire' meaning 'to boil up'.",
+            "example": "Her ebullient personality made her the life of the party.",
+            "image": ""
+        },
+        {
+            "word": "éclectique",
+            "translation": "eclectic",
+            "definition": "S&#39;inspirer d&#39;idées, d&#39;un style ou de goûts puisés dans un large éventail de sources diverses.",
+            "etymology": "Late 17th century, from Greek 'eklektikos', from 'eklegein' meaning 'to pick out'.",
+            "example": "His eclectic taste in music included everything from classical to punk rock.",
+            "image": ""
+        },
+        {
+            "word": "édifice",
+            "translation": "edifice",
+            "definition": "Un grand bâtiment imposant.",
+            "etymology": "Late Middle English, from Latin 'aedificium', from 'aedificare' meaning 'to build'.",
+            "example": "The cathedral was an impressive edifice.",
+            "image": ""
+        },
+        {
+            "word": "effacer",
+            "translation": "efface",
+            "definition": "Effacer (une marque) d&#39;une surface.",
+            "etymology": "Mid 16th century, from French 'effacer', from 'e-' meaning 'away' + 'face' meaning 'face'.",
+            "example": "The inscription had been effaced by the passage of time.",
+            "image": ""
+        },
+        {
+            "word": "effervescent",
+            "translation": "effervescent",
+            "definition": "(Pour un liquide) qui dégage des bulles ; pétillant.",
+            "etymology": "Early 18th century, from Latin 'effervescere', from 'ex-' meaning 'out, up' + 'fervescere' meaning 'begin to boil'.",
+            "example": "The effervescent drink tickled her throat.",
+            "image": ""
+        },
+        {
+            "word": "efficacité",
+            "translation": "efficacy",
+            "definition": "La capacité à produire un résultat souhaité ou escompté.",
+            "etymology": "Early 16th century, from Latin 'efficacia', from 'efficax' meaning 'efficacious'.",
+            "example": "The efficacy of the treatment was confirmed by the studies.",
+            "image": ""
+        },
+        {
+            "word": "effronterie",
+            "translation": "effrontery",
+            "definition": "Comportement insolent ou impertinent.",
+            "etymology": "Late 17th century, from French 'effronterie', based on late Latin 'effrons' meaning 'shameless'.",
+            "example": "The student's effrontery in speaking back to the teacher was shocking.",
+            "image": ""
+        },
+        {
+            "word": "énorme",
+            "translation": "egregious",
+            "definition": "Extrêmement mauvais ; choquant.",
+            "etymology": "Mid 16th century, from Latin 'egregius' meaning 'standing out from the flock'.",
+            "example": "The company's egregious disregard for the environment led to public outrage.",
+            "image": ""
+        },
+        {
+            "word": "obtenir",
+            "translation": "elicit",
+            "definition": "Provoquer ou obtenir (une réaction, une réponse ou un fait) de quelqu&#39;un.",
+            "etymology": "Mid 17th century, from Latin 'elicere', from 'e-' meaning 'out' + 'lacere' meaning 'entice'.",
+            "example": "The comedian's jokes elicited laughter from the audience.",
+            "image": ""
+        },
+        {
+            "word": "élucider",
+            "translation": "elucidate",
+            "definition": "Clarifier (quelque chose) ; expliquer.",
+            "etymology": "Late 16th century, from late Latin 'elucidat-', from 'elucidare', from 'e-' meaning 'out' + 'lucidus' meaning 'lucid'.",
+            "example": "The professor elucidated the complex theory with several examples.",
+            "image": ""
+        },
+        {
+            "word": "émacié",
+            "translation": "emaciated",
+            "definition": "Anormalement maigre ou faible, notamment en raison d&#39;une maladie ou d&#39;un manque de nourriture.",
+            "etymology": "Early 17th century, from Latin 'emaciatus', from the verb 'emaciare', from 'e-' meaning 'out' + 'macies' meaning 'leanness'.",
+            "example": "The emaciated refugees were given food and shelter.",
+            "image": ""
+        },
+        {
+            "word": "corriger",
+            "translation": "emend",
+            "definition": "Apporter des corrections et des améliorations à (un texte).",
+            "etymology": "Late Middle English, from Latin 'emendare', from 'e-' meaning 'out' + 'mendum' meaning 'fault'.",
+            "example": "The editor emended the manuscript before publication.",
+            "image": ""
+        },
+        {
+            "word": "éminent",
+            "translation": "eminent",
+            "definition": "(D&#39;une personne) célèbre et respectée dans un domaine ou une profession particulière.",
+            "etymology": "Late Middle English, from Latin 'eminent-', from 'eminere' meaning 'stand out'.",
+            "example": "The eminent scientist was awarded a Nobel Prize.",
+            "image": ""
+        },
+        {
+            "word": "émollient",
+            "translation": "emollient",
+            "definition": "Possédant la qualité d&#39;adoucir ou d&#39;apaiser la peau.",
+            "etymology": "Mid 17th century, from Latin 'emollient-', from the verb 'emollire', from 'e-' meaning 'out' + 'mollis' meaning 'soft'.",
+            "example": "The emollient lotion relieved her dry skin.",
+            "image": ""
+        },
+        {
+            "word": "empirique",
+            "translation": "empirical",
+            "definition": "Fondé sur, relatif à, ou vérifiable par l&#39;observation ou l&#39;expérience plutôt que sur la théorie ou la logique pure.",
+            "etymology": "Mid 16th century, from Latin 'empiricus', from Greek 'empeirikos', from 'empeiria' meaning 'experience'.",
+            "example": "The empirical data supported the scientist's hypothesis.",
+            "image": ""
+        },
+        {
+            "word": "amollir",
+            "translation": "enervate",
+            "definition": "Provoquer une sensation d&#39;épuisement ou de perte de vitalité ; affaiblir.",
+            "etymology": "Early 17th century, from Latin 'enervat-', from the verb 'enervare', from 'e-' meaning 'out of' + 'nervus' meaning 'sinew'.",
+            "example": "The heat enervated the workers, making it hard to continue.",
+            "image": ""
+        },
+        {
+            "word": "affranchir",
+            "translation": "enfranchise",
+            "definition": "Accorder le droit de vote à.",
+            "etymology": "Late Middle English, from Old French 'enfranchir', from 'en-' meaning 'in' + 'franc' meaning 'free'.",
+            "example": "The movement sought to enfranchise all citizens, regardless of gender.",
+            "image": ""
+        },
+        {
+            "word": "engendrer",
+            "translation": "engender",
+            "definition": "Provoquer ou donner lieu à (un sentiment, une situation ou un état).",
+            "etymology": "Middle English, from Old French 'engendrer', from Latin 'ingenerare', from 'in-' meaning 'in' + 'generare' meaning 'beget'.",
+            "example": "The controversial decision engendered a debate among the community.",
+            "image": ""
+        },
+        {
+            "word": "énigme",
+            "translation": "enigma",
+            "definition": "Une personne ou une chose mystérieuse, énigmatique ou difficile à comprendre.",
+            "etymology": "Late 16th century, via Latin from Greek 'ainigma', from 'ainissesthai' meaning 'speak allusively'.",
+            "example": "The artist was an enigma, known for his cryptic messages.",
+            "image": ""
+        },
+        {
+            "word": "hostilité",
+            "translation": "enmity",
+            "definition": "L&#39;état ou le sentiment d&#39;être activement opposé ou hostile à quelqu&#39;un ou à quelque chose.",
+            "etymology": "Middle English, from Old French 'enemistie', based on Latin 'inimicus'.",
+            "example": "The longstanding enmity between the two nations was hard to overcome.",
+            "image": ""
+        },
+        {
+            "word": "ennui",
+            "translation": "ennui",
+            "definition": "Un sentiment d&#39;apathie et d&#39;insatisfaction résultant d&#39;un manque d&#39;occupation ou d&#39;excitation.",
+            "etymology": "Mid 18th century, from French, from Latin 'inodiare' meaning 'to make loathsome'.",
+            "example": "The endless meetings filled him with ennui.",
+            "image": ""
+        },
+        {
+            "word": "éphémère",
+            "translation": "ephemeral",
+            "definition": "Cela dure très peu de temps.",
+            "etymology": "Late 16th century, from Greek 'ephemeros' meaning 'lasting only a day'.",
+            "example": "The beauty of the sunset was ephemeral.",
+            "image": ""
+        },
+        {
+            "word": "épistolaire",
+            "translation": "epistolary",
+            "definition": "Relatif à l&#39;écriture de lettres ou d&#39;œuvres littéraires sous forme de lettres, ou qui la désigne.",
+            "etymology": "Mid 17th century, from French 'épistolaire', from Latin 'epistolaris', from 'epistola' meaning 'letter'.",
+            "example": "The novel was written in an epistolary format.",
+            "image": ""
+        },
+        {
+            "word": "équanimité",
+            "translation": "equanimity",
+            "definition": "Calme mental, sang-froid et maîtrise de soi, surtout dans une situation difficile.",
+            "etymology": "Early 17th century, from Latin 'aequanimitas', from 'aequus' meaning 'equal' + 'animus' meaning 'mind'.",
+            "example": "She handled the stressful situation with remarkable equanimity.",
+            "image": ""
+        },
+        {
+            "word": "tergiverser",
+            "translation": "equivocate",
+            "definition": "Utiliser un langage ambigu pour dissimuler la vérité ou éviter de s&#39;engager.",
+            "etymology": "Late Middle English, from late Latin 'aequivocat-' meaning 'called by the same name'.",
+            "example": "The politician equivocated when asked about the scandal.",
+            "image": ""
+        },
+        {
+            "word": "érudit",
+            "translation": "erudite",
+            "definition": "Posséder ou démontrer de grandes connaissances ou un grand savoir.",
+            "etymology": "Late Middle English, from Latin 'eruditus', from 'erudire' meaning 'instruct'.",
+            "example": "The professor's erudite lecture impressed the students.",
+            "image": ""
+        },
+        {
+            "word": "éviter",
+            "translation": "eschew",
+            "definition": "Évitez délibérément d&#39;utiliser ; abstenez-vous de.",
+            "etymology": "Late Middle English, from Old French 'eschiver', of Germanic origin; related to 'shun'.",
+            "example": "He eschewed violence in all its forms.",
+            "image": ""
+        },
+        {
+            "word": "ésotérique",
+            "translation": "esoteric",
+            "definition": "Destiné à un petit nombre de personnes possédant des connaissances ou un intérêt spécialisé, ou susceptible d&#39;être compris uniquement par elles.",
+            "etymology": "Mid 17th century, from Greek 'esōterikos', from 'esōterō' meaning 'within', from 'eis' meaning 'into'.",
+            "example": "The esoteric philosophy was difficult for outsiders to grasp.",
+            "image": ""
+        },
+        {
+            "word": "adopter",
+            "translation": "espouse",
+            "definition": "Adopter ou soutenir (une cause, une croyance ou un mode de vie).",
+            "etymology": "Late Middle English (in the sense 'marry'): from Old French 'espouser', from Latin 'sponsare', from 'spondere' meaning 'betroth'.",
+            "example": "The senator espoused the idea of reform.",
+            "image": ""
+        },
+        {
+            "word": "éthéré",
+            "translation": "ethereal",
+            "definition": "Extrêmement délicate et légère, d&#39;une façon qui semble trop parfaite pour ce monde.",
+            "etymology": "Mid 16th century, from Greek 'aitherios', from 'aither' meaning 'ether'.",
+            "example": "The ballerina's ethereal movements captivated the audience.",
+            "image": ""
+        },
+        {
+            "word": "éloge",
+            "translation": "eulogy",
+            "definition": "Un discours ou un texte qui fait l&#39;éloge de quelqu&#39;un ou de quelque chose, notamment un hommage à une personne qui vient de décéder.",
+            "etymology": "Late Middle English, from medieval Latin 'eulogium', from Greek 'eulogia' meaning 'praise'.",
+            "example": "His eulogy at the funeral was heartfelt.",
+            "image": ""
+        },
+        {
+            "word": "euphémisme",
+            "translation": "euphemism",
+            "definition": "Un mot ou une expression atténuée ou indirecte, substituée à un autre considéré comme trop dur ou direct lorsqu&#39;il s&#39;agit de parler de quelque chose de désagréable ou d&#39;embarrassant.",
+            "etymology": "Late 16th century, from Greek 'euphemismos', from 'euphēmizein' meaning 'use auspicious words', from 'eu-' meaning 'well' + 'phēmē' meaning 'speaking'.",
+            "example": "The company used 'downsizing' as a euphemism for layoffs.",
+            "image": ""
+        },
+        {
+            "word": "évanescent",
+            "translation": "evanescent",
+            "definition": "Disparaissant rapidement de la vue, de la mémoire ou de l&#39;existence ; s&#39;estompant ou disparaissant rapidement.",
+            "etymology": "Early 18th century, from Latin 'evanescent-', from the verb 'evanescere', from 'e-' meaning 'out of' + 'vanescere' meaning 'vanish'.",
+            "example": "The evanescent rainbow disappeared as quickly as it appeared.",
+            "image": ""
+        },
+        {
+            "word": "montrer",
+            "translation": "evince",
+            "definition": "Révéler la présence (d&#39;une qualité ou d&#39;un sentiment) ; indiquer.",
+            "etymology": "Late 16th century, from Latin 'evincere', from 'e-' meaning 'out' + 'vincere' meaning 'overcome'.",
+            "example": "His comments evinced a genuine interest in the topic.",
+            "image": ""
+        },
+        {
+            "word": "exacerber",
+            "translation": "exacerbate",
+            "definition": "Aggraver (un problème, une mauvaise situation ou un sentiment négatif).",
+            "etymology": "Mid 17th century, from Latin 'exacerbat-', from the verb 'exacerbare', from 'ex-' meaning 'thoroughly' + 'acerbus' meaning 'harsh, bitter'.",
+            "example": "His refusal to apologize only exacerbated the tension.",
+            "image": ""
+        },
+        {
+            "word": "innocenter",
+            "translation": "exculpate",
+            "definition": "Démontrer ou déclarer que (quelqu&#39;un) n&#39;est pas coupable d&#39;acte répréhensible.",
+            "etymology": "Mid 17th century, from medieval Latin 'exculpat-', from 'exculpare', from 'ex-' meaning 'out' + 'culpa' meaning 'blame'.",
+            "example": "The evidence exculpated the defendant from any wrongdoing.",
+            "image": ""
+        },
+        {
+            "word": "exemplaire",
+            "translation": "exemplary",
+            "definition": "Un modèle à suivre ; représentant ce qu&#39;il y a de mieux en son genre.",
+            "etymology": "Late 16th century, from late Latin 'exemplaris', from Latin 'exemplum' meaning 'example'.",
+            "example": "Her exemplary work ethic set a standard for others.",
+            "image": ""
+        },
+        {
+            "word": "exigeant",
+            "translation": "exigent",
+            "definition": "Pressant ; exigeant.",
+            "etymology": "Late Middle English, from Latin 'exigent-', from 'exigere', from 'ex-' meaning 'out' + 'agere' meaning 'drive'.",
+            "example": "The exigent demands of the job were overwhelming.",
+            "image": ""
+        },
+        {
+            "word": "disculper",
+            "translation": "exonerate",
+            "definition": "(Surtout pour un organisme officiel) absoudre (quelqu&#39;un) de toute faute ou méfait, notamment après un examen attentif du dossier.",
+            "etymology": "Late Middle English, from Latin 'exonerat-', from the verb 'exonerare', from 'ex-' meaning 'from' + 'onus' meaning 'a burden'.",
+            "example": "The DNA evidence exonerated him from the crime.",
+            "image": ""
+        },
+        {
+            "word": "exorbitant",
+            "translation": "exorbitant",
+            "definition": "(D&#39;un prix ou d&#39;un montant facturé) excessivement élevé.",
+            "etymology": "Late Middle English, from Latin 'exorbitant-', from 'exorbitare', from 'ex-' meaning 'out from' + 'orbita' meaning 'track'.",
+            "example": "The exorbitant price of the meal shocked the diners.",
+            "image": ""
+        },
+        {
+            "word": "opportun",
+            "translation": "expedient",
+            "definition": "(D&#39;une action) opportune et pratique, bien que potentiellement inappropriée ou immorale.",
+            "etymology": "Late Middle English, from Latin 'expedient-', from the verb 'expedire', from 'ex-' meaning 'out' + 'pes' meaning 'foot'.",
+            "example": "The mayor's decision to approve the project was politically expedient.",
+            "image": ""
+        },
+        {
+            "word": "expier",
+            "translation": "expiate",
+            "definition": "Expier (sa culpabilité ou son péché).",
+            "etymology": "Late Middle English, from Latin 'expiat-', from the verb 'expiare', from 'ex-' meaning 'out' + 'piare' meaning 'appease'.",
+            "example": "He tried to expiate his sins by donating to charity.",
+            "image": ""
+        },
+        {
+            "word": "effacer",
+            "translation": "expunge",
+            "definition": "Effacer ou supprimer complètement ; anéantir ou supprimer.",
+            "etymology": "Early 17th century, from Latin 'expungere', meaning to mark for deletion (from 'ex-' meaning out and 'pungere' meaning to prick).",
+            "example": "The criminal record was expunged after the charges were dropped.",
+            "image": ""
+        },
+        {
+            "word": "existant",
+            "translation": "extant",
+            "definition": "(En particulier d&#39;un document) encore existant ; qui survit.",
+            "etymology": "Mid 16th century, from Latin 'exstant-', from the verb 'exstare', from 'ex-' meaning 'out' + 'stare' meaning 'to stand'.",
+            "example": "The only extant copy of the manuscript was found in a library.",
+            "image": ""
+        },
+        {
+            "word": "improvisé",
+            "translation": "extemporaneous",
+            "definition": "Prononcé ou fait sans préparation.",
+            "etymology": "Mid 17th century, from late Latin 'extemporaneus', from 'ex tempore' meaning 'out of the time'.",
+            "example": "His extemporaneous speech impressed the audience.",
+            "image": ""
+        },
+        {
+            "word": "exalter",
+            "translation": "extol",
+            "definition": "Faites l&#39;éloge avec enthousiasme.",
+            "etymology": "Late Middle English, from Latin 'extollere', from 'ex-' meaning 'out, upward' + 'tollere' meaning 'raise'.",
+            "example": "The mayor extolled the volunteers for their hard work.",
+            "image": ""
+        },
+        {
+            "word": "étranger",
+            "translation": "extraneous",
+            "definition": "Sans rapport ou non pertinent avec le sujet traité.",
+            "etymology": "Mid 17th century, from Latin 'extraneus' meaning 'external, strange', from 'extra' meaning 'outside'.",
+            "example": "The report was full of extraneous information.",
+            "image": ""
+        },
+        {
+            "word": "extrapoler",
+            "translation": "extrapolate",
+            "definition": "Étendre l&#39;application (d&#39;une méthode ou d&#39;une conclusion) à une situation inconnue en supposant que les tendances existantes se poursuivront ou que des méthodes similaires seront applicables.",
+            "etymology": "Early 19th century, from 'extra-' meaning 'outside' + a shortened form of 'interpolate'.",
+            "example": "The scientist extrapolated future trends based on the data collected.",
+            "image": ""
+        },
+        {
+            "word": "dégager",
+            "translation": "extricate",
+            "definition": "Libérer (quelqu&#39;un ou quelque chose) d&#39;une contrainte ou d&#39;une difficulté.",
+            "etymology": "Early 17th century, from Latin 'extricat-', from the verb 'extricare', from 'ex-' meaning 'out' + 'tricae' meaning 'perplexities'.",
+            "example": "He tried to extricate himself from the awkward situation.",
+            "image": ""
+        },
+        {
+            "word": "facétieux",
+            "translation": "facetious",
+            "definition": "Traiter des sujets sérieux avec un humour délibérément déplacé ; désinvolte.",
+            "etymology": "Late 16th century, from French 'facétieux', from 'facétie' meaning 'a joke', from Latin 'facetia' meaning 'jest'.",
+            "example": "His facetious remarks during the meeting were not appreciated.",
+            "image": ""
+        },
+        {
+            "word": "fallacieux",
+            "translation": "fallacious",
+            "definition": "Fondé sur une croyance erronée.",
+            "etymology": "Early 16th century, from Latin 'fallaciosus', from 'fallacia' meaning 'deceit', from 'fallax' meaning 'deceptive'.",
+            "example": "The argument was based on fallacious reasoning.",
+            "image": ""
+        },
+        {
+            "word": "stupide",
+            "translation": "fatuous",
+            "definition": "Absurde et inutile.",
+            "etymology": "Early 17th century, from Latin 'fatuus' meaning 'foolish'.",
+            "example": "His fatuous comments only served to annoy everyone.",
+            "image": ""
+        },
+        {
+            "word": "fécond",
+            "translation": "fecund",
+            "definition": "Qui produit ou est capable de produire une abondance de descendants ou de nouvelles pousses ; fertile.",
+            "etymology": "Late Middle English, from French 'fécond', from Latin 'fecundus' meaning 'fruitful'.",
+            "example": "The fecund soil produced a bountiful harvest.",
+            "image": ""
+        },
+        {
+            "word": "heureux",
+            "translation": "felicitous",
+            "definition": "Bien choisi ou adapté aux circonstances.",
+            "etymology": "Late 18th century, from Latin 'felicitas' meaning 'happiness'.",
+            "example": "Her felicitous remarks cheered everyone up.",
+            "image": ""
+        },
+        {
+            "word": "sauvage",
+            "translation": "feral",
+            "definition": "(Surtout d&#39;un animal) à l&#39;état sauvage, notamment après une évasion de captivité ou de domestication.",
+            "etymology": "Mid 17th century, from Latin 'ferus' meaning 'wild'.",
+            "example": "The feral cat prowled through the alleyways.",
+            "image": ""
+        },
+        {
+            "word": "fervent",
+            "translation": "fervent",
+            "definition": "Qui fait preuve d&#39;une intensité passionnée.",
+            "etymology": "Late Middle English, from Old French, from Latin 'fervent-', from 'fervere' meaning 'to boil'.",
+            "example": "His fervent support for the cause was evident.",
+            "image": ""
+        },
+        {
+            "word": "fétide",
+            "translation": "fetid",
+            "definition": "Une odeur extrêmement désagréable.",
+            "etymology": "Early 17th century, from Latin 'fetidus', from 'fetere' meaning 'to stink'.",
+            "example": "The fetid air in the sewer made it hard to breathe.",
+            "image": ""
+        },
+        {
+            "word": "flagrant",
+            "translation": "flagrant",
+            "definition": "(Pour quelque chose considéré comme mal ou immoral) manifestement ou ouvertement offensant.",
+            "etymology": "Late Middle English, from Latin 'flagrant-' meaning 'blazing', from 'flagrare' meaning 'to blaze'.",
+            "example": "His flagrant disregard for the rules got him into trouble.",
+            "image": ""
+        },
+        {
+            "word": "fleuri",
+            "translation": "florid",
+            "definition": "Avoir le teint rouge ou congestionné.",
+            "etymology": "Mid 17th century, from Latin 'floridus', from 'flos' meaning 'flower'.",
+            "example": "Her florid face betrayed her embarrassment.",
+            "image": ""
+        },
+        {
+            "word": "couper le sifflet",
+            "translation": "flummox",
+            "definition": "Déconcerter ou troubler profondément quelqu&#39;un ; déconcerter.",
+            "etymology": "Mid 19th century, of unknown origin; perhaps related to the dialect word 'flummock', meaning to make untidy.",
+            "example": "The complicated instructions flummoxed everyone who tried to assemble the furniture.",
+            "image": ""
+        },
+        {
+            "word": "faiblesse",
+            "translation": "foible",
+            "definition": "Une petite faiblesse ou une excentricité dans le caractère d&#39;une personne.",
+            "etymology": "Late 16th century (as an adjective in the sense 'feeble'): from obsolete French, in Old French 'fieble', from Latin 'flebilis' meaning 'lamentable'.",
+            "example": "His only foible was his love for sweets.",
+            "image": ""
+        },
+        {
+            "word": "abstention",
+            "translation": "forbearance",
+            "definition": "Maîtrise de soi du patient ; retenue et tolérance.",
+            "etymology": "Middle English (in the sense 'endurance, tolerance'): from the verb 'forbear', from Old English 'forberan', from 'for-' meaning 'away, off' + 'beran' meaning 'to bear'.",
+            "example": "The teacher showed remarkable forbearance in dealing with the unruly class.",
+            "image": ""
+        },
+        {
+            "word": "courage",
+            "translation": "fortitude",
+            "definition": "Le courage dans la douleur ou l&#39;adversité.",
+            "etymology": "Late Middle English, from Latin 'fortitudo', from 'fortis' meaning 'strong'.",
+            "example": "She showed great fortitude in the face of adversity.",
+            "image": ""
+        },
+        {
+            "word": "fortuit",
+            "translation": "fortuitous",
+            "definition": "Cela arrive par hasard ; c&#39;est un coup de chance.",
+            "etymology": "Mid 17th century, from Latin 'fortuitus', from 'fors' meaning 'chance'.",
+            "example": "The fortuitous meeting led to a successful partnership.",
+            "image": ""
+        },
+        {
+            "word": "hargneux",
+            "translation": "fractious",
+            "definition": "(Typiquement chez les enfants) irritable et querelleur.",
+            "etymology": "Early 18th century, from 'fraction', from Latin 'fractio', from 'frangere' meaning 'to break'.",
+            "example": "The fractious children were difficult to control.",
+            "image": ""
+        },
+        {
+            "word": "frénétique",
+            "translation": "frenetic",
+            "definition": "Rapide et énergique, d&#39;une manière plutôt sauvage et incontrôlée.",
+            "etymology": "Late 19th century, from Old French 'frénétique', via Latin from Greek 'phrenitikos', from 'phrenitis' meaning 'delirium'.",
+            "example": "The frenetic pace of the city life was overwhelming.",
+            "image": ""
+        },
+        {
+            "word": "furtif",
+            "translation": "furtive",
+            "definition": "Qui cherche à éviter d&#39;être remarqué ou d&#39;attirer l&#39;attention, généralement par culpabilité ou par conviction que sa découverte entraînerait des ennuis ; secret.",
+            "etymology": "Early 17th century, from Latin 'furtivus', from 'furtum' meaning 'theft'.",
+            "example": "The furtive glance he gave her aroused suspicion.",
+            "image": ""
+        },
+        {
+            "word": "criard",
+            "translation": "garish",
+            "definition": "D&#39;une luminosité ostentatoire et voyante ; criarde.",
+            "etymology": "Early 16th century, of unknown origin.",
+            "example": "The garish neon signs lit up the night.",
+            "image": ""
+        },
+        {
+            "word": "bavard",
+            "translation": "garrulous",
+            "definition": "Excessivement bavard, surtout sur des sujets insignifiants.",
+            "etymology": "Early 17th century, from Latin 'garrulus', from 'garrire' meaning 'to chatter'.",
+            "example": "The garrulous old man held up the queue with his endless stories.",
+            "image": ""
+        },
+        {
+            "word": "génial",
+            "translation": "genial",
+            "definition": "Amical et joyeux.",
+            "etymology": "Mid 16th century (in the sense 'pleasantly mild and warm'): from Latin 'genialis', from 'genius' meaning 'attendant spirit present from one's birth'.",
+            "example": "Her genial personality made her popular at work.",
+            "image": ""
+        },
+        {
+            "word": "grandiloquent",
+            "translation": "grandiloquent",
+            "definition": "Pompant ou extravagant dans son langage, son style ou ses manières, surtout dans le but d&#39;impressionner.",
+            "etymology": "Late 16th century, from Latin 'grandiloquent-', from 'grandis' meaning 'grand' + 'loqui' meaning 'to speak'.",
+            "example": "His grandiloquent speech failed to impress the audience.",
+            "image": ""
+        },
+        {
+            "word": "grégaire",
+            "translation": "gregarious",
+            "definition": "(D&#39;une personne) qui aime la compagnie ; sociable.",
+            "etymology": "Mid 17th century, from Latin 'gregarius', from 'grex, greg-' meaning 'a flock'.",
+            "example": "The gregarious host made everyone feel at ease.",
+            "image": ""
+        },
+        {
+            "word": "ruse",
+            "translation": "guile",
+            "definition": "Intelligence sournoise ou rusée.",
+            "etymology": "Middle English, from Old French, of Germanic origin; related to 'wile'.",
+            "example": "She used her guile to escape the trap.",
+            "image": ""
+        },
+        {
+            "word": "rebattu",
+            "translation": "hackneyed",
+            "definition": "(D&#39;une expression ou d&#39;une idée) qui a perdu de son importance à force d&#39;être surutilisée ; sans originalité et banale.",
+            "etymology": "Mid 18th century: from 'hackney' meaning 'used for hire'.",
+            "example": "His speech was full of hackneyed clichés.",
+            "image": ""
+        },
+        {
+            "word": "malchanceux",
+            "translation": "hapless",
+            "definition": "(Surtout d&#39;une personne) malheureuse.",
+            "etymology": "Late Middle English, from Old Norse 'hap' meaning 'good fortune'.",
+            "example": "The hapless travellers were stranded at the airport for hours.",
+            "image": ""
+        },
+        {
+            "word": "harangue",
+            "translation": "harangue",
+            "definition": "Un discours long et agressif.",
+            "etymology": "Late Middle English, from Old French 'harangue', of Germanic origin.",
+            "example": "The politician's harangue was aimed at stirring up emotions.",
+            "image": ""
+        },
+        {
+            "word": "hégémonie",
+            "translation": "hegemony",
+            "definition": "Leadership ou domination, notamment d&#39;un pays ou d&#39;un groupe social sur les autres.",
+            "etymology": "Mid 16th century, from Greek 'hēgemonia', from 'hēgemōn' meaning 'leader'.",
+            "example": "The country's economic hegemony allowed it to exert influence over its neighbours.",
+            "image": ""
+        },
+        {
+            "word": "odieux",
+            "translation": "heinous",
+            "definition": "(D&#39;une personne ou d&#39;un acte répréhensible, en particulier un crime) absolument odieux ou méchant.",
+            "etymology": "Late Middle English, from Old French 'haineus', from 'haine' meaning 'hatred'.",
+            "example": "The heinous crime shocked the entire nation.",
+            "image": ""
+        },
+        {
+            "word": "hétérogène",
+            "translation": "heterogeneous",
+            "definition": "Diversifiés par leur caractère ou leur contenu.",
+            "etymology": "Early 17th century, from medieval Latin 'heterogeneus', from Greek 'heterogenēs', from 'heteros' meaning 'other' + 'genos' meaning 'a kind'.",
+            "example": "The heterogeneous group included people from all walks of life.",
+            "image": ""
+        },
+        {
+            "word": "hiatus",
+            "translation": "hiatus",
+            "definition": "Une pause ou un intervalle dans une séquence, une série ou un processus.",
+            "etymology": "Mid 16th century, from Latin, literally 'gaping'.",
+            "example": "The band took a year-long hiatus after their tour.",
+            "image": ""
+        },
+        {
+            "word": "théâtral",
+            "translation": "histrionic",
+            "definition": "De caractère ou de style excessivement théâtral ou mélodramatique.",
+            "etymology": "Mid 17th century, from late Latin 'histrionicus', from Latin 'histrio' meaning 'actor'.",
+            "example": "Her histrionic outburst made everyone uncomfortable.",
+            "image": ""
+        },
+        {
+            "word": "iconoclaste",
+            "translation": "iconoclast",
+            "definition": "Une personne qui attaque ou critique des croyances ou des institutions chères à son cœur.",
+            "etymology": "Mid 17th century (sense 2): via medieval Latin from ecclesiastical Greek 'eikonoklastēs', from 'eikōn' meaning 'likeness' + 'klan' meaning 'to break'.",
+            "example": "The iconoclast challenged the traditional views of the church.",
+            "image": ""
+        },
+        {
+            "word": "particulier",
+            "translation": "idiosyncratic",
+            "definition": "Relatif à l&#39;idiosyncrasie ; particulier ou individuel.",
+            "etymology": "Early 17th century, from Greek 'idiosunkratia', from 'idios' meaning 'own, private' + 'sun-' meaning 'with' + 'krasis' meaning 'mixture'.",
+            "example": "His idiosyncratic behaviour made him stand out from the crowd.",
+            "image": ""
+        },
+        {
+            "word": "ignominieux",
+            "translation": "ignominious",
+            "definition": "Qui mérite ou cause le déshonneur ou la honte publique.",
+            "etymology": "Late Middle English, from French 'ignominieux', or from Latin 'ignominiosus', from 'ignominia'.",
+            "example": "The ignominious defeat was a blow to the team's morale.",
+            "image": ""
+        },
+        {
+            "word": "illicite",
+            "translation": "illicit",
+            "definition": "Interdit par la loi, les règles ou la coutume.",
+            "etymology": "Mid 16th century, from French 'illicite', from Latin 'illicitus', from 'in-' meaning 'not' + 'licitus' meaning 'lawful'.",
+            "example": "The police cracked down on the illicit trade in endangered species.",
+            "image": ""
+        },
+        {
+            "word": "impécunieux",
+            "translation": "impecunious",
+            "definition": "Avoir peu ou pas d&#39;argent.",
+            "etymology": "Late 16th century, from 'im-' meaning 'not' + 'pecunious', from Latin 'pecuniosus' meaning 'wealthy'.",
+            "example": "The impecunious student struggled to pay rent.",
+            "image": ""
+        },
+        {
+            "word": "impératif",
+            "translation": "imperative",
+            "definition": "D&#39;une importance vitale ; crucial.",
+            "etymology": "Mid 16th century, from late Latin 'imperativus', from Latin 'imperare' meaning 'to command'.",
+            "example": "It is imperative that you submit your application by the deadline.",
+            "image": ""
+        },
+        {
+            "word": "impérieux",
+            "translation": "imperious",
+            "definition": "S&#39;arroger le pouvoir ou l&#39;autorité sans justification ; arrogant et dominateur.",
+            "etymology": "Mid 16th century, from Latin 'imperiosus', from 'imperium' meaning 'command, authority, empire'.",
+            "example": "Her imperious tone made everyone feel uncomfortable.",
+            "image": ""
+        },
+        {
+            "word": "impétueux",
+            "translation": "impetuous",
+            "definition": "Agir ou faire rapidement, sans réfléchir ni prendre soin.",
+            "etymology": "Late Middle English, from Old French 'impetueux', from late Latin 'impetuosus', from 'impetus'.",
+            "example": "His impetuous decision to quit his job surprised everyone.",
+            "image": ""
+        },
+        {
+            "word": "empiéter",
+            "translation": "impinge",
+            "definition": "Avoir un effet ou un impact, surtout négatif.",
+            "etymology": "Mid 16th century, from Latin 'impingere', from 'in-' meaning 'into' + 'pangere' meaning 'fix, drive'.",
+            "example": "The new regulations impinged on the company's ability to operate freely.",
+            "image": ""
+        },
+        {
+            "word": "implacable",
+            "translation": "implacable",
+            "definition": "Impossible à apaiser ou à calmer.",
+            "etymology": "Late Middle English, from Latin 'implacabilis', from 'in-' meaning 'not' + 'placabilis'.",
+            "example": "His implacable hatred for his rival was well known.",
+            "image": ""
+        },
+        {
+            "word": "importuner",
+            "translation": "importune",
+            "definition": "Demander (à quelqu&#39;un) avec insistance et persistance de faire quelque chose.",
+            "etymology": "Mid 16th century, from Latin 'importunus', from 'in-' meaning 'not' + 'portunus' meaning 'fitting, opportune'.",
+            "example": "The salesman importuned me to buy the product even after I said no.",
+            "image": ""
+        },
+        {
+            "word": "imputer",
+            "translation": "impute",
+            "definition": "Représenter (quelque chose, en particulier quelque chose d&#39;indésirable) comme étant fait, causé ou possédé par quelqu&#39;un ; attribuer.",
+            "etymology": "Late Middle English, from Old French 'imputer', from Latin 'imputare', from 'in-' meaning 'in, towards' + 'putare' meaning 'to settle (an account)'.",
+            "example": "The crimes were imputed to the young man, though he was innocent.",
+            "image": ""
+        },
+        {
+            "word": "inepte",
+            "translation": "inane",
+            "definition": "Bête ; stupide.",
+            "etymology": "Mid 16th century, from Latin 'inanis' meaning 'empty, vain'.",
+            "example": "Her inane comments during the meeting irritated everyone.",
+            "image": ""
+        },
+        {
+            "word": "fruste",
+            "translation": "inchoate",
+            "definition": "À peine commencé, donc pas encore complètement formé ni développé ; rudimentaire.",
+            "etymology": "Mid 16th century, from Latin 'inchoatus', past participle of 'inchoare' meaning 'to begin'.",
+            "example": "His inchoate ideas lacked focus and clarity.",
+            "image": ""
+        },
+        {
+            "word": "incisif",
+            "translation": "incisive",
+            "definition": "(D&#39;une personne ou d&#39;un processus mental) doté d&#39;une intelligence analytique et d&#39;une clarté d&#39;esprit remarquables.",
+            "etymology": "Late Middle English, from late Latin 'incisivus', from Latin 'incis-', from 'incidere' meaning 'to cut into'.",
+            "example": "Her incisive remarks cut through the confusion and got to the heart of the issue.",
+            "image": ""
+        },
+        {
+            "word": "incorrigible",
+            "translation": "incorrigible",
+            "definition": "(D&#39;une personne ou de ses tendances) qui ne peuvent être corrigées, améliorées ou réformées.",
+            "etymology": "Late Middle English, from Old French, from Latin 'incorrigibilis', from 'in-' meaning 'not' + 'corrigere' meaning 'to correct'.",
+            "example": "His incorrigible habit of arriving late caused frustration at work.",
+            "image": ""
+        },
+        {
+            "word": "infatigable",
+            "translation": "indefatigable",
+            "definition": "(D&#39;une personne ou de ses efforts) qui persistent sans relâche.",
+            "etymology": "Early 17th century, from Latin 'indefatigabilis', from 'in-' meaning 'not' + 'defatigare' meaning 'wear out'.",
+            "example": "The indefatigable worker never took a day off.",
+            "image": ""
+        },
+        {
+            "word": "indolent",
+            "translation": "indolent",
+            "definition": "Qui souhaite éviter toute activité ou tout effort ; paresseux.",
+            "etymology": "Mid 17th century, from late Latin 'indolent-', from in-' meaning 'not' + 'dolere' meaning 'to suffer or give pain'.",
+            "example": "The indolent man spent his days lying on the couch.",
+            "image": ""
+        },
+        {
+            "word": "indomptable",
+            "translation": "indomitable",
+            "definition": "Impossible à soumettre ou à vaincre.",
+            "etymology": "Late Middle English, from Latin 'indomitabilis', from 'in-' meaning 'not' + 'domitare' meaning 'to tame'.",
+            "example": "Her indomitable spirit kept her going even in the face of adversity.",
+            "image": ""
+        },
+        {
+            "word": "ineffable",
+            "translation": "ineffable",
+            "definition": "Trop grand ou trop extrême pour être exprimé ou décrit par des mots.",
+            "etymology": "Late Middle English, from Old French 'ineffable', from Latin 'ineffabilis', from 'in-' meaning 'not' + 'effabilis' meaning 'able to be expressed'.",
+            "example": "The beauty of the sunset was ineffable.",
+            "image": ""
+        },
+        {
+            "word": "inepte",
+            "translation": "inept",
+            "definition": "Qui manque d&#39;habileté ou qui n&#39;en fait preuve pas ; maladroit.",
+            "etymology": "Early 17th century, from Latin 'ineptus', from 'in-' meaning 'not' + 'aptus' meaning 'fitted'.",
+            "example": "His inept handling of the situation made things worse.",
+            "image": ""
+        },
+        {
+            "word": "inexorable",
+            "translation": "inexorable",
+            "definition": "Impossible à arrêter ou à empêcher.",
+            "etymology": "Mid 16th century, from French 'inexorable', from Latin 'inexorabilis', from 'in-' meaning 'not' + 'exorabilis' meaning 'to be moved by entreaty'.",
+            "example": "The inexorable march of time affects us all.",
+            "image": ""
+        },
+        {
+            "word": "ingénu",
+            "translation": "ingenuous",
+            "definition": "(D&#39;une personne ou d&#39;une action) innocent et sans méfiance.",
+            "etymology": "Late 16th century, from Latin 'ingenuus' meaning 'of noble birth', from 'in-' meaning 'in' + 'gignere' meaning 'to beget'.",
+            "example": "Her ingenuous nature made her easy to trust.",
+            "image": ""
+        },
+        {
+            "word": "hostile",
+            "translation": "inimical",
+            "definition": "Qui tend à obstruer ou à nuire.",
+            "etymology": "Late Middle English, from late Latin 'inimicalis', from Latin 'inimicus'.",
+            "example": "The inimical weather conditions made it difficult to continue the journey.",
+            "image": ""
+        },
+        {
+            "word": "inné",
+            "translation": "innate",
+            "definition": "Inné ; naturel.",
+            "etymology": "Late Middle English, from Latin 'innatus', from 'in-' meaning 'into' + 'nasci' meaning 'to be born'.",
+            "example": "Her innate sense of justice guided her actions.",
+            "image": ""
+        },
+        {
+            "word": "inoffensif",
+            "translation": "innocuous",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "insatiable",
+            "translation": "insatiable",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "impénétrable",
+            "translation": "inscrutable",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "insidieux",
+            "translation": "insidious",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "insipide",
+            "translation": "insipid",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "insolent",
+            "translation": "insolent",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "insulaire",
+            "translation": "insular",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "intransigeant",
+            "translation": "intransigent",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "intrépide",
+            "translation": "intrepid",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "inonder",
+            "translation": "inundate",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "invective",
+            "translation": "invective",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "invétéré",
+            "translation": "inveterate",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "inviolable",
+            "translation": "inviolable",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "irascible",
+            "translation": "irascible",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "irrévérencieux",
+            "translation": "irreverent",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "itinérant",
+            "translation": "itinerant",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "juxtaposer",
+            "translation": "juxtapose",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "laconique",
+            "translation": "laconic",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "largesse",
+            "translation": "largesse",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "latent",
+            "translation": "latent",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "élogieux",
+            "translation": "laudatory",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "prestidigitation",
+            "translation": "legerdemain",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "indulgent",
+            "translation": "lenient",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "léthargie",
+            "translation": "lethargy",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "licencieux",
+            "translation": "licentious",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "limpide",
+            "translation": "limpid",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "pivot",
+            "translation": "linchpin",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "litanie",
+            "translation": "litany",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "loquace",
+            "translation": "loquacious",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "lucide",
+            "translation": "lucid",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "lumineux",
+            "translation": "luminous",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "magnanime",
+            "translation": "magnanimous",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "malédiction",
+            "translation": "malediction",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "malveillant",
+            "translation": "malevolent",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "simuler la maladie",
+            "translation": "malinger",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "malléable",
+            "translation": "malleable",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "collecteur",
+            "translation": "manifold",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "larmoyant",
+            "translation": "maudlin",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "anticonformiste",
+            "translation": "maverick",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "fade",
+            "translation": "mawkish",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "mélodieux",
+            "translation": "mellifluous",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "mensonger",
+            "translation": "mendacious",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "mercuriel",
+            "translation": "mercurial",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "méritoire",
+            "translation": "meritorious",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "méticuleux",
+            "translation": "meticulous",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "minimum",
+            "translation": "modicum",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "marécage",
+            "translation": "morass",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "mœurs",
+            "translation": "mores",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "divers",
+            "translation": "multifarious",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "munificent",
+            "translation": "munificent",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "myriade",
+            "translation": "myriad",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        },
+        {
+            "word": "nadir",
+            "translation": "nadir",
+            "definition": "",
+            "etymology": "",
+            "example": "",
+            "image": ""
+        }
+    ]
+}
