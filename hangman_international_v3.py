@@ -99,6 +99,22 @@ def get_alphabet(language_id: int) -> set:
     return set(json.loads(row["alphabet"]))
 
 
+def points_multiplier(word_elo: int) -> float:
+    """Return score multiplier based on word difficulty (every 200 ELO = +0.5x)."""
+    if word_elo >= 3000: return 6.0
+    if word_elo >= 2800: return 5.5
+    if word_elo >= 2600: return 5.0
+    if word_elo >= 2400: return 4.5
+    if word_elo >= 2200: return 4.0
+    if word_elo >= 2000: return 3.5
+    if word_elo >= 1800: return 3.0
+    if word_elo >= 1600: return 2.5
+    if word_elo >= 1400: return 2.0
+    if word_elo >= 1200: return 1.5
+    if word_elo >= 1000: return 1.0
+    return 0.5
+
+
 def get_word_elo(language_id: int, word: str) -> int:
     """Return word ELO from Main.db, defaulting to 1000 if not seen before."""
     con = main_db()
@@ -282,22 +298,25 @@ def main():
 
     while True:
         points, won, word, wrong_guesses = hangman_game(words, lang_name, alphabet)
-        total_points += points
 
         if won:
             session_streak += 1
         else:
             losses += 1
 
-        word_elo  = get_word_elo(lang_id, word)
+        word_elo   = get_word_elo(lang_id, word)
+        multiplier = points_multiplier(word_elo)
+        final_pts  = int(points * multiplier)
+        total_points += final_pts
+
         elo_delta = difr(stats.elo, word_elo, 1.0 if won else 0.0, K_FACTOR)
 
         update_stats(user, db_session, lang_id, score=total_points, streak=session_streak, elo_delta=elo_delta)
-        record_game(user.id, lang_id, dictionary["id"], word, wrong_guesses, points,
+        record_game(user.id, lang_id, dictionary["id"], word, wrong_guesses, final_pts,
                     revealed=not won, user_elo=stats.elo, current_word_elo=word_elo)
 
         stats = get_or_create_language_stats(user, db_session, lang_id)
-        print(f"\nTotal points: {total_points}  |  ELO: {stats.elo} ({'+' if elo_delta >= 0 else ''}{round(elo_delta)})")
+        print(f"\n  Points: {points} × {multiplier} = {final_pts}  |  Total: {total_points}  |  ELO: {stats.elo} ({'+' if elo_delta >= 0 else ''}{round(elo_delta)})")
 
         if losses >= MAX_LOSSES:
             print(f"\nGame over — {MAX_LOSSES} words not guessed. Final score: {total_points}  |  Streak: {session_streak}")
