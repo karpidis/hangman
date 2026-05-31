@@ -3,18 +3,17 @@ from pathlib import Path
 from datetime import datetime
 import getpass
 
-# chess_passgen lives at the project root (hangman/)
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 
 from pass_generator import main as generate_and_copy_password
 from werkzeug.security import generate_password_hash, check_password_hash
-from .models import Session, User
+from .models import Session, User, UserLanguageStats
 
 
 def login_or_register():
     """Prompt for username; register new users or authenticate existing ones.
     Returns (user, session)."""
-    print("\n=== Hangman v2 ===")
+    print("\n=== Hangman ===")
     while True:
         username = input("Enter your username: ").strip().lower()
         if not username:
@@ -36,14 +35,27 @@ def login_or_register():
     return user, session
 
 
-def update_stats(user, session, won: bool, score: int, elo_delta: float = 0.0):
-    """Update plays, wins, high_score, and elo after a round."""
-    user.plays += 1
+def get_or_create_language_stats(user, session, language_id: int) -> UserLanguageStats:
+    """Return the user's stats for a language, creating the row if it's the first time."""
+    stats = session.query(UserLanguageStats).filter_by(
+        user_id=user.id, language_id=language_id
+    ).first()
+    if not stats:
+        stats = UserLanguageStats(user_id=user.id, language_id=language_id)
+        session.add(stats)
+        session.commit()
+    return stats
+
+
+def update_stats(user, session, language_id: int, won: bool, score: int, elo_delta: float = 0.0):
+    """Update per-language stats after a round."""
+    stats = get_or_create_language_stats(user, session, language_id)
+    stats.plays += 1
     if won:
-        user.wins += 1
-    if score > user.high_score:
-        user.high_score = score
-    user.elo = max(0, round(user.elo + elo_delta))
+        stats.wins += 1
+    if score > stats.high_score:
+        stats.high_score = score
+    stats.elo = max(0, round(stats.elo + elo_delta))
     session.commit()
 
 
@@ -58,10 +70,6 @@ def _register(username, session):
         username=username,
         email=email,
         password=generate_password_hash(password),
-        plays=0,
-        wins=0,
-        high_score=0,
-        elo=1000,
         date_joined=datetime.utcnow(),
     )
     session.add(new_user)
@@ -74,7 +82,13 @@ def _login(user, session):
         password = getpass.getpass("Password: ")
         if check_password_hash(user.password, password):
             print(f"\nWelcome back, {user.username}!")
-            print(f"Wins: {user.wins}  |  High Score: {user.high_score}  |  ELO: {user.elo}\n")
+            # Show stats across all languages the user has played
+            all_stats = session.query(UserLanguageStats).filter_by(user_id=user.id).all()
+            if all_stats:
+                total_plays = sum(s.plays for s in all_stats)
+                total_wins  = sum(s.wins for s in all_stats)
+                print(f"Total plays: {total_plays}  |  Total wins: {total_wins}")
+            print()
             return
         remaining = 2 - attempt
         if remaining > 0:

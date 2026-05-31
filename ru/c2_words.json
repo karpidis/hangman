@@ -234,7 +234,7 @@
             "image": ""
         },
         {
-            "word": "таинственный",
+            "word": "тайный",
             "translation": "arcane",
             "definition": "Понятен немногим; таинственный или секретный.",
             "etymology": "Mid 16th century, from Latin 'arcanus' meaning secret, from 'arca' chest.",
@@ -508,7 +508,7 @@
         {
             "word": "наказывать",
             "translation": "castigate",
-            "definition": "Сурово отругать (кого-либо).",
+            "definition": "Сурово наказать (кого-либо).",
             "etymology": "Early 17th century, from Latin 'castigat-', from the verb 'castigare', from 'castus' pure, chaste.",
             "example": "The teacher castigated the students for their poor performance.",
             "image": ""
@@ -1132,7 +1132,7 @@
         {
             "word": "ослабить",
             "translation": "enervate",
-            "definition": "Вызвать у кого-либо чувство истощения или упадка сил; ослабить.",
+            "definition": "Вызвать у кого-либо чувство истощения или недостатка энергии; ослабить.",
             "etymology": "Early 17th century, from Latin 'enervat-', from the verb 'enervare', from 'e-' meaning 'out of' + 'nervus' meaning 'sinew'.",
             "example": "The heat enervated the workers, making it hard to continue.",
             "image": ""
@@ -1650,7 +1650,7 @@
             "image": ""
         },
         {
-            "word": "истеричный",
+            "word": "истерический",
             "translation": "histrionic",
             "definition": "Чрезмерно театральный или мелодраматичный по характеру или стилю.",
             "etymology": "Mid 17th century, from late Latin 'histrionicus', from Latin 'histrio' meaning 'actor'.",

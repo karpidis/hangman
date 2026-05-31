@@ -26,24 +26,8 @@
             "image": ""
         },
         {
-            "word": "o",
-            "translation": "about",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
             "word": "powyżej",
             "translation": "above",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "za granicą",
-            "translation": "abroad",
             "definition": "",
             "etymology": "",
             "example": "",
@@ -76,14 +60,6 @@
         {
             "word": "przyjąć",
             "translation": "accept",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "do przyjęcia",
-            "translation": "acceptable",
             "definition": "",
             "etymology": "",
             "example": "",
@@ -322,16 +298,8 @@
             "image": ""
         },
         {
-            "word": "przyznawać ",
+            "word": "przyznawać",
             "translation": "admit",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "przyjąć",
-            "translation": "adopt",
             "definition": "",
             "etymology": "",
             "example": "",
@@ -340,14 +308,6 @@
         {
             "word": "dorosły",
             "translation": "adult",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "osiągnięcie",
-            "translation": "advance",
             "definition": "",
             "etymology": "",
             "example": "",
@@ -388,14 +348,6 @@
         {
             "word": "reklama",
             "translation": "advertisement",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "reklama",
-            "translation": "advertising",
             "definition": "",
             "etymology": "",
             "example": "",
@@ -450,14 +402,6 @@
             "image": ""
         },
         {
-            "word": "Po",
-            "translation": "after",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
             "word": "popołudnie",
             "translation": "afternoon",
             "definition": "",
@@ -498,24 +442,8 @@
             "image": ""
         },
         {
-            "word": "w wieku",
-            "translation": "aged",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
             "word": "agencja",
             "translation": "agency",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "porządek obrad",
-            "translation": "agenda",
             "definition": "",
             "etymology": "",
             "example": "",
@@ -540,14 +468,6 @@
         {
             "word": "temu",
             "translation": "ago",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "zgadzać się",
-            "translation": "agree",
             "definition": "",
             "etymology": "",
             "example": "",
@@ -610,14 +530,6 @@
             "image": ""
         },
         {
-            "word": "linia lotnicza",
-            "translation": "airline",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
             "word": "lotnisko",
             "translation": "airport",
             "definition": "",
@@ -674,14 +586,6 @@
             "image": ""
         },
         {
-            "word": "W porządku",
-            "translation": "all right",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
             "word": "umożliwić",
             "translation": "allow",
             "definition": "",
@@ -700,14 +604,6 @@
         {
             "word": "sam",
             "translation": "alone",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "przed siebie",
-            "translation": "along",
             "definition": "",
             "etymology": "",
             "example": "",
@@ -834,14 +730,6 @@
             "image": ""
         },
         {
-            "word": "I",
-            "translation": "and",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
             "word": "gniew",
             "translation": "anger",
             "definition": "",
@@ -900,14 +788,6 @@
         {
             "word": "ogłaszać",
             "translation": "announce",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "ogłoszenie",
-            "translation": "announcement",
             "definition": "",
             "etymology": "",
             "example": "",
@@ -978,14 +858,6 @@
             "image": ""
         },
         {
-            "word": "nie więcej",
-            "translation": "any more",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
             "word": "ktoś",
             "translation": "anybody",
             "definition": "",
@@ -996,22 +868,6 @@
         {
             "word": "ktokolwiek",
             "translation": "anyone",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "wszystko",
-            "translation": "anything",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "W każdym razie",
-            "translation": "anyway",
             "definition": "",
             "etymology": "",
             "example": "",
@@ -1082,14 +938,6 @@
             "image": ""
         },
         {
-            "word": "pojawić się",
-            "translation": "appear",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
             "word": "wygląd",
             "translation": "appearance",
             "definition": "",
@@ -1100,14 +948,6 @@
         {
             "word": "jabłko",
             "translation": "apple",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "aplikacja",
-            "translation": "application",
             "definition": "",
             "etymology": "",
             "example": "",
@@ -1132,14 +972,6 @@
         {
             "word": "doceniać",
             "translation": "appreciate",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "zbliżać się",
-            "translation": "approach",
             "definition": "",
             "etymology": "",
             "example": "",
@@ -1204,14 +1036,6 @@
         {
             "word": "obszar",
             "translation": "area",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "kłócić się ",
-            "translation": "argue",
             "definition": "",
             "etymology": "",
             "example": "",
@@ -1378,14 +1202,6 @@
             "image": ""
         },
         {
-            "word": "we śnie",
-            "translation": "asleep",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
             "word": "aspekt",
             "translation": "aspect",
             "definition": "",
@@ -1466,14 +1282,6 @@
             "image": ""
         },
         {
-            "word": "Na",
-            "translation": "at",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
             "word": "sportowiec",
             "translation": "athlete",
             "definition": "",
@@ -1508,14 +1316,6 @@
         {
             "word": "próba",
             "translation": "attempt",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "brać udział",
-            "translation": "attend",
             "definition": "",
             "etymology": "",
             "example": "",
@@ -1650,14 +1450,6 @@
             "image": ""
         },
         {
-            "word": "z dala",
-            "translation": "away",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
             "word": "okropny",
             "translation": "awful",
             "definition": "",
@@ -1668,14 +1460,6 @@
         {
             "word": "Dziecko",
             "translation": "baby",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "z powrotem",
-            "translation": "back",
             "definition": "",
             "etymology": "",
             "example": "",
@@ -1700,14 +1484,6 @@
         {
             "word": "bakteria",
             "translation": "bacteria",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "zły",
-            "translation": "bad",
             "definition": "",
             "etymology": "",
             "example": "",
@@ -1812,14 +1588,6 @@
         {
             "word": "baseball",
             "translation": "baseball",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "na podstawie",
-            "translation": "based",
             "definition": "",
             "etymology": "",
             "example": "",
@@ -1954,14 +1722,6 @@
             "image": ""
         },
         {
-            "word": "stać się",
-            "translation": "become",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
             "word": "łóżko",
             "translation": "bed",
             "definition": "",
@@ -2034,24 +1794,8 @@
             "image": ""
         },
         {
-            "word": "zachowywać się",
-            "translation": "behave",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
             "word": "zachowanie",
             "translation": "behaviour",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "za",
-            "translation": "behind",
             "definition": "",
             "etymology": "",
             "example": "",
@@ -2114,32 +1858,8 @@
             "image": ""
         },
         {
-            "word": "schylać się",
-            "translation": "bend",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "korzyść",
-            "translation": "benefit",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
             "word": "zgięty",
             "translation": "bent",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "to, co najlepsze",
-            "translation": "best",
             "definition": "",
             "etymology": "",
             "example": "",
@@ -2188,14 +1908,6 @@
         {
             "word": "duży",
             "translation": "big",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "rower",
-            "translation": "bike",
             "definition": "",
             "etymology": "",
             "example": "",
@@ -2466,14 +2178,6 @@
             "image": ""
         },
         {
-            "word": "urodzić się",
-            "translation": "born",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
             "word": "pożyczyć",
             "translation": "borrow",
             "definition": "",
@@ -2492,14 +2196,6 @@
         {
             "word": "Zarówno",
             "translation": "both",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "silić się",
-            "translation": "bother",
             "definition": "",
             "etymology": "",
             "example": "",
@@ -2636,14 +2332,6 @@
         {
             "word": "oddechowy",
             "translation": "breathing",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "panna młoda",
-            "translation": "bride",
             "definition": "",
             "etymology": "",
             "example": "",
@@ -2868,22 +2556,6 @@
         {
             "word": "kupić",
             "translation": "buy",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "przez",
-            "translation": "by",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "do widzenia",
-            "translation": "bye",
             "definition": "",
             "etymology": "",
             "example": "",

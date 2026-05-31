@@ -3,9 +3,8 @@ import json
 import os
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-# New central database directory
-DB_ROOT = os.path.join(BASE_DIR, "db")
-MAIN_DB = os.path.join(DB_ROOT, "Main.db")
+DB_ROOT   = os.path.join(BASE_DIR, "db")
+MAIN_DB   = os.path.join(BASE_DIR, "Main.db")   # root-level central database
 
 # Set to True to only import files with "basic" in the filename
 BASIC_ONLY = True
@@ -24,19 +23,25 @@ LANGUAGES = [
     ("Polish",     "pl", {'a','ą','b','c','ć','d','e','ę','f','g','h','i','j','k','l','ł','m','n','ń','o','p','q','r','s','ś','t','u','v','w','x','y','z','ź','ż'}),
 ]
 
+
 def create_main_db():
-    # Ensure the db/ directory exists
+    """Create or update Main.db with the full schema."""
     os.makedirs(DB_ROOT, exist_ok=True)
-    
+
     con = sqlite3.connect(MAIN_DB)
     cur = con.cursor()
     cur.executescript("""
+        PRAGMA foreign_keys = ON;
+
+        -- Language registry with alphabet
         CREATE TABLE IF NOT EXISTS languages (
-            id      INTEGER PRIMARY KEY AUTOINCREMENT,
-            name    TEXT NOT NULL UNIQUE,
-            code    TEXT NOT NULL UNIQUE,
+            id       INTEGER PRIMARY KEY AUTOINCREMENT,
+            name     TEXT NOT NULL UNIQUE,
+            code     TEXT NOT NULL UNIQUE,
             alphabet TEXT
         );
+
+        -- Dictionary file registry; UNIQUE prevents duplicates on re-runs
         CREATE TABLE IF NOT EXISTS dictionaries (
             id              INTEGER PRIMARY KEY AUTOINCREMENT,
             language_id     INTEGER NOT NULL,
@@ -44,30 +49,45 @@ def create_main_db():
             level           TEXT,
             source          TEXT,
             created_by      TEXT,
-            FOREIGN KEY (language_id) REFERENCES languages(id)
+            FOREIGN KEY (language_id) REFERENCES languages(id),
+            UNIQUE (language_id, source)
+        );
+
+        -- Universal word difficulty: shared across all dictionaries for the same language
+        CREATE TABLE IF NOT EXISTS word_elo (
+            id         INTEGER PRIMARY KEY AUTOINCREMENT,
+            word       TEXT NOT NULL,
+            language_id INTEGER NOT NULL,
+            elo        INTEGER NOT NULL DEFAULT 1000,
+            attempts   INTEGER NOT NULL DEFAULT 0,
+            reveals    INTEGER NOT NULL DEFAULT 0,
+            FOREIGN KEY (language_id) REFERENCES languages(id),
+            UNIQUE (word, language_id)
         );
     """)
+
+    # Populate languages (safe to re-run)
     for name, code, alphabet in LANGUAGES:
         alphabet_json = json.dumps(sorted(alphabet), ensure_ascii=False)
         cur.execute(
             "INSERT OR IGNORE INTO languages (name, code, alphabet) VALUES (?, ?, ?)",
             (name, code, alphabet_json)
         )
+
     con.commit()
     con.close()
-    print(f"Main registry: {MAIN_DB}")
+    print(f"Main DB ready: {MAIN_DB}")
+
 
 def process_language(lang_name, lang_code):
-    """Handles directory creation, DB setup, and data import for a language."""
-    # Source folder where JSONs are (at script root)
-    source_dir = os.path.join(BASE_DIR, lang_code)
-    # Destination folder for the DB (inside db/)
-    dest_db_dir = os.path.join(DB_ROOT, lang_code)
-    
+    """Create dictionary.db for a language and register its dictionaries in Main.db."""
+    source_dir  = os.path.join(BASE_DIR, lang_code)         # JSON source: en/, fr/, etc.
+    dest_db_dir = os.path.join(DB_ROOT, lang_code)          # Output: db/en/, db/fr/, etc.
+
     os.makedirs(dest_db_dir, exist_ok=True)
     lang_db_path = os.path.join(dest_db_dir, f"{lang_name}.db")
 
-    # 1. Initialize the local language DB
+    # Words table in dictionary.db — no ELO here, ELO lives in Main.db/word_elo
     lang_con = sqlite3.connect(lang_db_path)
     lang_cur = lang_con.cursor()
     lang_cur.execute("""
@@ -75,73 +95,84 @@ def process_language(lang_name, lang_code):
             id            INTEGER PRIMARY KEY AUTOINCREMENT,
             dictionary_id INTEGER NOT NULL,
             word          TEXT NOT NULL,
+            translation   TEXT,
             definition    TEXT,
             etymology     TEXT,
             example       TEXT,
-            image         TEXT,
-            translation   TEXT,
-            elo           INTEGER DEFAULT 1000
+            image         TEXT
         );
     """)
 
-    # 2. Get Lang ID from Main DB
     main_con = sqlite3.connect(MAIN_DB)
     main_cur = main_con.cursor()
+
     main_cur.execute("SELECT id FROM languages WHERE code = ?", (lang_code,))
     lang_id = main_cur.fetchone()[0]
 
-    # 3. Look for JSON files in the source directory (root/en, root/fr, etc.)
-    if os.path.exists(source_dir):
-        for filename in sorted(os.listdir(source_dir)):
-            if not filename.endswith(".json"):
-                continue
-            if BASIC_ONLY and "basic" not in filename:
-                continue
+    if not os.path.exists(source_dir):
+        print(f"  No source folder for {lang_name}, skipping.")
+        lang_con.close()
+        main_con.close()
+        return
 
-            filepath = os.path.join(source_dir, filename)
-            with open(filepath, encoding="utf-8") as f:
-                data = json.load(f)
+    for filename in sorted(os.listdir(source_dir)):
+        if not filename.endswith(".json"):
+            continue
+        if BASIC_ONLY and "basic" not in filename.lower():
+            continue
 
-            dict_name = data.get("dictionary_name", filename)
-            default_elo = data.get("default_elo", 1000)
+        filepath = os.path.join(source_dir, filename)
+        with open(filepath, encoding="utf-8") as f:
+            data = json.load(f)
 
-            # Register in Main.db
-            main_cur.execute(
-                "INSERT INTO dictionaries (language_id, dictionary_name, source) VALUES (?, ?, ?)",
-                (lang_id, dict_name, filename)
+        dict_name = data.get("dictionary_name", filename)
+
+        # INSERT OR IGNORE prevents duplicates when script is re-run
+        main_cur.execute(
+            "INSERT OR IGNORE INTO dictionaries (language_id, dictionary_name, source) VALUES (?, ?, ?)",
+            (lang_id, dict_name, filename)
+        )
+        main_cur.execute(
+            "SELECT id FROM dictionaries WHERE language_id = ? AND source = ?",
+            (lang_id, filename)
+        )
+        dict_id = main_cur.fetchone()[0]
+
+        # Only insert words if this dictionary has no words yet
+        lang_cur.execute("SELECT COUNT(*) FROM words WHERE dictionary_id = ?", (dict_id,))
+        if lang_cur.fetchone()[0] > 0:
+            print(f"  Skipped (already imported): {filename}")
+            continue
+
+        rows = [
+            (
+                dict_id,
+                entry.get("word", "").strip(),
+                entry.get("translation"),
+                entry.get("definition"),
+                entry.get("etymology"),
+                entry.get("example"),
+                entry.get("image"),
             )
-            dict_id = main_cur.lastrowid
+            for entry in data.get("words", [])
+            if entry.get("word", "").strip()
+        ]
 
-            # Insert words into the language DB inside db/
-            rows = []
-            for entry in data.get("words", []):
-                rows.append((
-                    dict_id,
-                    entry.get("word", "").strip(),
-                    entry.get("definition"),
-                    entry.get("etymology"),
-                    entry.get("example"),
-                    entry.get("image"),
-                    entry.get("translation"),
-                    default_elo,
-                ))
-
-            lang_cur.executemany(
-                "INSERT INTO words (dictionary_id, word, definition, etymology, example, image, translation, elo) VALUES (?,?,?,?,?,?,?,?)",
-                rows
-            )
-            print(f"  Done: {filename} -> {lang_name}.db")
+        lang_cur.executemany(
+            "INSERT INTO words (dictionary_id, word, translation, definition, etymology, example, image) VALUES (?,?,?,?,?,?,?)",
+            rows
+        )
+        print(f"  Imported {len(rows)} words: {filename} -> {lang_name}.db")
 
     main_con.commit()
     lang_con.commit()
     main_con.close()
     lang_con.close()
 
+
 if __name__ == "__main__":
     create_main_db()
-    
     for name, code, _ in LANGUAGES:
-        print(f"Checking {name} ({code})...")
+        print(f"\n{name} ({code})")
         process_language(name, code)
-    
-    print("\nProcessing complete.")
+    print("\nDone.")

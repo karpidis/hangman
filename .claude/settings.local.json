@@ -6,7 +6,8 @@
       "Bash(python3 *)",
       "Bash(git *)",
       "Bash(gh api *)",
-      "WebFetch(domain:raw.githubusercontent.com)"
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(sqlite3 /mnt/SSD_1TB/shared_projects/hangman/Main.db ' *)"
     ]
   }
 }

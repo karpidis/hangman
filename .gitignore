@@ -17,8 +17,8 @@ __pycache__/
 *.pyo
 *.pyd
 
-# Local Databases (Keep schemas, ignore actual local DB state for security/collisions)
-*.db
+# Only ignore user data — content databases are tracked and shared
+users.db
 *.sqlite3
 venv/
 .env

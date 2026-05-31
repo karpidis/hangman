@@ -2,14 +2,6 @@
     "dictionary_name": "Basic Turkish Vocabulary",
     "words": [
         {
-            "word": "terk etmek",
-            "translation": "abandon",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
             "word": "yetenek",
             "translation": "ability",
             "definition": "",
@@ -42,14 +34,6 @@
             "image": ""
         },
         {
-            "word": "yurt dışı",
-            "translation": "abroad",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
             "word": "mutlak",
             "translation": "absolute",
             "definition": "",
@@ -74,22 +58,6 @@
             "image": ""
         },
         {
-            "word": "kabul etmek",
-            "translation": "accept",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "kabul edilebilir",
-            "translation": "acceptable",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
             "word": "erişim",
             "translation": "access",
             "definition": "",
@@ -108,22 +76,6 @@
         {
             "word": "konaklama",
             "translation": "accommodation",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "eşlik etmek",
-            "translation": "accompany",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "buna göre",
-            "translation": "according to",
             "definition": "",
             "etymology": "",
             "example": "",
@@ -172,14 +124,6 @@
         {
             "word": "kabullenmek",
             "translation": "acknowledge",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "elde etmek",
-            "translation": "acquire",
             "definition": "",
             "etymology": "",
             "example": "",
@@ -282,22 +226,6 @@
             "image": ""
         },
         {
-            "word": "ek",
-            "translation": "addition",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "ek olarak",
-            "translation": "additional",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
             "word": "adres",
             "translation": "address",
             "definition": "",
@@ -316,22 +244,6 @@
         {
             "word": "beğenmek",
             "translation": "admire",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "itiraf etmek",
-            "translation": "admit",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "evlat edinmek",
-            "translation": "adopt",
             "definition": "",
             "etymology": "",
             "example": "",
@@ -378,14 +290,6 @@
             "image": ""
         },
         {
-            "word": "reklam",
-            "translation": "advertise",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
             "word": "reklamcılık",
             "translation": "advertisement",
             "definition": "",
@@ -394,24 +298,8 @@
             "image": ""
         },
         {
-            "word": "reklam",
-            "translation": "advertising",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
             "word": "tavsiye",
             "translation": "advice",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "öğüt vermek",
-            "translation": "advise",
             "definition": "",
             "etymology": "",
             "example": "",
@@ -434,14 +322,6 @@
             "image": ""
         },
         {
-            "word": "parası yetmek",
-            "translation": "afford",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
             "word": "korkmuş",
             "translation": "afraid",
             "definition": "",
@@ -452,22 +332,6 @@
         {
             "word": "sonrasında",
             "translation": "after",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "öğleden sonra",
-            "translation": "afternoon",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "daha sonrasında",
-            "translation": "afterwards",
             "definition": "",
             "etymology": "",
             "example": "",
@@ -546,24 +410,8 @@
             "image": ""
         },
         {
-            "word": "kabul etmek",
-            "translation": "agree",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
             "word": "anlaşma",
             "translation": "agreement",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "Ah",
-            "translation": "ah",
             "definition": "",
             "etymology": "",
             "example": "",
@@ -682,14 +530,6 @@
             "image": ""
         },
         {
-            "word": "izin vermek",
-            "translation": "allow",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
             "word": "neredeyse",
             "translation": "almost",
             "definition": "",
@@ -754,14 +594,6 @@
             "image": ""
         },
         {
-            "word": "Her zaman",
-            "translation": "always",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
             "word": "şaşırdım",
             "translation": "amazed",
             "definition": "",
@@ -810,14 +642,6 @@
             "image": ""
         },
         {
-            "word": "analiz et",
-            "translation": "analyse",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
             "word": "analiz",
             "translation": "analysis",
             "definition": "",
@@ -828,14 +652,6 @@
         {
             "word": "antik",
             "translation": "ancient",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "Ve",
-            "translation": "and",
             "definition": "",
             "etymology": "",
             "example": "",
@@ -890,14 +706,6 @@
             "image": ""
         },
         {
-            "word": "yıl dönümü",
-            "translation": "anniversary",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
             "word": "duyurmak",
             "translation": "announce",
             "definition": "",
@@ -922,32 +730,8 @@
             "image": ""
         },
         {
-            "word": "sinirli",
-            "translation": "annoyed",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "sinir bozucu",
-            "translation": "annoying",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
             "word": "yıllık",
             "translation": "annual",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "bir diğer",
-            "translation": "another",
             "definition": "",
             "etymology": "",
             "example": "",
@@ -978,48 +762,8 @@
             "image": ""
         },
         {
-            "word": "artık değil",
-            "translation": "any more",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "herhangi biri",
-            "translation": "anybody",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "herhangi biri",
-            "translation": "anyone",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "herhangi bir şey",
-            "translation": "anything",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
             "word": "Neyse",
             "translation": "anyway",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "herhangi bir yer",
-            "translation": "anywhere",
             "definition": "",
             "etymology": "",
             "example": "",
@@ -1042,14 +786,6 @@
             "image": ""
         },
         {
-            "word": "özür dilemek",
-            "translation": "apologize",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
             "word": "uygulama",
             "translation": "app",
             "definition": "",
@@ -1066,32 +802,8 @@
             "image": ""
         },
         {
-            "word": "görünüşe göre",
-            "translation": "apparently",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
             "word": "çekici",
             "translation": "appeal",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "belli olmak",
-            "translation": "appear",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "dış görünüş",
-            "translation": "appearance",
             "definition": "",
             "etymology": "",
             "example": "",
@@ -1130,14 +842,6 @@
             "image": ""
         },
         {
-            "word": "takdirle karşılamak",
-            "translation": "appreciate",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
             "word": "yaklaşmak",
             "translation": "approach",
             "definition": "",
@@ -1164,14 +868,6 @@
         {
             "word": "onaylamak",
             "translation": "approve",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "yaklaşık olarak",
-            "translation": "approximately",
             "definition": "",
             "etymology": "",
             "example": "",
@@ -1378,30 +1074,6 @@
             "image": ""
         },
         {
-            "word": "uyuya kalmak",
-            "translation": "asleep",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "bakış açısı",
-            "translation": "aspect",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "değer biçmek",
-            "translation": "assess",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
             "word": "değerlendirme",
             "translation": "assessment",
             "definition": "",
@@ -1418,24 +1090,8 @@
             "image": ""
         },
         {
-            "word": "yardım",
-            "translation": "assist",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
             "word": "asistan",
             "translation": "assistant",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "iş arkadaşı",
-            "translation": "associate",
             "definition": "",
             "etymology": "",
             "example": "",
@@ -1458,22 +1114,6 @@
             "image": ""
         },
         {
-            "word": "farz etmek",
-            "translation": "assume",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "de",
-            "translation": "at",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
             "word": "sporcu",
             "translation": "athlete",
             "definition": "",
@@ -1484,14 +1124,6 @@
         {
             "word": "atmosfer",
             "translation": "atmosphere",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "eklemek",
-            "translation": "attach",
             "definition": "",
             "etymology": "",
             "example": "",
@@ -1548,14 +1180,6 @@
         {
             "word": "çekim",
             "translation": "attraction",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "çekici",
-            "translation": "attractive",
             "definition": "",
             "etymology": "",
             "example": "",
@@ -1642,14 +1266,6 @@
             "image": ""
         },
         {
-            "word": "farkında olmak",
-            "translation": "aware",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
             "word": "uzak",
             "translation": "away",
             "definition": "",
@@ -1682,22 +1298,6 @@
             "image": ""
         },
         {
-            "word": "arka plan",
-            "translation": "background",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "geriye doğru",
-            "translation": "backwards",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
             "word": "bakteriler",
             "translation": "bacteria",
             "definition": "",
@@ -1708,14 +1308,6 @@
         {
             "word": "kötü",
             "translation": "bad",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "kötü",
-            "translation": "badly",
             "definition": "",
             "etymology": "",
             "example": "",
@@ -1826,30 +1418,6 @@
             "image": ""
         },
         {
-            "word": "temel",
-            "translation": "basic",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "temel olarak",
-            "translation": "basically",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "temel",
-            "translation": "basis",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
             "word": "basketbol",
             "translation": "basketball",
             "definition": "",
@@ -1860,14 +1428,6 @@
         {
             "word": "banyo",
             "translation": "bath",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "banyo",
-            "translation": "bathroom",
             "definition": "",
             "etymology": "",
             "example": "",
@@ -1954,24 +1514,8 @@
             "image": ""
         },
         {
-            "word": "haline gelmek",
-            "translation": "become",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
             "word": "yatak",
             "translation": "bed",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "yatak odası",
-            "translation": "bedroom",
             "definition": "",
             "etymology": "",
             "example": "",
@@ -2034,22 +1578,6 @@
             "image": ""
         },
         {
-            "word": "davranmak",
-            "translation": "behave",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "davranış",
-            "translation": "behaviour",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
             "word": "arka",
             "translation": "behind",
             "definition": "",
@@ -2084,14 +1612,6 @@
         {
             "word": "zil",
             "translation": "bell",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "ait olmak",
-            "translation": "belong",
             "definition": "",
             "etymology": "",
             "example": "",
@@ -2138,32 +1658,8 @@
             "image": ""
         },
         {
-            "word": "en iyi",
-            "translation": "best",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
             "word": "bahis",
             "translation": "bet",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "daha iyi",
-            "translation": "better",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "arasında",
-            "translation": "between",
             "definition": "",
             "etymology": "",
             "example": "",
@@ -2194,14 +1690,6 @@
             "image": ""
         },
         {
-            "word": "bisiklet",
-            "translation": "bike",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
             "word": "fatura",
             "translation": "bill",
             "definition": "",
@@ -2212,14 +1700,6 @@
         {
             "word": "milyar",
             "translation": "billion",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "çöp kutusu",
-            "translation": "bin",
             "definition": "",
             "etymology": "",
             "example": "",
@@ -2244,14 +1724,6 @@
         {
             "word": "doğum",
             "translation": "birth",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "doğum günü",
-            "translation": "birthday",
             "definition": "",
             "etymology": "",
             "example": "",
@@ -2292,14 +1764,6 @@
         {
             "word": "siyah",
             "translation": "black",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "suçlamak",
-            "translation": "blame",
             "definition": "",
             "etymology": "",
             "example": "",
@@ -2434,14 +1898,6 @@
             "image": ""
         },
         {
-            "word": "bot",
-            "translation": "boot",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
             "word": "sınır",
             "translation": "border",
             "definition": "",
@@ -2474,32 +1930,8 @@
             "image": ""
         },
         {
-            "word": "borç almak",
-            "translation": "borrow",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
             "word": "patron",
             "translation": "boss",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "ikisi birden",
-            "translation": "both",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "rahatsız etmek",
-            "translation": "bother",
             "definition": "",
             "etymology": "",
             "example": "",
@@ -2532,22 +1964,6 @@
         {
             "word": "kutu",
             "translation": "box",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "erkek çocuk",
-            "translation": "boy",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "erkek arkadaş",
-            "translation": "boyfriend",
             "definition": "",
             "etymology": "",
             "example": "",
@@ -2626,22 +2042,6 @@
             "image": ""
         },
         {
-            "word": "nefes almak",
-            "translation": "breathe",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "nefes alma",
-            "translation": "breathing",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
             "word": "gelin",
             "translation": "bride",
             "definition": "",
@@ -2652,14 +2052,6 @@
         {
             "word": "köprü",
             "translation": "bridge",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "kısa bilgi",
-            "translation": "brief",
             "definition": "",
             "etymology": "",
             "example": "",
@@ -2714,14 +2106,6 @@
             "image": ""
         },
         {
-            "word": "Erkek kardeş",
-            "translation": "brother",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
             "word": "kahverengi",
             "translation": "brown",
             "definition": "",
@@ -2748,14 +2132,6 @@
         {
             "word": "bütçe",
             "translation": "budget",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "inşa etmek",
-            "translation": "build",
             "definition": "",
             "etymology": "",
             "example": "",
@@ -2866,24 +2242,8 @@
             "image": ""
         },
         {
-            "word": "satın almak",
-            "translation": "buy",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
             "word": "ile",
             "translation": "by",
-            "definition": "",
-            "etymology": "",
-            "example": "",
-            "image": ""
-        },
-        {
-            "word": "güle güle",
-            "translation": "bye",
             "definition": "",
             "etymology": "",
             "example": "",

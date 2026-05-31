@@ -1,9 +1,10 @@
 from pathlib import Path
-from sqlalchemy import create_engine, Integer, String, DateTime
-from sqlalchemy.orm import DeclarativeBase, Mapped, mapped_column, sessionmaker
+from sqlalchemy import create_engine, Integer, String, DateTime, ForeignKey
+from sqlalchemy.orm import DeclarativeBase, Mapped, mapped_column, sessionmaker, relationship
 from datetime import datetime
 
-DB_PATH = Path(__file__).parent / "users.db"
+# Local user database — created on first run, never shipped with the app
+DB_PATH = Path(__file__).parent.parent / "users.db"
 engine = create_engine(f"sqlite:///{DB_PATH}")
 Session = sessionmaker(bind=engine)
 
@@ -19,8 +20,20 @@ class User(Base):
     username: Mapped[str] = mapped_column(String(100), unique=True)
     email: Mapped[str] = mapped_column(String(100), unique=True)
     password: Mapped[str] = mapped_column(String(256))
+    date_joined: Mapped[datetime] = mapped_column(DateTime, default=datetime.utcnow)
+
+    stats: Mapped[list["UserLanguageStats"]] = relationship("UserLanguageStats", back_populates="user")
+
+
+class UserLanguageStats(Base):
+    __tablename__ = "user_language_stats"
+
+    id: Mapped[int] = mapped_column(primary_key=True)
+    user_id: Mapped[int] = mapped_column(ForeignKey("users.id"))
+    language_id: Mapped[int] = mapped_column(Integer)
+    elo: Mapped[int] = mapped_column(Integer, default=1000)
     plays: Mapped[int] = mapped_column(Integer, default=0)
     wins: Mapped[int] = mapped_column(Integer, default=0)
     high_score: Mapped[int] = mapped_column(Integer, default=0)
-    elo: Mapped[int] = mapped_column(Integer, default=1000)
-    date_joined: Mapped[datetime] = mapped_column(DateTime, default=datetime.utcnow)
+
+    user: Mapped["User"] = relationship("User", back_populates="stats")

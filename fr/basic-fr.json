@@ -42,14 +42,6 @@
             "translation": "above"
         },
         {
-            "word": "à l'étranger",
-            "definition": "Dans un autre pays.",
-            "etymology": "",
-            "example": "",
-            "image": "",
-            "translation": "abroad"
-        },
-        {
             "word": "absolu",
             "definition": "Qui ne comporte aucune restriction.",
             "etymology": "",
@@ -186,14 +178,6 @@
             "translation": "acquire"
         },
         {
-            "word": "à travers",
-            "definition": "D'un côté à l'autre.",
-            "etymology": "",
-            "example": "",
-            "image": "",
-            "translation": "across"
-        },
-        {
             "word": "agir",
             "definition": "Faire quelque chose.",
             "etymology": "",
@@ -248,14 +232,6 @@
             "example": "",
             "image": "",
             "translation": "actual"
-        },
-        {
-            "word": "en fait",
-            "definition": "En réalité.",
-            "etymology": "",
-            "example": "",
-            "image": "",
-            "translation": "actually"
         },
         {
             "word": "pub",
@@ -378,28 +354,12 @@
             "translation": "adventure"
         },
         {
-            "word": "faire de la publicité",
-            "definition": "Promouvoir un produit.",
-            "etymology": "",
-            "example": "",
-            "image": "",
-            "translation": "advertise"
-        },
-        {
             "word": "publicité",
             "definition": "Moyen pour faire connaître un produit.",
             "etymology": "",
             "example": "",
             "image": "",
             "translation": "advertisement"
-        },
-        {
-            "word": "publicité (secteur)",
-            "definition": "Le secteur de la promotion commerciale.",
-            "etymology": "",
-            "example": "",
-            "image": "",
-            "translation": "advertising"
         },
         {
             "word": "conseil",
@@ -432,14 +392,6 @@
             "example": "",
             "image": "",
             "translation": "affect"
-        },
-        {
-            "word": "avoir les moyens",
-            "definition": "Pouvoir payer.",
-            "etymology": "",
-            "example": "",
-            "image": "",
-            "translation": "afford"
         },
         {
             "word": "effrayé",
@@ -514,14 +466,6 @@
             "translation": "agency"
         },
         {
-            "word": "ordre du jour",
-            "definition": "Liste des choses à faire.",
-            "etymology": "",
-            "example": "",
-            "image": "",
-            "translation": "agenda"
-        },
-        {
             "word": "agent",
             "definition": "Personne qui agit pour le compte d'une autre.",
             "etymology": "",
@@ -538,22 +482,6 @@
             "translation": "aggressive"
         },
         {
-            "word": "il y a",
-            "definition": "Dans le passé.",
-            "etymology": "",
-            "example": "",
-            "image": "",
-            "translation": "ago"
-        },
-        {
-            "word": "accepter / être d'accord",
-            "definition": "Partager la même opinion.",
-            "etymology": "",
-            "example": "",
-            "image": "",
-            "translation": "agree"
-        },
-        {
             "word": "accord",
             "definition": "Entente entre plusieurs personnes.",
             "etymology": "",
@@ -562,36 +490,12 @@
             "translation": "agreement"
         },
         {
-            "word": "ah",
-            "definition": "Exclamation exprimant la surprise ou la compréhension.",
-            "etymology": "",
-            "example": "",
-            "image": "",
-            "translation": "ah"
-        },
-        {
-            "word": "en avant",
-            "definition": "Plus loin devant.",
-            "etymology": "",
-            "example": "",
-            "image": "",
-            "translation": "ahead"
-        },
-        {
             "word": "aide",
             "definition": "Soutien apporté à quelqu'un.",
             "etymology": "",
             "example": "",
             "image": "",
             "translation": "aid"
-        },
-        {
-            "word": "but / viser",
-            "definition": "Objectif à atteindre.",
-            "etymology": "",
-            "example": "",
-            "image": "",
-            "translation": "aim"
         },
         {
             "word": "air",
@@ -608,14 +512,6 @@
             "example": "",
             "image": "",
             "translation": "aircraft"
-        },
-        {
-            "word": "compagnie aérienne",
-            "definition": "Entreprise de transport aérien.",
-            "etymology": "",
-            "example": "",
-            "image": "",
-            "translation": "airline"
         },
         {
             "word": "aéroport",
@@ -706,14 +602,6 @@
             "translation": "alone"
         },
         {
-            "word": "le long de",
-            "definition": "En suivant le bord de.",
-            "etymology": "",
-            "example": "",
-            "image": "",
-            "translation": "along"
-        },
-        {
             "word": "déjà",
             "definition": "Avant le moment présent.",
             "etymology": "",
@@ -744,14 +632,6 @@
             "example": "",
             "image": "",
             "translation": "alternative"
-        },
-        {
-            "word": "bien que",
-            "definition": "Malgré le fait que.",
-            "etymology": "",
-            "example": "",
-            "image": "",
-            "translation": "although"
         },
         {
             "word": "toujours",
@@ -834,14 +714,6 @@
             "translation": "ancient"
         },
         {
-            "word": "et",
-            "definition": "Mot liant deux éléments.",
-            "etymology": "",
-            "example": "",
-            "image": "",
-            "translation": "and"
-        },
-        {
             "word": "colère",
             "definition": "Émotion forte de mécontentement.",
             "etymology": "",
@@ -856,22 +728,6 @@
             "example": "",
             "image": "",
             "translation": "angle"
-        },
-        {
-            "word": "avec colère",
-            "definition": "D'une manière fâchée.",
-            "etymology": "",
-            "example": "",
-            "image": "",
-            "translation": "angrily"
-        },
-        {
-            "word": "en colère",
-            "definition": "Qui éprouve de la colère.",
-            "etymology": "",
-            "example": "",
-            "image": "",
-            "translation": "angry"
         },
         {
             "word": "animal",
@@ -946,14 +802,6 @@
             "translation": "annual"
         },
         {
-            "word": "un autre",
-            "definition": "Une autre chose ou personne.",
-            "etymology": "",
-            "example": "",
-            "image": "",
-            "translation": "another"
-        },
-        {
             "word": "réponse",
             "definition": "Ce que l'on dit pour répondre à une question.",
             "etymology": "",
@@ -970,60 +818,12 @@
             "translation": "anxious"
         },
         {
-            "word": "n'importe quel",
-            "definition": "Au choix, sans distinction.",
-            "etymology": "",
-            "example": "",
-            "image": "",
-            "translation": "any"
-        },
-        {
-            "word": "plus du tout",
-            "definition": "Indique la fin d'une action.",
-            "etymology": "",
-            "example": "",
-            "image": "",
-            "translation": "any more"
-        },
-        {
-            "word": "n'importe qui",
-            "definition": "Quelle que soit la personne.",
-            "etymology": "",
-            "example": "",
-            "image": "",
-            "translation": "anybody"
-        },
-        {
             "word": "quelqu'un",
             "definition": "Une personne indéterminée.",
             "etymology": "",
             "example": "",
             "image": "",
             "translation": "anyone"
-        },
-        {
-            "word": "n'importe quoi",
-            "definition": "Quelle que soit la chose.",
-            "etymology": "",
-            "example": "",
-            "image": "",
-            "translation": "anything"
-        },
-        {
-            "word": "de toute façon",
-            "definition": "Dans tous les cas.",
-            "etymology": "",
-            "example": "",
-            "image": "",
-            "translation": "anyway"
-        },
-        {
-            "word": "n'importe où",
-            "definition": "Quel que soit le lieu.",
-            "etymology": "",
-            "example": "",
-            "image": "",
-            "translation": "anywhere"
         },
         {
             "word": "séparé",
@@ -1074,14 +874,6 @@
             "translation": "apparently"
         },
         {
-            "word": "appel / attrait",
-            "definition": "Demande pressante ou pouvoir d'attraction.",
-            "etymology": "",
-            "example": "",
-            "image": "",
-            "translation": "appeal"
-        },
-        {
             "word": "apparaître",
             "definition": "Devenir visible.",
             "etymology": "",
@@ -1112,14 +904,6 @@
             "example": "",
             "image": "",
             "translation": "application"
-        },
-        {
-            "word": "appliquer / postuler",
-            "definition": "Mettre en pratique ou poser sa candidature.",
-            "etymology": "",
-            "example": "",
-            "image": "",
-            "translation": "apply"
         },
         {
             "word": "rendez-vous",
@@ -1208,14 +992,6 @@
             "example": "",
             "image": "",
             "translation": "area"
-        },
-        {
-            "word": "se disputer / argumenter",
-            "definition": "Avoir un désaccord verbal.",
-            "etymology": "",
-            "example": "",
-            "image": "",
-            "translation": "argue"
         },
         {
             "word": "argument",
@@ -1354,14 +1130,6 @@
             "translation": "artistic"
         },
         {
-            "word": "comme / en tant que",
-            "definition": "Sert à comparer ou désigner une fonction.",
-            "etymology": "",
-            "example": "",
-            "image": "",
-            "translation": "as"
-        },
-        {
             "word": "honteux",
             "definition": "Qui éprouve de la honte.",
             "etymology": "",
@@ -1408,14 +1176,6 @@
             "example": "",
             "image": "",
             "translation": "assessment"
-        },
-        {
-            "word": "devoir / mission",
-            "definition": "Tâche donnée à accomplir.",
-            "etymology": "",
-            "example": "",
-            "image": "",
-            "translation": "assignment"
         },
         {
             "word": "assister",
@@ -1466,14 +1226,6 @@
             "translation": "assume"
         },
         {
-            "word": "à",
-            "definition": "Indique le lieu ou le temps.",
-            "etymology": "",
-            "example": "",
-            "image": "",
-            "translation": "at"
-        },
-        {
             "word": "athlète",
             "definition": "Sportif de haut niveau.",
             "etymology": "",
@@ -1514,14 +1266,6 @@
             "translation": "attempt"
         },
         {
-            "word": "assister à",
-            "definition": "Être présent à un événement.",
-            "etymology": "",
-            "example": "",
-            "image": "",
-            "translation": "attend"
-        },
-        {
             "word": "attention",
             "definition": "Action de concentrer son esprit.",
             "etymology": "",
@@ -1560,14 +1304,6 @@
             "example": "",
             "image": "",
             "translation": "attractive"
-        },
-        {
-            "word": "public / audience",
-            "definition": "Ensemble des spectateurs ou auditeurs.",
-            "etymology": "",
-            "example": "",
-            "image": "",
-            "translation": "audience"
         },
         {
             "word": "août",
@@ -1634,14 +1370,6 @@
             "translation": "avoid"
         },
         {
-            "word": "prix / récompense",
-            "definition": "Ce qui est donné pour un mérite.",
-            "etymology": "",
-            "example": "",
-            "image": "",
-            "translation": "award"
-        },
-        {
             "word": "conscient",
             "definition": "Qui a connaissance de quelque chose.",
             "etymology": "",
@@ -1672,30 +1400,6 @@
             "example": "",
             "image": "",
             "translation": "baby"
-        },
-        {
-            "word": "dos / arrière",
-            "definition": "Partie postérieure.",
-            "etymology": "",
-            "example": "",
-            "image": "",
-            "translation": "back"
-        },
-        {
-            "word": "arrière-plan / contexte",
-            "definition": "Le fond ou le contexte.",
-            "etymology": "",
-            "example": "",
-            "image": "",
-            "translation": "background"
-        },
-        {
-            "word": "en arrière",
-            "definition": "Vers le dos.",
-            "etymology": "",
-            "example": "",
-            "image": "",
-            "translation": "backwards"
         },
         {
             "word": "bactérie",
@@ -1842,14 +1546,6 @@
             "translation": "basically"
         },
         {
-            "word": "base / fondement",
-            "definition": "Principe sur lequel repose une chose.",
-            "etymology": "",
-            "example": "",
-            "image": "",
-            "translation": "basis"
-        },
-        {
             "word": "basket-ball",
             "definition": "Sport d'équipe se jouant avec un ballon et un panier.",
             "etymology": "",
@@ -1864,14 +1560,6 @@
             "example": "",
             "image": "",
             "translation": "bath"
-        },
-        {
-            "word": "salle de bain",
-            "definition": "Pièce pour se laver.",
-            "etymology": "",
-            "example": "",
-            "image": "",
-            "translation": "bathroom"
         },
         {
             "word": "batterie",
@@ -1944,14 +1632,6 @@
             "example": "",
             "image": "",
             "translation": "beauty"
-        },
-        {
-            "word": "parce que",
-            "definition": "Pour la raison que.",
-            "etymology": "",
-            "example": "",
-            "image": "",
-            "translation": "because"
         },
         {
             "word": "devenir",
@@ -2034,14 +1714,6 @@
             "translation": "beginning"
         },
         {
-            "word": "se comporter",
-            "definition": "Agir d'une certaine manière.",
-            "etymology": "",
-            "example": "",
-            "image": "",
-            "translation": "behave"
-        },
-        {
             "word": "comportement",
             "definition": "Manière d'agir.",
             "etymology": "",
@@ -2056,14 +1728,6 @@
             "example": "",
             "image": "",
             "translation": "behind"
-        },
-        {
-            "word": "être (nom)",
-            "definition": "Créature vivante, nature d'une chose.",
-            "etymology": "",
-            "example": "",
-            "image": "",
-            "translation": "being"
         },
         {
             "word": "croyance",
@@ -2098,14 +1762,6 @@
             "translation": "belong"
         },
         {
-            "word": "en dessous",
-            "definition": "Plus bas que.",
-            "etymology": "",
-            "example": "",
-            "image": "",
-            "translation": "below"
-        },
-        {
             "word": "ceinture",
             "definition": "Bande servant à tenir un vêtement.",
             "etymology": "",
@@ -2120,14 +1776,6 @@
             "example": "",
             "image": "",
             "translation": "bend"
-        },
-        {
-            "word": "avantage",
-            "definition": "Effet positif ou profit.",
-            "etymology": "",
-            "example": "",
-            "image": "",
-            "translation": "benefit"
         },
         {
             "word": "plié",
@@ -2194,14 +1842,6 @@
             "translation": "big"
         },
         {
-            "word": "vélo / moto",
-            "definition": "Bicyclette ou motocyclette.",
-            "etymology": "",
-            "example": "",
-            "image": "",
-            "translation": "bike"
-        },
-        {
             "word": "facture",
             "definition": "Document indiquant une somme à payer.",
             "etymology": "",
@@ -2248,14 +1888,6 @@
             "example": "",
             "image": "",
             "translation": "birth"
-        },
-        {
-            "word": "anniversaire (naissance)",
-            "definition": "Le jour de la naissance.",
-            "etymology": "",
-            "example": "",
-            "image": "",
-            "translation": "birthday"
         },
         {
             "word": "biscuit",
@@ -2418,14 +2050,6 @@
             "translation": "bond"
         },
         {
-            "word": "os",
-            "definition": "Élément solide du squelette.",
-            "etymology": "",
-            "example": "",
-            "image": "",
-            "translation": "bone"
-        },
-        {
             "word": "livre",
             "definition": "Ensemble de pages imprimées.",
             "etymology": "",
@@ -2466,14 +2090,6 @@
             "translation": "boring"
         },
         {
-            "word": "né",
-            "definition": "Participe passé du verbe naître.",
-            "etymology": "",
-            "example": "",
-            "image": "",
-            "translation": "born"
-        },
-        {
             "word": "emprunter",
             "definition": "Recevoir à condition de rendre.",
             "etymology": "",
@@ -2488,14 +2104,6 @@
             "example": "",
             "image": "",
             "translation": "boss"
-        },
-        {
-            "word": "les deux",
-            "definition": "L'un et l'autre.",
-            "etymology": "",
-            "example": "",
-            "image": "",
-            "translation": "both"
         },
         {
             "word": "déranger",
@@ -2544,14 +2152,6 @@
             "example": "",
             "image": "",
             "translation": "boy"
-        },
-        {
-            "word": "petit ami",
-            "definition": "Partenaire amoureux.",
-            "etymology": "",
-            "example": "",
-            "image": "",
-            "translation": "boyfriend"
         },
         {
             "word": "cerveau",
@@ -2770,22 +2370,6 @@
             "translation": "building"
         },
         {
-            "word": "balle (arme)",
-            "definition": "Projectile d'une arme à feu.",
-            "etymology": "",
-            "example": "",
-            "image": "",
-            "translation": "bullet"
-        },
-        {
-            "word": "groupe / bouquet",
-            "definition": "Un certain nombre de choses réunies.",
-            "etymology": "",
-            "example": "",
-            "image": "",
-            "translation": "bunch"
-        },
-        {
             "word": "brûler",
             "definition": "Consumer par le feu.",
             "etymology": "",
@@ -2824,14 +2408,6 @@
             "example": "",
             "image": "",
             "translation": "business"
-        },
-        {
-            "word": "homme d'affaires",
-            "definition": "Personne travaillant dans le commerce ou la finance.",
-            "etymology": "",
-            "example": "",
-            "image": "",
-            "translation": "businessman"
         },
         {
             "word": "occupé",
@@ -2880,14 +2456,6 @@
             "example": "",
             "image": "",
             "translation": "by"
-        },
-        {
-            "word": "au revoir",
-            "definition": "Formule de salutation en partant.",
-            "etymology": "",
-            "example": "",
-            "image": "",
-            "translation": "bye"
         }
     ]
 }
