@@ -216,10 +216,7 @@ def hangman_game(words: dict, lang_name: str, alphabet: set, word: str) -> tuple
             print(construct_showing_word(word, revealed), "\tGuessed:", sorted(revealed))
 
     won = not remaining
-    if won:
-        msg = f"Correct! '{word}' — {points} points" if points > 0 else f"Correct! '{word}' — 0 points"
-        print(msg)
-    else:
+    if not won:
         print(f"\nThe word was: '{word}'")
 
     word_information(word, words)
@@ -311,6 +308,9 @@ def main():
 
         final_pts    = int(points * multiplier)
         total_points += final_pts
+
+        if won:
+            print(f"Correct! '{word}' — {final_pts} points" if final_pts > 0 else f"Correct! '{word}' — 0 points")
 
         elo_delta = difr(stats.elo, word_elo, 1.0 if won else 0.0, K_FACTOR)
 
