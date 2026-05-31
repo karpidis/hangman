@@ -326,12 +326,12 @@ def main():
             break
 
         while True:
-            choice = input("\nEnter to play again  |  s = stats  |  1 = quit: ").strip().lower()
-            if choice == "":
+            action = input("\nEnter to play again  |  s = stats  |  1 = quit: ").strip().lower()
+            if action == "":
                 break
-            elif choice == "s":
+            elif action == "s":
                 show_stats(user, db_session, lang_id, lang_name, total_points, session_streak)
-            elif choice == "1":
+            elif action == "1":
                 db_session.close()
                 print(f"Thanks for playing, {user.username}!")
                 return
