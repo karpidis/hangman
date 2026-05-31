@@ -242,6 +242,21 @@ def input_letter(lang_name: str, alphabet: set) -> str:
 
 # ── Main ──────────────────────────────────────────────────────────────────────
 
+def show_stats(user, db_session, lang_id, lang_name, total_points, session_streak):
+    """Print current language stats."""
+    stats = get_or_create_language_stats(user, db_session, lang_id)
+    print(f"\n{'─' * 40}")
+    print(f"  Player      : {user.username}")
+    print(f"  Language    : {lang_name}")
+    print(f"  {'─' * 36}")
+    print(f"  ELO         : {stats.elo}")
+    print(f"  High Score  : {stats.high_score}")
+    print(f"  Best Streak : {stats.best_streak} words")
+    print(f"  Session     : {total_points} pts  |  streak {session_streak}")
+    print(f"{'─' * 40}\n")
+    return stats
+
+
 def main():
     languages = load_languages()
     user, db_session = login_or_register()
@@ -258,28 +273,44 @@ def main():
     words    = load_words(lang_code, lang_name, dictionary["id"])
     alphabet = get_alphabet(lang_id)
 
-    # Show per-language stats for this session
-    stats = get_or_create_language_stats(user, db_session, lang_id)
-    print(f"\n{lang_name} stats — ELO: {stats.elo}  Wins: {stats.wins}  Plays: {stats.plays}  Best: {stats.high_score}\n")
+    total_points    = 0
+    losses          = 0
+    session_streak  = 0
+    MAX_LOSSES      = 3
+    stats = show_stats(user, db_session, lang_id, lang_name, total_points, session_streak)
 
-    total_points = 0
     while True:
         points, won, word, wrong_guesses = hangman_game(words, lang_name, alphabet)
         total_points += points
 
+        if won:
+            session_streak += 1
+        else:
+            losses += 1
+
         word_elo  = get_word_elo(lang_id, word)
         elo_delta = difr(stats.elo, word_elo, 1.0 if won else 0.0, K_FACTOR)
 
-        update_stats(user, db_session, lang_id, won=won, score=total_points, elo_delta=elo_delta)
+        update_stats(user, db_session, lang_id, score=total_points, streak=session_streak, elo_delta=elo_delta)
         record_game(user.id, lang_id, dictionary["id"], word, wrong_guesses, points, revealed=not won)
 
-        # Refresh stats after update
         stats = get_or_create_language_stats(user, db_session, lang_id)
-
         print(f"\nTotal points: {total_points}  |  ELO: {stats.elo} ({'+' if elo_delta >= 0 else ''}{round(elo_delta)})")
 
-        if input("\nPress Enter to play again or 1 to quit: ").strip() == "1":
+        if losses >= MAX_LOSSES:
+            print(f"\nGame over — {MAX_LOSSES} words not guessed. Final score: {total_points}  |  Streak: {session_streak}")
             break
+
+        while True:
+            choice = input("\nEnter to play again  |  s = stats  |  1 = quit: ").strip().lower()
+            if choice == "":
+                break
+            elif choice == "s":
+                show_stats(user, db_session, lang_id, lang_name, total_points, session_streak)
+            elif choice == "1":
+                db_session.close()
+                print(f"Thanks for playing, {user.username}!")
+                return
 
     db_session.close()
     print(f"Thanks for playing, {user.username}!")

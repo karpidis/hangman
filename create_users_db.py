@@ -25,9 +25,8 @@ def create_users_db():
             user_id     INTEGER NOT NULL,
             language_id INTEGER NOT NULL,
             elo         INTEGER NOT NULL DEFAULT 1000,
-            plays       INTEGER NOT NULL DEFAULT 0,
-            wins        INTEGER NOT NULL DEFAULT 0,
             high_score  INTEGER NOT NULL DEFAULT 0,
+            best_streak INTEGER NOT NULL DEFAULT 0,
             FOREIGN KEY (user_id) REFERENCES users(id),
             UNIQUE (user_id, language_id)
         );

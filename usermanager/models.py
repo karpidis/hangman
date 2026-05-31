@@ -32,8 +32,7 @@ class UserLanguageStats(Base):
     user_id: Mapped[int] = mapped_column(ForeignKey("users.id"))
     language_id: Mapped[int] = mapped_column(Integer)
     elo: Mapped[int] = mapped_column(Integer, default=1000)
-    plays: Mapped[int] = mapped_column(Integer, default=0)
-    wins: Mapped[int] = mapped_column(Integer, default=0)
     high_score: Mapped[int] = mapped_column(Integer, default=0)
+    best_streak: Mapped[int] = mapped_column(Integer, default=0)
 
     user: Mapped["User"] = relationship("User", back_populates="stats")

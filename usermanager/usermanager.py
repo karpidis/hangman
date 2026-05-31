@@ -47,14 +47,13 @@ def get_or_create_language_stats(user, session, language_id: int) -> UserLanguag
     return stats
 
 
-def update_stats(user, session, language_id: int, won: bool, score: int, elo_delta: float = 0.0):
-    """Update per-language stats after a round."""
+def update_stats(user, session, language_id: int, score: int, streak: int, elo_delta: float = 0.0):
+    """Update per-language stats after a session."""
     stats = get_or_create_language_stats(user, session, language_id)
-    stats.plays += 1
-    if won:
-        stats.wins += 1
     if score > stats.high_score:
         stats.high_score = score
+    if streak > stats.best_streak:
+        stats.best_streak = streak
     stats.elo = max(0, round(stats.elo + elo_delta))
     session.commit()
 
@@ -85,9 +84,8 @@ def _login(user, session):
             # Show stats across all languages the user has played
             all_stats = session.query(UserLanguageStats).filter_by(user_id=user.id).all()
             if all_stats:
-                total_plays = sum(s.plays for s in all_stats)
-                total_wins  = sum(s.wins for s in all_stats)
-                print(f"Total plays: {total_plays}  |  Total wins: {total_wins}")
+                best_elo = max(s.elo for s in all_stats)
+                print(f"Best ELO across all languages: {best_elo}")
             print()
             return
         remaining = 2 - attempt
