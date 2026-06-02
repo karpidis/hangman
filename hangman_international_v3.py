@@ -30,8 +30,8 @@ HANGMAN_STAGES = [
 # ── Database helpers ──────────────────────────────────────────────────────────
 
 def main_db():
-    con = sqlite3.connect(MAIN_DB)
-    con.row_factory = sqlite3.Row
+    con = sqlite3.connect(MAIN_DB) #import the main db. It contains all the languages, dictionaries and words metadata, as well as the word ELO ratings.
+    con.row_factory = sqlite3.Row # Access columns by name (row["username"]) instead of index (row[1])
     return con
 
 

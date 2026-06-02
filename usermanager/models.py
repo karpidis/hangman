@@ -36,3 +36,6 @@ class UserLanguageStats(Base):
     best_streak: Mapped[int] = mapped_column(Integer, default=0)
 
     user: Mapped["User"] = relationship("User", back_populates="stats")
+
+
+Base.metadata.create_all(engine)  # creates users.db tables on first run; safe to call every time
