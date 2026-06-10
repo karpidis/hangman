@@ -2,15 +2,16 @@ import sqlite3
 import json
 import os
 from random import choice
-
+from unicodedata import normalize, category
 from usermanager import login_or_register, update_stats
 from usermanager.usermanager import get_or_create_language_stats
 from elocalculator import difr
 
 BASE_DIR  = os.path.dirname(os.path.abspath(__file__))
-MAIN_DB   = os.path.join(BASE_DIR, "Main.db")   # ships with app — content only
-USERS_DB  = os.path.join(BASE_DIR, "users.db")  # local — created on first run
-DB_ROOT   = os.path.join(BASE_DIR, "db")
+DB_ROOT   = os.path.join(BASE_DIR, "db") # language-specific dictionaries stored here as {lang_code}/{lang_name}.db
+MAIN_DB   = os.path.join(DB_ROOT, "Main.db")   # ships with app — content only
+USERS_DB  = os.path.join(DB_ROOT, "users.db")  # local — created on first run
+
 
 K_FACTOR = 20
 
@@ -98,6 +99,23 @@ def get_alphabet(language_id: int) -> set:
     con.close()
     return set(json.loads(row["alphabet"]))
 
+def remove_accents(text: str, lang: str) -> str:
+    """Return text in the form used for letter comparisons."""
+
+    text = text.lower()
+
+    if lang == "el":
+        normalised_text = normalize("NFD", text.lower())
+
+        text = "".join(
+            character
+            for character in normalised_text
+            if category(character) != "Mn"
+        )
+
+        text = text.replace("ς", "σ")
+
+    return text
 
 def points_multiplier(word_elo: int) -> float:
     """Return score multiplier based on word difficulty (every 200 ELO = +0.5x)."""
@@ -190,11 +208,16 @@ def hangman_game(words: dict, lang_name: str, alphabet: set, word: str) -> tuple
     """Returns (points, won, word, wrong_guesses)."""
     points        = 70
     wrong_guesses = 0
-    revealed      = {word[0], word[-1]}
-    remaining     = set(word) - revealed
+    normalised_word = remove_accents(word, lang_name)
 
+    revealed = {
+        normalised_word[0],
+        normalised_word[-1],
+    }
+
+    remaining = set(normalised_word) - revealed
     print(HANGMAN_STAGES[wrong_guesses])
-    print(construct_showing_word(word, revealed), "\tGuessed:", sorted(revealed))
+    print(construct_showing_word(word, revealed, lang_name), "\tGuessed:", sorted(revealed))
 
     while points > 0 and remaining:
         letter = input_letter(lang_name, alphabet)
@@ -203,17 +226,17 @@ def hangman_game(words: dict, lang_name: str, alphabet: set, word: str) -> tuple
             remaining.discard(letter)
             revealed.add(letter)
             print(HANGMAN_STAGES[wrong_guesses])
-            print(construct_showing_word(word, revealed), "\tGuessed:", sorted(revealed))
+            print(construct_showing_word(word, revealed, lang_name), "\tGuessed:", sorted(revealed))
         elif letter in revealed:
             print(f"'{letter}' is already revealed.")
             print(HANGMAN_STAGES[wrong_guesses])
-            print(construct_showing_word(word, revealed), "\tGuessed:", sorted(revealed))
+            print(construct_showing_word(word, revealed, lang_name), "\tGuessed:", sorted(revealed))
         else:
             wrong_guesses += 1
             points -= 10
             print(f"'{letter}' is not in the word.")
             print(HANGMAN_STAGES[wrong_guesses])
-            print(construct_showing_word(word, revealed), "\tGuessed:", sorted(revealed))
+            print(construct_showing_word(word, revealed, lang_name), "\tGuessed:", sorted(revealed))
 
     won = not remaining
     if not won:
@@ -223,9 +246,11 @@ def hangman_game(words: dict, lang_name: str, alphabet: set, word: str) -> tuple
     return points, won, word, wrong_guesses
 
 
-def construct_showing_word(word: str, revealed: set) -> str:
-    return " ".join(letter if letter in revealed else "_" for letter in word)
-
+def construct_showing_word(word: str, revealed: set, lang: str) -> str:
+    return " ".join(
+        letter if remove_accents(letter, lang) in revealed else "_"
+        for letter in word
+    )
 
 def word_information(word: str, glossary: dict):
     info = glossary.get(word, {})

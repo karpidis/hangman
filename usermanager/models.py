@@ -4,7 +4,7 @@ from sqlalchemy.orm import DeclarativeBase, Mapped, mapped_column, sessionmaker,
 from datetime import datetime
 
 # Local user database — created on first run, never shipped with the app
-DB_PATH = Path(__file__).parent.parent / "users.db"
+DB_PATH = Path(__file__).resolve().parent.parent / "db" / "users.db"
 engine = create_engine(f"sqlite:///{DB_PATH}")
 Session = sessionmaker(bind=engine)
 
