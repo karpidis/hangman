@@ -104,7 +104,7 @@ def remove_accents(text: str, lang: str) -> str:
 
     text = text.lower()
 
-    if lang == "el":
+    if lang == "Greek":
         normalised_text = normalize("NFD", text.lower())
 
         text = "".join(
@@ -246,9 +246,9 @@ def hangman_game(words: dict, lang_name: str, alphabet: set, word: str) -> tuple
     return points, won, word, wrong_guesses
 
 
-def construct_showing_word(word: str, revealed: set, lang: str) -> str:
+def construct_showing_word(word: str, revealed: set, lang_name: str) -> str:
     return " ".join(
-        letter if remove_accents(letter, lang) in revealed else "_"
+        letter if remove_accents(letter, lang_name) in revealed else "_"
         for letter in word
     )
 
@@ -273,8 +273,9 @@ def input_letter(lang_name: str, alphabet: set) -> str:
         if len(letter) != 1:
             print("Enter one letter only.")
             continue
-        if letter in alphabet:
-            return letter
+        normalised = remove_accents(letter, lang_name)
+        if normalised in alphabet:
+            return normalised
         print(f"'{letter}' is not a valid letter in the {lang_name} alphabet.")
 
 
