@@ -15,8 +15,8 @@ def log(msg):
     print(msg, file=sys.stderr)
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-MAIN_DB = os.path.join(BASE_DIR, "Main.db")
 DB_ROOT = os.path.join(BASE_DIR, "db")
+MAIN_DB = os.path.join(DB_ROOT, "Main.db")
 
 
 class DBEditor:
