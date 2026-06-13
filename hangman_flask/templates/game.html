@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hangman — {{ lang_name }}</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/game.css') }}">
+</head>
+<body class="game-page">
+  <div class="game-ui">
+
+    <div class="top-bar">
+      <a href="/" class="btn-wood small">&#8962; Home</a>
+      <h1 class="game-title">HANGMAN</h1>
+      <div class="top-right">
+        <span class="badge-wood">{{ lang_name }}</span>
+        <span class="badge-wood">{{ username }}</span>
+      </div>
+    </div>
+
+    <div class="main-area">
+
+      <div class="side-panel left-panel">
+        <div class="stat-block">
+          <div class="stat-label">streak</div>
+          <div class="stat-value" id="streak">{{ streak }}</div>
+        </div>
+        <div class="stat-block">
+          <div class="stat-label">total pts</div>
+          <div class="stat-value" id="total-pts">{{ total_pts }}</div>
+        </div>
+        <div class="stat-block">
+          <div class="stat-label">this word</div>
+          <div class="stat-value" id="word-pts">{{ points }}</div>
+        </div>
+      </div>
+
+      <div class="center-panel">
+        <div class="parchment">
+          <div class="word-tiles" id="word-tiles">
+            {% for letter in display %}
+            <div class="tile {% if letter != '_' %}tile-revealed{% endif %}">
+              {{ letter if letter != '_' else '' }}
+            </div>
+            {% endfor %}
+          </div>
+
+          <div class="word-result {% if won %}win{% elif game_over %}lose{% endif %}" id="result-msg">
+            {% if won %}Well done!{% elif game_over %}Game over!{% endif %}
+          </div>
+
+          <div class="wrong-letters" id="wrong-letters">
+            {% if wrong %}Wrong: {% for w in wrong %}<span class="wrong-letter">{{ w }}</span>{% endfor %}{% endif %}
+          </div>
+        </div>
+
+        {% if not game_over and not won %}
+        <div class="input-row" id="input-row">
+          <input type="text" id="letter-input" maxlength="1"
+                 class="letter-input" placeholder="type a letter"
+                 autocomplete="off" autofocus>
+        </div>
+        {% endif %}
+
+        {% if won and not game_over %}
+        <form action="/next_word" method="POST" style="text-align:center;margin-top:16px" id="next-form">
+          <button type="submit" class="btn-wood">Next word &#9658;</button>
+        </form>
+        {% endif %}
+
+        {% if game_over %}
+        <div style="text-align:center;margin-top:20px">
+          <p class="final-score">Final score: {{ total_pts }} pts &nbsp;|&nbsp; Streak: {{ streak }}</p>
+          <a href="/" class="btn-wood">Play again</a>
+        </div>
+        {% endif %}
+      </div>
+
+      <div class="side-panel right-panel">
+        <div class="stat-label" style="color:#f5deb3">lives</div>
+        <div class="hearts" id="hearts">
+          {% for i in range(max_losses) %}
+          <div class="heart {% if i >= lives_left %}heart-lost{% endif %}">&#9829;</div>
+          {% endfor %}
+        </div>
+        <div class="wrong-count" id="wrong-count">{{ wrong|length }} wrong</div>
+      </div>
+
+    </div>
+  </div>
+
+  <script>
+    const input = document.getElementById('letter-input');
+    if (input) {
+      input.addEventListener('input', function() {
+        const letter = input.value.trim();
+        if (letter.length === 1) {
+          input.value = '';
+          sendGuess(letter);
+        }
+      });
+    }
+
+    function sendGuess(letter) {
+      fetch('/guess', {
+        method: 'POST',
+        headers: {'Content-Type': 'application/json'},
+        body: JSON.stringify({letter: letter})
+      })
+      .then(r => r.json())
+      .then(data => {
+        if (data.status === 'already_guessed') { flash('Already guessed!'); return; }
+        if (data.error) return;
+
+        updateTiles(data.display);
+        updateWrong(data.wrong);
+        updateHearts(data.lives_left);
+        document.getElementById('word-pts').textContent  = data.points;
+        document.getElementById('total-pts').textContent = data.total_pts;
+        document.getElementById('streak').textContent    = data.streak;
+
+        if (data.won) {
+          showResult('Well done! +' + data.points + ' pts', 'win');
+          if (input) input.disabled = true;
+          const inputRow = document.getElementById('input-row');
+          if (inputRow) inputRow.style.display = 'none';
+          document.querySelector('.center-panel').insertAdjacentHTML('beforeend',
+            '<form action="/next_word" method="POST" style="text-align:center;margin-top:16px">' +
+            '<button type="submit" class="btn-wood">Next word &#9658;</button></form>');
+        } else if (data.game_over) {
+          showResult('Game over!', 'lose');
+          if (input) input.disabled = true;
+          const inputRow = document.getElementById('input-row');
+          if (inputRow) inputRow.style.display = 'none';
+          setTimeout(() => location.reload(), 2000);
+        }
+      });
+    }
+
+    function updateTiles(display) {
+      const container = document.getElementById('word-tiles');
+      container.innerHTML = '';
+      display.forEach(letter => {
+        const div = document.createElement('div');
+        div.className = 'tile' + (letter !== '_' ? ' tile-revealed' : '');
+        div.textContent = letter !== '_' ? letter : '';
+        container.appendChild(div);
+      });
+    }
+
+    function updateWrong(wrong) {
+      const el = document.getElementById('wrong-letters');
+      el.innerHTML = wrong.length ? 'Wrong: ' + wrong.map(w =>
+        `<span class="wrong-letter">${w}</span>`).join('') : '';
+      document.getElementById('wrong-count').textContent = wrong.length + ' wrong';
+    }
+
+    function updateHearts(livesLeft) {
+      document.querySelectorAll('.heart').forEach((h, i) => {
+        h.classList.toggle('heart-lost', i >= livesLeft);
+      });
+    }
+
+    function showResult(msg, cls) {
+      const el = document.getElementById('result-msg');
+      el.textContent = msg;
+      el.className = 'word-result ' + (cls || '');
+    }
+
+    function flash(msg) {
+      const el = document.getElementById('result-msg');
+      const old = el.textContent;
+      el.textContent = msg;
+      setTimeout(() => { if (el.textContent === msg) el.textContent = old; }, 1200);
+    }
+  </script>
+</body>
+</html>
